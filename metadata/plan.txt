@@ -1,0 +1,55 @@
+Based on the inspection of the current website, app description, screenshots, and app URL, here is a detailed plan to revamp the website. The plan focuses on updating content to reflect the app's latest features (particularly the new "Health Conditions & Protocols" with 400+ conditions), replacing placeholder images with actual app screenshots, improving user engagement, and ensuring alignment with the app's branding and functionality.
+
+Step-by-Step Roadmap
+High Priority Tasks
+Map actual screenshots to website sections
+
+Rationale: The website currently uses placeholder images with yellow backgrounds. Assign the 8 actual screenshots to appropriate sections (features, process "How The App Works", and gallery) based on their content to accurately represent app functionality.
+
+Update homepage hero section
+
+Rationale: Emphasize the new Health Conditions & Protocols feature in the main headline and description to highlight the app's comprehensive wellness capabilities and attract users interested in natural health solutions.
+
+Revise about section
+
+Rationale: Update the slider content to prominently feature the 400+ health conditions and medically researched protocols, aligning with the app's core value proposition of expert-reviewed, time-saving wellness tools.
+
+Update features section content and screenshots
+
+Rationale: Refine feature descriptions to match the app description's latest details (e.g., specify 400+ conditions, 140+ oils, 100+ blends) and replace placeholders with mapped screenshots to provide visual proof of functionality.
+
+Replace placeholder images in process section
+
+Rationale: The "How The App Works" section has placeholders for Download, Explore, Blend, and Track steps. Use relevant screenshots (e.g., onboarding for Download, oil profiles for Explore, blends for Blend, inventory for Track) to illustrate the user journey.
+
+Update gallery section
+
+Rationale: Replace placeholder images with actual screenshots and update captions to accurately describe features like guided onboarding, daily spotlights, advanced search, and notifications, enhancing credibility and user understanding.
+
+Update download section links
+
+Rationale: Change placeholder links (#0) to the actual App Store URL (https://apps.apple.com/us/app/essential-oils-guide-doterra/id6744415870) and add Google Play link if available, enabling direct downloads and improving conversion rates.
+
+Medium Priority Tasks
+Enhance user engagement
+
+Rationale: Add more testimonials based on app reviews or expand social media integration to foster community and encourage shares, increasing user retention and app discovery.
+
+Review and update footer content
+
+Rationale: Ensure branding consistency by updating the about text to match the app description, verify contact information, and confirm links to terms/privacy policies are current.
+
+Optimize images for web display
+
+Rationale: Resize and compress screenshots for faster loading while maintaining quality, improving site performance and user experience on mobile devices.
+
+Low Priority Tasks
+Test responsiveness and compatibility
+
+Rationale: Verify the updated site works across devices and browsers to maintain professional appearance and functionality.
+
+Final review for branding alignment
+
+Rationale: Conduct a comprehensive check to ensure all content, images, and links reflect the app's doTERRA® reference focus, wellness branding, and independent development by Appostu SRL.
+
+This roadmap prioritizes content accuracy and visual authenticity first, followed by engagement improvements and technical optimizations. Each step builds on the previous to create a cohesive, up-to-date website that effectively promotes the app's features.
