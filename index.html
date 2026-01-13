@@ -667,4 +667,28 @@
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
 
+    <script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/12.7.0/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/12.7.0/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyDkiPVcUU8Srx2YqAwj6_nxpdK7_kED3NI",
+    authDomain: "essential-oils-web.firebaseapp.com",
+    projectId: "essential-oils-web",
+    storageBucket: "essential-oils-web.firebasestorage.app",
+    messagingSenderId: "678471039852",
+    appId: "1:678471039852:web:5d94ab74eb4bed48a5d149",
+    measurementId: "G-Q3C7Y4V8E9"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
+
 </body>
