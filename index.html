@@ -621,6 +621,32 @@
   // Initialize Firebase
   const app = initializeApp(firebaseConfig);
   const analytics = getAnalytics(app);
+
+  // Make analytics available globally for link tracking
+  window.analytics = analytics;
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const links = document.querySelectorAll('a');
+    links.forEach(link => {
+        link.addEventListener('click', function(e) {
+            if (window.analytics) {
+                window.analytics.logEvent('link_click', {
+                    link_url: this.href,
+                    link_text: this.textContent.trim() || this.title || 'unknown'
+                });
+                // Special event for app download
+                if (this.href.includes('apps.apple.com') || this.classList.contains('badge-appstore')) {
+                    window.analytics.logEvent('app_download_click', {
+                        platform: 'ios',
+                        source: 'landing_page'
+                    });
+                }
+            }
+        });
+    });
+});
 </script>
 
 </body>
