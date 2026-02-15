@@ -49,12 +49,12 @@
     * ------------------------------------------------------ */
     var ssMenuOnScrolldown = function() {
         
-        var hdr= $('.s-header'),
-            hdrTop = $('.s-header').offset().top;
+        var hdr = $('.s-header'),
+            hdrHeight = hdr.outerHeight();
 
         $WIN.on('scroll', function() {
 
-            if ($WIN.scrollTop() > hdrTop) {
+            if ($WIN.scrollTop() > hdrHeight) {
                 hdr.addClass('sticky');
             }
             else {

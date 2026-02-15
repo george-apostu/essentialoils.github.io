@@ -6,21 +6,21 @@
     ================================================== -->
     <meta charset="utf-8">
     <!-- Basic Meta -->
-<title>Essential Oils Guide & Recipes – Aromatherapy, Blends & doTERRA Reference</title>
-<meta name="description" content="The ultimate app for essential oils: 140+ oil profiles, 400+ health conditions, 100+ diffuser recipes, inventory tracking, smart shopping lists, and daily wellness tips. Perfect for beginners and doTERRA enthusiasts. Download now!">
+<title>Essential Oils Guide & Recipes – Your Complete Natural Wellness Companion</title>
+<meta name="description" content="Discover 400+ health conditions, 140+ essential oils, and 100+ diffuser blends. Your complete guide to natural wellness with expert protocols and smart tracking. Download now!">
 
 <!-- Open Graph / Facebook, LinkedIn, Discord, etc. -->
-<meta property="og:title" content="Essential Oils Guide & Recipes – All-in-One Aromatherapy App">
-<meta property="og:description" content="Explore 140+ essential oils & 400+ conditions. Save blends, track collection, get recipes + safety tips. 4.9★ trusted by thousands. Start blending naturally!">
-<meta property="og:image" content="https://essentialoils.app/og-preview.jpg"> <!-- Upload this 1200x630 image -->
+<meta property="og:title" content="Essential Oils Guide & Recipes – Your Complete Natural Wellness Companion">
+<meta property="og:description" content="400+ health conditions • 140+ oils • 100+ blends. The ultimate aromatherapy app for natural wellness. Download free today!">
+<meta property="og:image" content="https://essentialoils.app/og-preview.jpg">
 <meta property="og:url" content="https://essentialoils.app/">
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="Essential Oils Guide - doTERRA">
+<meta property="og:site_name" content="Essential Oils Guide">
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Essential Oils Guide & Recipes App">
-<meta name="twitter:description" content="140+ oils • 400+ health conditions • 100+ blends • Inventory & restock tracking • Daily tips. The #1 doTERRA-friendly aromatherapy companion.">
+<meta name="twitter:description" content="400+ health conditions • 140+ oils • 100+ blends. Your complete natural wellness companion.">
 <meta name="twitter:image" content="https://essentialoils.app/og-preview.jpg">
 
 <!-- Optional: iOS App Smart Banner (shows in Safari) -->
@@ -37,25 +37,84 @@
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/vendor.css">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/purple-gold-theme.css">
 
     <style>
-        .feature-screenshot {
-            border: 2px solid #ccc;
-            width: 250px;
-            height: 500px;
-            object-fit: cover;
+        /* Additional inline styles for placeholder cards */
+        .placeholder-screen {
+            background: linear-gradient(180deg, #6B4C9A 0%, #8B6FB8 100%);
+            border-radius: 12px;
+            padding: 2rem;
+            color: white;
+            font-family: "Nunito Sans", sans-serif;
+            min-height: 400px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
         }
-        .process-screenshot {
-            border: 2px solid #ccc;
-            width: 400px;
-            height: 300px;
-            object-fit: cover;
+        
+        .placeholder-screen__title {
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1rem;
         }
-        .gallery-image {
-            border: 2px solid #ccc;
-            width: 100%;
-            height: 600px;
-            object-fit: cover;
+        
+        .placeholder-screen__content {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            opacity: 0.9;
+        }
+        
+        .placeholder-screen__item {
+            padding: 0.8rem 0;
+            border-bottom: 1px solid rgba(255,255,255,0.2);
+        }
+        
+        .placeholder-screen__item:last-child {
+            border-bottom: none;
+        }
+        
+        /* Mobile responsive styles for placeholder screens */
+        @media only screen and (max-width: 600px) {
+            .placeholder-screen {
+                padding: 1.5rem;
+                min-height: 250px;
+            }
+            
+            .placeholder-screen__title {
+                font-size: 1.2rem;
+            }
+            
+            .placeholder-screen__content {
+                font-size: 1rem;
+            }
+            
+            .placeholder-screen__item {
+                padding: 0.5rem 0;
+                font-size: 0.9rem;
+            }
+        }
+        
+        @media only screen and (max-width: 400px) {
+            .placeholder-screen {
+                padding: 1rem;
+                min-height: 200px;
+            }
+            
+            .placeholder-screen__title {
+                font-size: 1rem;
+            }
+            
+            .placeholder-screen__content {
+                font-size: 0.9rem;
+            }
+            
+            .placeholder-screen__item {
+                padding: 0.4rem 0;
+                font-size: 0.85rem;
+            }
         }
     </style>
 
@@ -67,7 +126,7 @@
 <script>
     (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
     .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
-    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    n=d.getElementsByTagName(e)[0];n.parentNode.insertBefore(l,n);})
     (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
     ml('account', '1987215');
 </script>
@@ -106,10 +165,10 @@
     
             <nav class="header-nav-wrap">
                 <ul class="header-main-nav">
-                    <li class="current"><a class="smoothscroll" href="#home" title="intro">Intro</a></li>
-                    <li><a class="smoothscroll" href="#about" title="about">About</a></li>
-                    <li><a class="smoothscroll" href="#features" title="features">Features</a></li>
-                    <!-- <li><a class="smoothscroll" href="#gallery" title="gallery">Gallery</a></li> -->
+                    <li class="current"><a class="smoothscroll" href="#hero" title="home">Home</a></li>
+                    <li><a class="smoothscroll" href="#benefits" title="benefits">Benefits</a></li>
+                    <li><a class="smoothscroll" href="#health-benefits" title="health">Health</a></li>
+                    <li><a class="smoothscroll" href="#how-to-use" title="how to use">How to Use</a></li>
                     <li><a class="smoothscroll" href="#download" title="download">Download</a></li>
                 </ul>
     
@@ -124,278 +183,295 @@
     </header> <!-- end header -->
 
 
-    <!-- home
+    <!-- Hero Section
     ================================================== -->
-    <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg" data-natural-width=3000 data-natural-height=2000 data-position-y=center>
+    <section id="hero" class="s-hero-new">
 
-        <div class="shadow-overlay"></div>
+        <div class="s-hero-new__content">
+            <h1>
+                Your Complete Guide to Natural Wellness
+            </h1>
 
-        <div class="home-content">
+            <p class="s-hero-new__subheadline">
+                Discover 400+ health conditions, 140+ essential oils, and expert blends — all in one beautifully designed app. Transform your wellness journey today.
+            </p>
 
-            <div class="row home-content__main">
+            <div class="s-hero-new__ctas">
+                <a href="#download" class="btn btn--gold smoothscroll btn-desktop">
+                    Download Free on App Store
+                </a>
+                <a href="#download" class="btn btn--gold smoothscroll btn-mobile">
+                    Download Free<br>on App Store
+                </a>
+                <a href="#subscribe" class="btn btn--primary smoothscroll btn-desktop">
+                    Subscribe for Wellness Tips
+                </a>
+                <a href="#subscribe" class="btn btn--primary smoothscroll btn-mobile">
+                    Subscribe for<br>Wellness Tips
+                </a>
+            </div>
 
-                <div class="home-content__left">
-                    <h1>
-                    Essential Oils Guide & Recipes: 400+ Health Conditions & Protocols
-                    </h1>
+            <style>
+                /* Desktop (default): show desktop buttons, hide mobile buttons */
+                .s-hero-new__ctas .btn-desktop { display: inline !important; }
+                .s-hero-new__ctas .btn-mobile { display: none !important; }
+                
+                /* Mobile: hide desktop buttons, show mobile buttons */
+                @media (max-width: 600px) {
+                    .s-hero-new__ctas .btn-desktop { display: none !important; }
+                    .s-hero-new__ctas .btn-mobile { display: inline !important; }
+                }
+            </style>
+        </div>
 
-                    <h3>
-                    Essential oils, aromatherapy, and diffuser recipes — all in one smart app to make wellness simple and effective. Whether you're blending your first diffuser mix or tracking a full doTERRA® collection, this app delivers expert insights, smart tools, and real-world tips to support your natural wellness journey.
-                    </h3>
+        <div class="s-hero-new__image">
+            <img src="images/hero-app-screens-1600.png" alt="Essential Oils App Interface" style="max-width: 500px; width: 100%; height: auto; border-radius: 20px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);">
+        </div>
 
-                    <div class="home-content__btn-wrap">
-                        <a href="#download" class="btn btn--primary home-content__btn smoothscroll">
-                            Download Now
-                        </a>
-                    </div>
-                </div> <!-- end home-content__left-->
-
-                <div class="home-content__right">
-                    <img src="images/hero-app-screens-800.png" srcset="images/hero-app-screens-800.png 1x, images/hero-app-screens-1600.png 2x">
-                </div> <!-- end home-content__right -->
-
-            </div> <!-- end home-content__main -->
-
-            <ul class="home-content__social">
-                <li><a href="https://www.facebook.com/people/Essential-Oils-d%C5%8DTERRA-Guide/61578876861108/">Facebook</a></li>
-                <li><a href="https://x.com/EssentialOils45">x (twitter)</a></li>
-                <li><a href="https://www.instagram.com/essentialoilsapp3/">Instagram</a></li>
-                <li><a href="https://www.tiktok.com/@essential_oils_app">TikTok</a></li>
-            </ul>
-
-        </div> <!-- end home-content -->
-
-        <a href="#about" class="home-scroll smoothscroll">
-            <span class="home-scroll__text">Scroll</span>
-            <span class="home-scroll__icon"></span>
-        </a> 
-
-    </section> <!-- end s-home -->
+    </section> <!-- end s-hero-new -->
 
 
-    <!-- about
+    <!-- Benefit Section 1: Health Conditions
     ================================================== -->
-    <section id="about" class="s-about target-section">
+    <section id="benefits" class="section-alternate">
 
-        <div class="row section-header has-bottom-sep" data-aos="fade-up">
+        <div class="alternate-layout">
+            <div class="alternate-layout__content">
+                <h2 class="display-1">
+                    Find Natural Solutions for 400+ Health Conditions
+                </h2>
+                <p class="lead">
+                    From colds and insomnia to anxiety and digestive issues, discover medically researched protocols that help you address everyday wellness concerns naturally. Each condition includes application methods, safety notes, and expert recommendations.
+                </p>
+                <div class="benefit-highlight">
+                    Stop guessing. Start healing with confidence.
+                </div>
+            </div>
+
+            <div class="alternate-layout__image">
+                <img src="images/screenshots/01.jpg" alt="Health Conditions Search" style="max-width: 400px; width: 100%; height: auto; border-radius: 20px; box-shadow: 0 20px 40px rgba(107, 76, 154, 0.15);">
+            </div>
+        </div>
+
+    </section> <!-- end benefit section 1 -->
+
+
+    <!-- Benefit Section 2: Complete Oil Reference
+    ================================================== -->
+    <section class="section-alternate section-gold">
+
+        <div class="alternate-layout reverse">
+            <div class="alternate-layout__content">
+                <h2 class="display-1">
+                    Expert Knowledge at Your Fingertips
+                </h2>
+                <p class="lead">
+                    Access in-depth profiles for 140+ essential oils. Learn therapeutic benefits, safety considerations, and application methods. Whether you're a beginner or experienced enthusiast, find everything you need to use oils safely and effectively.
+                </p>
+                <div class="benefit-highlight">
+                    Your pocket aromatherapy encyclopedia.
+                </div>
+            </div>
+
+            <div class="alternate-layout__image">
+                <img src="images/screenshots/02.jpg" alt="Oil Detail Screen" style="max-width: 400px; width: 100%; height: auto; border-radius: 20px; box-shadow: 0 20px 40px rgba(107, 76, 154, 0.15);">
+            </div>
+        </div>
+
+    </section> <!-- end benefit section 2 -->
+
+
+    <!-- Benefit Section 3: Smart Inventory Tracking
+    ================================================== -->
+    <section class="section-alternate">
+
+        <div class="alternate-layout">
+            <div class="alternate-layout__content">
+                <h2 class="display-1">
+                    Never Run Out of Your Favorites
+                </h2>
+                <p class="lead">
+                    Track your personal oil collection, get smart restock suggestions, and manage your inventory effortlessly. The app learns your usage patterns and reminds you when it's time to replenish, so you're always prepared.
+                </p>
+                <div class="benefit-highlight">
+                    Wellness without the worry.
+                </div>
+            </div>
+
+            <div class="alternate-layout__image">
+                <img src="images/screenshots/03.jpg" alt="Inventory Tracking Screen" style="max-width: 400px; width: 100%; height: auto; border-radius: 20px; box-shadow: 0 20px 40px rgba(107, 76, 154, 0.15);">
+            </div>
+        </div>
+
+    </section> <!-- end benefit section 3 -->
+
+
+    <!-- Benefit Section 4: Diffuser Blends
+    ================================================== -->
+    <section class="section-alternate section-gold">
+
+        <div class="alternate-layout reverse">
+            <div class="alternate-layout__content">
+                <h2 class="display-1">
+                    Create Perfect Atmospheres
+                </h2>
+                <p class="lead">
+                    Access 100+ expert-crafted diffuser blends for focus, calm, energy, sleep, and mood. Save your favorites, create custom blends using your inventory, and transform any space with the power of aromatherapy.
+                </p>
+                <div class="benefit-highlight">
+                    The right blend for every moment.
+                </div>
+            </div>
+
+            <div class="alternate-layout__image">
+                <img src="images/screenshots/04.jpg" alt="Diffuser Blends Screen" style="max-width: 400px; width: 100%; height: auto; border-radius: 20px; box-shadow: 0 20px 40px rgba(107, 76, 154, 0.15);">
+            </div>
+        </div>
+
+    </section> <!-- end benefit section 4 -->
+
+
+    <!-- Benefit Section 5: Daily Wellness Tips
+    ================================================== -->
+    <section class="section-alternate">
+
+        <div class="alternate-layout">
+            <div class="alternate-layout__content">
+                <h2 class="display-1">
+                    Daily Guidance for Your Wellness Journey
+                </h2>
+                <p class="lead">
+                    Receive personalized daily oil spotlights, wellness tips, and usage recommendations. Learn new ways to incorporate essential oils into your routine and discover benefits you never knew existed.
+                </p>
+                <div class="benefit-highlight">
+                    Grow your knowledge every day.
+                </div>
+            </div>
+
+            <div class="alternate-layout__image">
+                <img src="images/screenshots/05.jpg" alt="Daily Wellness Tip Screen" style="max-width: 400px; width: 100%; height: auto; border-radius: 20px; box-shadow: 0 20px 40px rgba(107, 76, 154, 0.15);">
+            </div>
+        </div>
+
+    </section> <!-- end benefit section 5 -->
+
+
+    <!-- Health Benefits Section
+    ================================================== -->
+    <section id="health-benefits" class="section-alternate section-purple">
+
+        <div class="row section-header align-center">
             <div class="col-full">
                 <h1 class="display-1">
-                    Simply The Best Essential Oils App Out There.
+                    Transform Your Health Naturally
                 </h1>
                 <p class="lead">
-                    Start your aromatherapy journey today — explore, track, blend, and support your wellness naturally.
+                    Discover how essential oils can support your wellness journey
                 </p>
             </div>
-        </div> <!-- end section-header -->
+        </div>
 
-        <div class="row wide about-desc" data-aos="fade-up">
+        <div class="health-benefits-grid">
+            <div class="benefit-card">
+                <div class="benefit-card__icon">😴</div>
+                <h3 class="benefit-card__title">Better Sleep</h3>
+                <p class="benefit-card__description">Fall asleep faster and wake refreshed with calming blends like lavender and cedarwood.</p>
+            </div>
 
-            <div class="col-full slick-slider about-desc__slider">
-<div class="about-desc__slide">
-    <h3 class="item-title">400+ Health Conditions</h3>
+            <div class="benefit-card">
+                <div class="benefit-card__icon">🧘</div>
+                <h3 class="benefit-card__title">Reduced Stress</h3>
+                <p class="benefit-card__description">Find peace and balance with anxiety-relieving oils like bergamot and ylang ylang.</p>
+            </div>
 
+            <div class="benefit-card">
+                <div class="benefit-card__icon">🎯</div>
+                <h3 class="benefit-card__title">Enhanced Focus</h3>
+                <p class="benefit-card__description">Boost concentration and productivity naturally with peppermint and lemon.</p>
+            </div>
 
+            <div class="benefit-card">
+                <div class="benefit-card__icon">🛡️</div>
+                <h3 class="benefit-card__title">Immune Support</h3>
+                <p class="benefit-card__description">Strengthen your body's natural defenses with tea tree and eucalyptus.</p>
+            </div>
 
-    <p>
-    Addressing common concerns like colds, insomnia, anxiety, and more for everyday wellness.
-    </p>
-</div>  <!-- end about-desc__slide -->
-                <div class="about-desc__slide">
-                    <h3 class="item-title">Expert-Reviewed.</h3>
+            <div class="benefit-card">
+                <div class="benefit-card__icon">💆</div>
+                <h3 class="benefit-card__title">Pain Relief</h3>
+                <p class="benefit-card__description">Soothe headaches, muscle tension, and discomfort with frankincense and chamomile.</p>
+            </div>
 
-                    <p>
-                    Information you can trust and use confidently, with medically researched protocols and safety considerations.
-                    </p>
-                </div>  <!-- end about-desc__slide -->
-<div class="about-desc__slide">
-    <h3 class="item-title">Comprehensive Wellness</h3>
+            <div class="benefit-card">
+                <div class="benefit-card__icon">😊</div>
+                <h3 class="benefit-card__title">Mood Elevation</h3>
+                <p class="benefit-card__description">Lift your spirits and combat low moods with citrus oils like orange and grapefruit.</p>
+            </div>
+        </div>
 
-
-
-    <p>
-    Comprehensive wellness with all-in-one depth for doTERRA® reference.
-    </p>
-</div>  <!-- end about-desc__slide -->
-                <div class="about-desc__slide">
-                    <h3 class="item-title">Community Favorite.</h3>
-
-                    <p>
-                    Rated 4.9 by thousands of essential oil users worldwide, perfect for beginners and experienced enthusiasts.
-                    </p>
-                </div>  <!-- end about-desc__slide -->
-
-            </div> <!-- end about-desc__slider -->
-            
-        </div> <!-- end about-desc -->
-
-    </section> <!-- end s-about -->
+    </section> <!-- end health benefits section -->
 
 
-    <!-- about-how
+    <!-- How to Use Section
     ================================================== -->
-    <section id="about-how" class="s-about-how">
+    <section id="how-to-use" class="section-alternate">
 
-        
-        <div class="row process-wrap">
-
-            <h2 class="display-2 text-center" data-aos="fade-up">How The App Works?</h2>
-
-            <div class="process" data-aos="fade-up">
-                <div class="process__steps block-1-2 block-tab-full group">
-
-                    <div class="col-block step">
-                        <div class="step-screenshot">
-                            <img src="images/screenshots/08.jpg" alt="Download from App Store" class="process-screenshot">
-                        </div>
-                        <h3 class="item-title">Download</h3>
-                        <p>Get the app from the App Store or Google Play and start your aromatherapy journey with guided onboarding.
-                        </p>
-                    </div>
-
-                    <div class="col-block step">
-                        <div class="step-screenshot">
-                            <img src="images/screenshots/06.jpg" alt="Explore Oils Interface" class="process-screenshot">
-                        </div>
-                        <h3 class="item-title">Explore</h3>
-                        <p>Discover 140+ essential oils with in-depth profiles, safety notes, and therapeutic benefits.
-                        </p>
-                    </div>
-
-                    <div class="col-block step">
-                        <div class="step-screenshot">
-                            <img src="images/screenshots/05.jpg" alt="Create Blends Interface" class="process-screenshot">
-                        </div>
-                        <h3 class="item-title">Blend</h3>
-                        <p>Create diffuser recipes using your inventory, save favorites, and access 100+ expert blends.
-                        </p>
-                    </div>
-
-                    <div class="col-block step">
-                        <div class="step-screenshot">
-                            <img src="images/screenshots/04.jpg" alt="Track Inventory Interface" class="process-screenshot">
-                        </div>
-                        <h3 class="item-title">Track</h3>
-                        <p>Manage your personal oil inventory, get restock suggestions, and track health protocols.
-                        </p>
-                    </div>
-
-                </div> <!-- end process__steps -->
-           </div> <!-- end process -->
-        </div> <!-- end about-how -->
-
-    </section> <!-- end s-about-how -->
-
-
-    <!-- features
-    ================================================== -->
-    <section id="features" class="s-features target-section">
-
-        <div class="row section-header has-bottom-sep" data-aos="fade-up">
+        <div class="row section-header align-center">
             <div class="col-full">
                 <h1 class="display-1">
-                    Loaded With Features You Would Absolutely Love.
+                    Simple Ways to Use Essential Oils
                 </h1>
                 <p class="lead">
-                    From health protocols to oil tracking, this app has everything you need for natural wellness.
+                    Easy methods for maximum benefit
                 </p>
             </div>
-        </div> <!-- end section-header -->
+        </div>
 
-        <div class="row features block-1-3 block-m-1-2">
-
-            <div class="col-block item-feature" data-aos="fade-up">
-                <div class="item-feature__icon">
-                    <i class="icon-shield"></i>
-                </div>
-                <div class="item-feature__text">
-                    <h3 class="item-title">Health Conditions & Protocols</h3>
-                    <p>400+ health conditions with medically researched protocols, application methods, and safety considerations for oral, topical, inhalation, and dietary wellness.
-                    </p>
-                </div>
-                <div class="item-feature__screenshot">
-                    <img src="images/screenshots/03.jpg" alt="Health Protocols Interface" class="feature-screenshot">
-                </div>
+        <div class="usage-methods">
+            <div class="usage-method">
+                <div class="usage-method__number">1</div>
+                <h3 class="usage-method__title">Diffusion</h3>
+                <p class="usage-method__description">Add 3-5 drops to your diffuser for room-wide benefits. Perfect for creating atmosphere and enjoying aromatherapy throughout your space.</p>
             </div>
 
-            <div class="col-block item-feature" data-aos="fade-up">
-                <div class="item-feature__icon">
-                    <i class="icon-upload"></i>
-                </div>
-                <div class="item-feature__text">
-                    <h3 class="item-title">Complete Oil Reference</h3>
-                    <p>140+ essential oils database with in-depth profiles, safety notes, therapeutic perks, and quick search by name, symptom, or goal.
-                    </p>
-                </div>
-                <div class="item-feature__screenshot">
-                    <img src="images/screenshots/06.jpg" alt="Oil Reference Database" class="feature-screenshot">
-                </div>
+            <div class="usage-method">
+                <div class="usage-method__number">2</div>
+                <h3 class="usage-method__title">Topical</h3>
+                <p class="usage-method__description">Dilute with carrier oil and apply to pulse points, temples, or affected areas. Always perform a patch test first.</p>
             </div>
 
-            <div class="col-block item-feature" data-aos="fade-up">
-                <div class="item-feature__icon">
-                    <i class="icon-video-camera"></i>
-                </div>
-                <div class="item-feature__text">
-                    <h3 class="item-title">Advanced Tracking Tools</h3>
-                    <p>Personal inventory tracking, favorite blends, enhanced shopping lists with notes, and MyOils updates for recent usage.
-                    </p>
-                </div>
-                <div class="item-feature__screenshot">
-                    <img src="images/screenshots/04.jpg" alt="Inventory Tracking Interface" class="feature-screenshot">
-                </div>
+            <div class="usage-method">
+                <div class="usage-method__number">3</div>
+                <h3 class="usage-method__title">Inhalation</h3>
+                <p class="usage-method__description">Breathe directly from the bottle, use a diffuser, or add to a bowl of hot water for steam inhalation.</p>
             </div>
 
-            <div class="col-block item-feature" data-aos="fade-up">
-                <div class="item-feature__icon">
-                    <i class="icon-lego-block"></i>
-                </div>
-                <div class="item-feature__text">
-                    <h3 class="item-title">Expert Content & Recipes</h3>
-                    <p>100+ diffuser blends for focus, calm, energy, sleep, and mood, with step-by-step instructions and daily oil spotlights.
-                    </p>
-                </div>
-                <div class="item-feature__screenshot">
-                    <img src="images/screenshots/05.jpg" alt="Diffuser Blends Interface" class="feature-screenshot">
-                </div>
+            <div class="usage-method">
+                <div class="usage-method__number">4</div>
+                <h3 class="usage-method__title">Bath</h3>
+                <p class="usage-method__description">Add 5-10 drops to a warm bath for relaxation. Mix with Epsom salts or carrier oil before adding to water.</p>
             </div>
+        </div>
 
-            <div class="col-block item-feature" data-aos="fade-up">
-                <div class="item-feature__icon">
-                    <i class="icon-chat"></i>
-                </div>
-                <div class="item-feature__text">
-                    <h3 class="item-title">Smart Features</h3>
-                    <p>Guided onboarding, available blends based on inventory, advanced search, recently viewed, notes, and local notifications.
-                    </p>
-                </div>
-                <div class="item-feature__screenshot">
-                    <img src="images/screenshots/02.jpg" alt="Smart Search and Notifications" class="feature-screenshot">
-                </div>
+    </section> <!-- end how to use section -->
+
+
+    <!-- Testimonials Section
+    ================================================== -->
+    <section class="section-alternate section-gold">
+
+        <div class="row section-header align-center">
+            <div class="col-full">
+                <h1 class="display-1">
+                    Loved by Thousands
+                </h1>
+                <p class="lead">
+                    Join our community of wellness enthusiasts
+                </p>
             </div>
+        </div>
 
-            <div class="col-block item-feature" data-aos="fade-up">
-                <div class="item-feature__icon">
-                    <i class="icon-wallet"></i>
-                </div>
-                <div class="item-feature__text">
-                    <h3 class="item-title">Favorites & Notes</h3>
-                    <p>Save health conditions, custom blends, and personal observations for easy access and ongoing wellness tracking.
-                    </p>
-                </div>
-                <div class="item-feature__screenshot">
-                    <img src="images/screenshots/04.jpg" alt="Favorites and Notes Interface" class="feature-screenshot">
-                </div>
-            </div>
-
-        </div> <!-- end features -->
-
-        <div class="testimonials-wrap" data-aos="fade-up">
-
-            <div class="row">
-                <div class="col-full testimonials-header">
-                    <h2 class="display-2">Essential Oil Enthusiasts Love Our App!</h2>
-                </div>
-            </div>
+        <div class="testimonials-wrap">
 
             <div class="row testimonials">
 
@@ -451,83 +527,85 @@
 
         </div> <!-- end testimonials-wrap -->
 
-    </section> <!-- end s-features -->
+    </section> <!-- end testimonials section -->
 
 
-    <!-- download
+    <!-- Download CTA Section
     ================================================== -->
-    <section id="download" class="s-download target-section">
-
-        <div class="row section-header align-center" data-aos="fade-up">
-            <div class="col-full">
-                <h1 class="display-1">
-                    Join Our Community of Essential Oil Enthusiasts.
-                </h1>
-                <p class="lead">
-                    Download now and start your natural wellness journey with expert guidance and smart tools.
-                </p>
-            </div>
-        </div> <!-- end section-header -->
+    <section id="download" class="cta-section download">
 
         <div class="row">
-            <div class="col-full text-center">
-                <ul class="download-badges" data-aos="fade-up">
-                    <li><a href="https://apps.apple.com/app/apple-store/id6744415870?pt=127389640&ct=Landing%20Page&mt=8" title="Download on App Store" class="badge-appstore">App Store</a></li>
-                    <!-- <li><a href="#0" title="" class="badge-googleplay">Play Store</a></li> -->
-                </ul>
-            </div>
-        </div>
-
-        <div class="row download-bottom-image" data-aos="fade-up">
-            <!-- <img src="images/app-screen-1400.png" 
-                srcset="images/app-screen-600.png 600w, 
-                        images/app-screen-1400.png 1400w, 
-                        images/app-screen-2800.png 2800w" 
-                sizes="(max-width: 2800px) 100vw, 2800px" 
-                alt="App Screenshots">  -->
-        </div>
-
-    </section> <!-- end s-download -->
-
-
-    <!-- footer
-    ================================================== -->
-    <footer class="s-footer footer">
-
-        <div class="row section-header align-center">
             <div class="col-full">
-                <h1 class="display-1">
-                    Let's Stay In Touch.
-                </h1>
+                <h2 class="display-1">
+                    Start Your Wellness Journey Today
+                </h2>
                 <p class="lead">
-                Subscribe for updates, special offers, and other amazing stuff.
+                    Download now and get instant access to 400+ health conditions, 140+ oils, and expert guidance
                 </p>
-            </div>
-        </div> <!-- end section-header -->
 
-        <div class="row footer__top">
+                <div class="cta-section__buttons">
+                    <a href="get-app.html" class="btn btn--gold">
+                        Download Free on App Store
+                    </a>
+                </div>
 
-            <div class="col-full footer__subscribe end">
-                <div class="subscribe-form">
-                    <div class="ml-embedded" data-form="216nn4"></div>
-                    <!-- <form id="mc-form" class="group" novalidate="true">
+                <div style="margin-top: 4rem;">
+                    <img src="images/app-screen-1400.png" alt="Essential Oils App Showcase" style="max-width: 700px; width: 100%; height: auto; border-radius: 20px; box-shadow: 0 30px 60px rgba(0, 0, 0, 0.3); margin: 0 auto;">
+                    <style>
+                        @media (max-width: 600px) {
+                            #download .cta-section img {
+                                max-width: 100vw !important;
+                            }
+                        }
+                    </style>
+                </div>
 
-                        <input type="email" value="" name="EMAIL" class="email" id="mc-email" placeholder="Email Address" required="">
-            
-                        <input type="submit" name="subscribe" value="Sign Up">
-            
-                        <label for="mc-email" class="subscribe-message"></label>
-            
-                    </form> -->
+                <div class="store-buttons" style="margin-top: 3rem; display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap;">
+                    <a href="https://apps.apple.com/app/apple-store/id6744415870?pt=127389640&ct=Landing%20Page&mt=8">
+                        <img src="images/appstore.png" alt="Download on App Store" style="height: 70px;">
+                    </a>
+                    <a href="https://play.google.com/store/apps/details?id=com.appostu.essentialoils">
+                        <img src="images/google-play.png" alt="Get it on Google Play" style="height: 70px;">
+                    </a>
                 </div>
             </div>
+        </div>
 
-        </div> <!-- end footer__top -->
+    </section> <!-- end download cta section -->
 
-        <div class="row footer__bottom">
 
-            <div class="footer__about col-five tab-full left">
+    <!-- Subscribe CTA Section
+    ================================================== -->
+    <section id="subscribe" class="cta-section subscribe">
 
+        <div class="row">
+            <div class="col-full">
+                <h2 class="display-1">
+                    Get Weekly Wellness Tips
+                </h2>
+                <p class="lead">
+                    Subscribe for exclusive promotions, new blend recipes, and expert health tips delivered to your inbox
+                </p>
+
+                <div class="subscribe-form-new">
+                    <div class="ml-embedded" data-form="216nn4"></div>
+                </div>
+
+                <p class="subscribe-form-new__privacy">
+                    🔒 We respect your privacy. Unsubscribe at any time.
+                </p>
+            </div>
+        </div>
+
+    </section> <!-- end subscribe cta section -->
+
+
+    <!-- Footer
+    ================================================== -->
+    <footer class="s-footer-new">
+
+        <div class="row">
+            <div class="col-five tab-full left">
                 <h4>About Essential Oils Guide & Recipes.</h4>
 
                 <p>
@@ -549,10 +627,10 @@
                         <h4>Site links.</h4>
 
                         <ul class="footer__site-links">
-                            <li><a href="#home" class="smoothscroll">Intro</a></li>
-                            <li><a href="#about" class="smoothscroll">About</a></li>
-                            <li><a href="#features" class="smoothscroll">Features</a></li>
-                            
+                            <li><a href="#hero" class="smoothscroll">Home</a></li>
+                            <li><a href="#benefits" class="smoothscroll">Benefits</a></li>
+                            <li><a href="#health-benefits" class="smoothscroll">Health</a></li>
+                            <li><a href="#how-to-use" class="smoothscroll">How to Use</a></li>
                             <li><a href="#download" class="smoothscroll">Download</a></li>
                             <li><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Terms of Service</a></li>
                             <li><a href="https://appostu.com/privacypolicy">Privacy Policy</a></li>
@@ -584,13 +662,13 @@
                 <p><small>Independently developed by Appostu SRL. This app contains original content and is not affiliated with or endorsed by doTERRA®. doTERRA™ is a trademark of doTERRA Holdings, LLC.</small></p>
             </div>
 
-        </div> <!-- end footer__bottom -->
+        </div> <!-- end row -->
 
         <div class="go-top">
             <a class="smoothscroll" title="Back to Top" href="#top"></a>
         </div>
 
-    </footer> <!-- end s-footer -->
+    </footer> <!-- end s-footer-new -->
 
 
     <!-- Java Script
@@ -650,3 +728,4 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 </body>
+</html>
