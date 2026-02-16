@@ -871,3 +871,369 @@ a:active {
         color: var(--text-white) !important;
     }
 }
+
+/* ===================================================================
+ * Glass-morphism Cards (Competitor-inspired)
+ * =================================================================== */
+
+.glass-card {
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 24px;
+    box-shadow: 0 8px 32px rgba(107, 76, 154, 0.1);
+    transition: all 0.3s ease;
+}
+
+.glass-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(107, 76, 154, 0.15);
+    border-color: rgba(212, 175, 55, 0.3);
+}
+
+/* Dark variant for purple/gold sections */
+.glass-card--dark {
+    background: rgba(107, 76, 154, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+/* Apply glass effect to existing benefit cards */
+.section-alternate.section-purple .benefit-card {
+    background: rgba(45, 27, 78, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
+
+/* ===================================================================
+ * FAQ Accordion Section
+ * =================================================================== */
+
+.faq-section {
+    padding: 10rem 0;
+    background: var(--bg-secondary);
+}
+
+.faq-section .section-header {
+    margin-bottom: 4rem;
+}
+
+.faq-accordion {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.faq-item {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(107, 76, 154, 0.1);
+    border-radius: 16px;
+    margin-bottom: 1rem;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.faq-item:hover {
+    border-color: rgba(212, 175, 55, 0.3);
+    box-shadow: 0 8px 24px rgba(107, 76, 154, 0.1);
+}
+
+.faq-item.active {
+    border-color: var(--color-primary);
+    box-shadow: 0 8px 24px rgba(107, 76, 154, 0.15);
+}
+
+.faq-question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 2.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.faq-question h3 {
+    font-family: "Chivo", sans-serif;
+    font-weight: 600;
+    font-size: 1.8rem;
+    color: var(--text-primary);
+    margin: 0;
+    flex: 1;
+    padding-right: 1rem;
+}
+
+.faq-question:hover h3 {
+    color: var(--color-primary);
+}
+
+.faq-icon {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: var(--color-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+}
+
+.faq-icon::before {
+    content: '+';
+    color: white;
+    font-size: 1.8rem;
+    font-weight: 300;
+    line-height: 1;
+}
+
+.faq-item.active .faq-icon {
+    background: var(--color-gold);
+    transform: rotate(45deg);
+}
+
+.faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease, padding 0.3s ease;
+}
+
+.faq-item.active .faq-answer {
+    max-height: 500px;
+}
+
+.faq-answer-content {
+    padding: 0 2.5rem 2rem;
+    font-size: 1.6rem;
+    line-height: 1.7;
+    color: var(--text-secondary);
+}
+
+/* ===================================================================
+ * Social Sharing Buttons
+ * =================================================================== */
+
+.social-share-section {
+    padding: 4rem 0;
+    background: var(--bg-primary);
+    border-top: 1px solid rgba(107, 76, 154, 0.1);
+    border-bottom: 1px solid rgba(107, 76, 154, 0.1);
+}
+
+.social-share {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.social-share__label {
+    font-size: 1.4rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+.social-share__buttons {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.social-share__btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    background: var(--bg-secondary);
+    border: 1px solid rgba(107, 76, 154, 0.1);
+    color: var(--text-secondary);
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.social-share__btn:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 8px 20px rgba(107, 76, 154, 0.15);
+}
+
+.social-share__btn svg {
+    width: 22px;
+    height: 22px;
+    fill: currentColor;
+}
+
+/* Platform-specific hover colors */
+.social-share__btn--facebook:hover {
+    background: #1877F2;
+    border-color: #1877F2;
+    color: white;
+}
+
+.social-share__btn--whatsapp:hover {
+    background: #25D366;
+    border-color: #25D366;
+    color: white;
+}
+
+.social-share__btn--pinterest:hover {
+    background: #E60023;
+    border-color: #E60023;
+    color: white;
+}
+
+.social-share__btn--twitter:hover {
+    background: #000000;
+    border-color: #000000;
+    color: white;
+}
+
+.social-share__btn--email:hover {
+    background: var(--color-primary);
+    border-color: var(--color-primary);
+    color: white;
+}
+
+/* ===================================================================
+ * Breadcrumb Navigation
+ * =================================================================== */
+
+.breadcrumb {
+    padding: 1rem 0;
+    background: transparent;
+    position: relative;
+    margin-top: 80px; /* Account for fixed header height */
+    z-index: 1;
+}
+
+.breadcrumb__list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0;
+    margin: 0;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 1rem 4rem;
+}
+
+.breadcrumb__list li {
+    display: flex;
+    align-items: center;
+    font-size: 1.4rem;
+}
+
+.breadcrumb__list li:not(:last-child)::after {
+    content: '/';
+    margin-left: 0.5rem;
+    color: rgba(107, 76, 154, 0.4);
+}
+
+.breadcrumb__list a {
+    color: var(--color-primary);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.breadcrumb__list a:hover {
+    color: var(--color-gold);
+}
+
+.breadcrumb__list span {
+    color: var(--text-secondary);
+}
+
+/* ===================================================================
+ * Responsive Styles for New Components
+ * =================================================================== */
+
+@media only screen and (max-width: 800px) {
+    .faq-section {
+        padding: 6rem 0;
+    }
+    
+    .faq-question {
+        padding: 1.5rem 2rem;
+    }
+    
+    .faq-question h3 {
+        font-size: 1.5rem;
+    }
+    
+    .faq-answer-content {
+        padding: 0 2rem 1.5rem;
+        font-size: 1.4rem;
+    }
+    
+    .breadcrumb {
+        margin-top: 70px; /* Slightly smaller for mobile header */
+    }
+    
+    .breadcrumb__list {
+        padding: 1rem 2rem;
+    }
+    
+    .breadcrumb__list li {
+        font-size: 1.2rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .faq-section {
+        padding: 4rem 0;
+    }
+    
+    .faq-accordion {
+        padding: 0 1rem;
+    }
+    
+    .faq-question {
+        padding: 1.2rem 1.5rem;
+    }
+    
+    .faq-question h3 {
+        font-size: 1.3rem;
+    }
+    
+    .faq-icon {
+        width: 28px;
+        height: 28px;
+    }
+    
+    .faq-icon::before {
+        font-size: 1.5rem;
+    }
+    
+    .faq-answer-content {
+        padding: 0 1.5rem 1.2rem;
+        font-size: 1.2rem;
+    }
+    
+    .social-share__label {
+        font-size: 1.2rem;
+    }
+    
+    .social-share__btn {
+        width: 42px;
+        height: 42px;
+    }
+    
+    .social-share__btn svg {
+        width: 18px;
+        height: 18px;
+    }
+    
+    .breadcrumb__list {
+        padding: 1rem;
+    }
+    
+    .breadcrumb__list li {
+        font-size: 1rem;
+    }
+}

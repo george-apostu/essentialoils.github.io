@@ -261,7 +261,7 @@
 
 
    /* AjaxChimp
-    * ------------------------------------------------------ */
+     * ------------------------------------------------------ */
     var ssAjaxChimp = function() {
         
         $('#mc-form').ajaxChimp({
@@ -292,8 +292,42 @@
     };
 
 
-   /* Initialize
+   /* FAQ Accordion
     * ------------------------------------------------------ */
+    var ssFaqAccordion = function() {
+        
+        var faqItems = document.querySelectorAll('.faq-item');
+        
+        if (faqItems.length === 0) return;
+
+        faqItems.forEach(function(item) {
+            var question = item.querySelector('.faq-question');
+            
+            question.addEventListener('click', function() {
+                // Check if this item is already active
+                var isActive = item.classList.contains('active');
+                
+                // Close all items first
+                faqItems.forEach(function(otherItem) {
+                    otherItem.classList.remove('active');
+                });
+                
+                // If the clicked item wasn't active, open it
+                if (!isActive) {
+                    item.classList.add('active');
+                }
+            });
+        });
+
+        // Open first FAQ item by default
+        if (faqItems.length > 0) {
+            faqItems[0].classList.add('active');
+        }
+    };
+
+
+   /* Initialize
+     * ------------------------------------------------------ */
     (function clInit() {
 
         ssPreloader();
@@ -306,6 +340,7 @@
         ssAOS();
         ssBackToTop();
         ssAjaxChimp();
+        ssFaqAccordion();
 
     })();
 
