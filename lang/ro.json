@@ -1,0 +1,256 @@
+{
+    "meta": {
+        "title": "Ghid Uleiuri Eseniale & Reete - Companionul Tu Complet pentru Bunstarea Natural",
+        "description": "Descoper 400+ condiii de sntate, 140+ uleiuri eseniale i 100+ amestecuri pentru difuzor. Ghidul tu complet pentru bunstarea natural cu protocoale de experieni i urmrire inteligent. Descarc acum!",
+        "ogTitle": "Ghid Uleiuri Eseniale & Reete - Companionul Tu Complet pentru Bunstarea Natural",
+        "ogDescription": "400+ condiii de sntate  140+ uleiuri  100+ amestecuri. Aplicaia definitiv de aromaterapie pentru bunstarea natural. Descarc gratuit!",
+        "twitterTitle": "Aplicaie Ghid Uleiuri Eseniale & Reete",
+        "twitterDescription": "400+ condiii de sntate  140+ uleiuri  100+ amestecuri. Companionul tu complet pentru bunstarea natural."
+    },
+    "nav": {
+        "home": "Acas",
+        "benefits": "Beneficii",
+        "health": "Sntate",
+        "howToUse": "Cum s Foloseti",
+        "faq": "ntrebri Frecvente",
+        "download": "Descarc",
+        "getTheApp": "Obine Aplicaia"
+    },
+    "hero": {
+        "headline": "Ghidul Tu Complet pentru Bunstarea Natural",
+        "subheadline": "Descoper 400+ condiii de sntate, 140+ uleiuri eseniale i amestecuri de experieni - totul ntr-o aplicaie frumos proiectat. Transform-i cltoria spre bunstare astzi.",
+        "downloadAppStore": "Descarc Gratuit pe App Store",
+        "downloadAppStoreMobile": "Descarc Gratuit<br>pe App Store",
+        "subscribeTips": "Aboneaz-te pentru Sfaturi de Bunstare",
+        "subscribeTipsMobile": "Aboneaz-te pentru Sfaturi<br>de Bunstare"
+    },
+    "benefits": {
+        "section1": {
+            "title": "Gsete Soluii Naturale pentru 400+ Condiii de Sntate",
+            "description": "De la rceli i insomnie pn la anxietate i probleme digestive, descoper protocoale cercetate medical care te ajut s abordezi natural ngrijorrile zilnice de bunstare. Fiecare condiie include metode de aplicare, note de siguran i recomandri de experieni.",
+            "highlight": "Nu mai ghici. ncepe s vindeci cu ncredere."
+        },
+        "section2": {
+            "title": "Cunotine de Experieni la ndemn",
+            "description": "Acceseaz profiluri detaliate pentru 140+ uleiuri eseniale. nva despre beneficiile terapeutice, consideraiile de siguran i metodele de aplicare. Fie c eti nceptor sau entuziast experimentat, gsete tot ce ai nevoie pentru a folosi uleiurile n siguran i eficient.",
+            "highlight": "Enciclopedia ta de aromaterapie din buzunar."
+        },
+        "section3": {
+            "title": "Nu Rmne Niciodat Fr Favoritele Tale",
+            "description": "Urmrete colecia ta personal de uleiuri, primete sugestii inteligente pentru reaprovizionare i gestioneaz-i inventarul fr efort. Aplicaia nva tiparele tale de utilizare i i amintete cnd e timpul s reaprovizionezi, astfel nct s fii mereu pregtit.",
+            "highlight": "Bunstare fr griji."
+        },
+        "section4": {
+            "title": "Creeaz Atmosfere Perfecte",
+            "description": "Acceseaz 100+ amestecuri pentru difuzor create de experieni pentru concentrare, calm, energie, somn i dispoziie. Salveaz favoritele tale, creeaz amestecuri personalizate folosind inventarul tu i transform orice spaiu cu puterea aromaterapiei.",
+            "highlight": "Amestecul potrivit pentru fiecare moment."
+        },
+        "section5": {
+            "title": "Ghidare Zilnic pentru Cltoria Ta de Bunstare",
+            "description": "Primete spot-uri zilnice personalizate de uleiuri, sfaturi de bunstare i recomandri de utilizare. Descoper noi modaliti de a incorpora uleiurile eseniale n rutina ta i exploreaz beneficii de care nu tiai c exist.",
+            "highlight": "i dezvolt cunotinele n fiecare zi."
+        }
+    },
+    "healthBenefits": {
+        "title": "Transform-i Sntatea Natural",
+        "subtitle": "Descoper cum uleiurile eseniale pot susine cltoria ta de bunstare",
+        "cards": {
+            "sleep": {
+                "title": "Somn Mai Bun",
+                "description": "Adormi mai repede i trezete-te odihnit cu amestecuri calmante ca lavand i cedru."
+            },
+            "stress": {
+                "title": "Stres Redus",
+                "description": "Gsete pace i echilibru cu uleiuri anti-anxietate ca bergamot i ylang-ylang."
+            },
+            "focus": {
+                "title": "Concentrare mbuntit",
+                "description": "Crete concentrarea i productivitatea natural cu ment i lmie."
+            },
+            "immune": {
+                "title": "Suport Imunitar",
+                "description": "ntrete aprarea natural a corpului tu cu arbore de ceai i eucalipt."
+            },
+            "pain": {
+                "title": "Ameliorarea Durerii",
+                "description": "Calmeaz durerile de cap, tensiunea muscular i disconfortul cu tmaie i mucee."
+            },
+            "mood": {
+                "title": "Elevarea Dispoziiei",
+                "description": "Ridic-i spiritul i combate dispoziia sczut cu uleiuri citrice ca portocal i grepfrut."
+            }
+        }
+    },
+    "howToUse": {
+        "title": "Modaliti Simple de a Folosi Uleiurile Eseniale",
+        "subtitle": "Metode uoare pentru beneficii maxime",
+        "methods": {
+            "diffusion": {
+                "title": "Difuzare",
+                "description": "Adaug 3-5 picturi n difuzor pentru beneficii n ntreaga camer. Perfect pentru a crea atmosfer i a te bucura de aromaterapie n spaiul tu."
+            },
+            "topical": {
+                "title": "Aplicare Topic",
+                "description": "Dilueaz cu ulei purttor i aplic pe punctele de puls, tmple sau zonele afectate. Efectueaz ntotdeauna nti un test pe piele."
+            },
+            "inhalation": {
+                "title": "Inhalare",
+                "description": "Respir direct din sticl, foloseste un difuzor sau adaug ntr-un bol cu ap cald pentru inhalare cu aburi."
+            },
+            "bath": {
+                "title": "Baie",
+                "description": "Adaug 5-10 picturi ntr-o baie cald pentru relaxare. Amestec cu sruri Epsom sau ulei purttor nainte de a aduga n ap."
+            }
+        }
+    },
+    "faq": {
+        "title": "ntrebri Frecvente",
+        "subtitle": "Tot ce trebuie s tii despre uleiurile eseniale i aplicaia noastr",
+        "questions": [
+            {
+                "question": "Ce sunt uleiurile eseniale i cum funcioneaz?",
+                "answer": "Uleiurile eseniale sunt extracte concentrate de plante care captureaz parfumul natural i proprietile benefice ale plantelor. Funcioneaz prin aromaterapie (inhalare) sau aplicare topic, interacionnd cu sistemele corpului tu pentru a promova bunstarea. Fiecare ulei conine compuoi unici care pot susine sntatea fizic i emoional."
+            },
+            {
+                "question": "Este sigur s folosesc uleiurile eseniale intern?",
+                "answer": "Utilizarea intern a uleiurilor eseniale trebuie fcut doar sub ndrumarea unui profesionist medical calificat sau a unui aromaterapeut certificat. Dei unele uleiuri sunt recunoscute n general ca sigure pentru utilizare intern n cantiti mici, altele pot fi toxice. Aplicaia noastr ofer informaii de siguran pentru fiecare ulei, dar consult ntotdeauna un profesionist nainte de utilizarea intern."
+            },
+            {
+                "question": "Cum aleg uleiul esenial potrivit pentru nevoile mele?",
+                "answer": "Aplicaia noastr face uor! Caut printre 400+ condiii de sntate pentru a gsi uleiuri recomandate, sau rsfoiete baza noastr de date de 140+ uleiuri eseniale dup beneficiile lor. Fiecare profil de ulei include proprieti terapeutice, consideraii de siguran i utilizri recomandate. ncepe cu uleiuri populare ca lavanda pentru relaxare sau ment pentru energie."
+            },
+            {
+                "question": "Care este diferena dintre uleiurile pure i sintetice?",
+                "answer": "Uleiurile eseniale pure sunt extracte de plante 100% naturale fr aditivi sau compuoi sintetici. Uleiurile sintetice sunt fragrane create n laborator care pot mirosi similar dar lipsesc de beneficii terapeutice. Uleiurile pure sunt testate pentru puritate i poten, asigurndu-te c obii toate beneficiile de bunstare. Aplicaia noastr te ajut s identifici indicatorii de calitate pentru fiecare ulei."
+            },
+            {
+                "question": "Pot folosi uleiuri eseniale n timpul sarcinii?",
+                "answer": "Unele uleiuri eseniale trebuie evitate n timpul sarcinii, mai ales n primul trimestru. Opunile sigure includ de obicei lavanda, muceaae i ylang-ylang cnd sunt diluate corect. Consult ntotdeauna medicul tu nainte de a folosi uleiuri eseniale n timpul sarcinii. Aplicaia noastr include note de siguran pentru fiecare ulei privind sarcina i alptarea."
+            },
+            {
+                "question": "Cum s-mi pstrez uleiurile eseniale?",
+                "answer": "Pstreaz uleiurile eseniale n sticle de sticl nchis (amber sau albastru cobalt) departe de lumina direct a soarelui i cldur. Inele ntr-un loc rcoros i uscat cu capace bine nchise. Majoritatea uleiurilor in 2-5 ani cnd sunt pstrate corect, dei uleiurile citrice au o durat de via mai scurt de 1-2 ani. Aplicaia noastr include o funcie de urmrire pentru a monitoriza inventarul tu de uleiuri."
+            },
+            {
+                "question": "Ce este un ulei purttor i de ce am nevoie de unul?",
+                "answer": "Uleiurile purttoare sunt uleiuri vegetale neutre (ca cocos, jojoba sau ulei de migdale) folosite pentru a dilua uleiurile eseniale nainte de aplicare topic. Ele 'transport' uleiul esenial pe pielea ta n siguran, prevenind iritaii sau reacii de sensibilitate. O diluare tipic este 2-3 picturi de ulei esenial per linguri de ulei purttor pentru aduli."
+            },
+            {
+                "question": "Pot copiii folosi uleiurile eseniale n siguran?",
+                "answer": "Da, dar cu precauie suplimentar. Pielea copiilor este mai sensibil, aa c folosete ntotdeauna rapoarte de diluare mai mari (1 pictur per lingur de ulei purttor pentru vrste de 2+ ani). Unele uleiuri ca eucaliptul i menta trebuie evitate pentru copiii mici. Aplicaia noastr ofer ghiduri de siguran specifice pe vrst pentru fiecare ulei esenial."
+            },
+            {
+                "question": "Cte picturi de ulei esenial s folosesc?",
+                "answer": "Depinde de utilizare: Pentru difuzare, foloseste 3-5 picturi per 100ml de ap. Pentru aplicare topic, foloseste o diluare de 1-3% (3-6 picturi per linguri de ulei purttor pentru aduli). Pentru bai, foloseste 5-10 picturi amestecate cu un dispersant ca sruri Epsom. Aplicaia noastr ofer recomandri specifice pentru fiecare metod de aplicare."
+            },
+            {
+                "question": "Care sunt cele mai bune uleiuri eseniale pentru nceptori?",
+                "answer": "Uleiuri excelente pentru nceptori includ: Lavanda (relaxare, somn), Menta (energie, dureri de cap), Lmia (dispoziie, curare), Arborele de ceai (suport cutanat, imunitate) i Tmaia (bunstare general). Aceste uleiuri versatile au multiple utilizri i sunt n general sigure cnd sunt diluate corect. Aplicaia noastr prezint ghiduri i reete pentru nceptori."
+            },
+            {
+                "question": "Ct timp in uleiurile eseniale?",
+                "answer": "Durata de via variaz dup tipul de ulei. Majoritatea uleiurilor eseniale in 2-5 ani cnd sunt pstrate corect. Uleiurile citrice (lmie, portocal, grepfrut) au durate de via mai scurte de 1-2 ani. Uleiurile lemnoase (santal, cedru) i unele florale pot inea 6-8 ani sau mai mult. Funcia noastr de urmrire a inventarului te ajut s monitorizezi datele de prospeime."
+            },
+            {
+                "question": "Pot amesteca diferite uleiuri eseniale mpreun?",
+                "answer": "Absolut! Amestecarea uleiurilor poate crea efecte sinergice i arome personalizate. Aplicaia noastr include 100+ amestecuri pentru difuzor create de experieni i i permite s creezi i salvezi propriile combinaii. ncepe cu amestecuri simple de 2-3 uleiuri i urmeaz ghidurile noastre de amestecare pentru rezultate echilibrate i eficiente."
+            },
+            {
+                "question": "Care este diferena dintre difuzare i aplicare topic?",
+                "answer": "Difuzarea elibereaz molecule de ulei n aer pentru inhalare, afectnd dispoziia i sistemul respirator. Este grozav pentru atmosfer i purificarea aerului. Aplicarea topic implic aplicarea uleiurilor diluate pe piele pentru beneficii intite. Ambele metode au avantaje unice, iar aplicaia noastr ofer ghidare detaliat pentru fiecare abordare."
+            },
+            {
+                "question": "Recomandrile voastre se bazeaz pe cercetare tiinific?",
+                "answer": "Baza noastr de date include informaii din cercetare revizuit de experieni, utilizare tradiional i practici de aromaterapie certificate. Dei uleiurile eseniale ofer suport de bunstare, coninutul nostru este doar informativ i nu este destinat s diagnosticheze, trateze sau vindece nicio condiie. Consult ntotdeauna profesioniti medicali pentru ngrijori medicale."
+            },
+            {
+                "question": "Cum m poate ajuta aplicaia Uleiuri Eseniale?",
+                "answer": "Aplicaia noastr este companionul tu complet de bunstare! Acceseaz 400+ condiii de sntate cu uleiuri recomandate, exploreaz 140+ profiluri de uleiuri eseniale, descoper 100+ amestecuri pentru difuzor, urmrete inventarul tu, primete sfaturi de bunstare zilnice i salveaz reetele tale favorite. Descarc gratuit pe iOS i Android pentru a ncepe cltoria ta de bunstare natural astzi."
+            }
+        ]
+    },
+    "testimonials": {
+        "title": "Iubit de Mii",
+        "subtitle": "Altur-te comunitii noastre de entuziati de bunstare",
+        "quotes": [
+            {
+                "text": "Aceast aplicaie mi-a transformat rutina de bunstare! Protocoalele de sntate sunt exacte, iar urmrirea inventarului meu de uleiuri m economisete mult timp. Recomand cu cldur pentru oricine ia n serios sntatea natural.",
+                "author": "Sarah Johnson",
+                "handle": "@sarahwellness"
+            },
+            {
+                "text": "Ca nceptor, ghidarea i reetele de experieni au fcut amestecarea pentru difuzor uoar i distractiv. Funcia de cutare a aplicaiei m ajut s gsesc rapid uleiuri pentru nevoi specifice.",
+                "author": "Lisa Chen",
+                "handle": "@lisaromatherapy"
+            },
+            {
+                "text": "Baza de date complet de uleiuri i notele de siguran mi dau ncredere n utilizarea uleiurilor eseniale. Salvarea favoriilor i notelor mi ine amestecurile perfect organizate.",
+                "author": "Emily Davis",
+                "handle": "@emilyoils"
+            },
+            {
+                "text": "Cele 400+ condiii de sntate i protocoale sunt un schimbtor de joc. Acum pot gsi soluii naturale pentru probleme comune cu ghidare cercetat medical. Perfect pentru nevoile mele zilnice de bunstare!",
+                "author": "Anna Rivera",
+                "handle": "@annanaturalhealth"
+            }
+        ]
+    },
+    "download": {
+        "title": "ncepe Cltoria Ta de Bunstare Astzi",
+        "subtitle": "Descarc acum i obine acces instant la 400+ condiii de sntate, 140+ uleiuri i ghidare de experieni",
+        "button": "Descarc Gratuit pe App Store",
+        "buttonMobile": "Descarc Gratuit<br>pe App Store",
+        "appStoreAlt": "Descarc pe App Store",
+        "googlePlayAlt": "Disponibil pe Google Play"
+    },
+    "socialShare": {
+        "label": "Distribuie cu prieteni:",
+        "facebookTitle": "Distribuie pe Facebook",
+        "whatsappTitle": "Distribuie pe WhatsApp",
+        "pinterestTitle": "Distribuie pe Pinterest",
+        "twitterTitle": "Distribuie pe X (Twitter)",
+        "emailTitle": "Distribuie prin Email"
+    },
+    "subscribe": {
+        "title": "Primete Sfaturi de Bunstare Sptmnale",
+        "subtitle": "Aboneaz-te pentru promoii exclusive, reete noi de amestecuri i sfaturi de sntate de experieni livrate n inbox-ul tu",
+        "privacy": "Respectm intimitatea ta. Dezaboneaz-te oricnd."
+    },
+    "footer": {
+        "about": {
+            "title": "Despre Ghid Uleiuri Eseniale & Reete.",
+            "description": "Uleiuri eseniale, aromaterapie i reete pentru difuzor - totul ntr-o aplicaie inteligent care face bunstarea simpl i eficient. Cunotine de experieni, unelte inteligente i sfaturi practice pentru cltoria ta de bunstare natural."
+        },
+        "siteLinks": {
+            "title": "Link-uri site.",
+            "home": "Acas",
+            "benefits": "Beneficii",
+            "health": "Sntate",
+            "howToUse": "Cum s Foloseti",
+            "faq": "ntrebri Frecvente",
+            "download": "Descarc",
+            "terms": "Termeni de Serviciu",
+            "privacy": "Politica de Confidenialitate"
+        },
+        "contact": {
+            "title": "Contacteaz-ne.",
+            "description": "Dezvoltat independent de Appostu SRL.",
+            "help": "Ai nevoie de ajutor sau ai o ntrebare? Contacteaz-ne la:"
+        },
+        "copyright": "© Copyright Ghid Uleiuri Eseniale & Reete",
+        "designBy": "Design de styleshout",
+        "disclaimer1": "Doar n scop informativ. Nu este destinat pentru diagnostic, tratament, vindecare sau prevenire medical. Declaraii neevaluate de Food and Drug Administration.",
+        "disclaimer2": "Dezvoltat independent de Appostu SRL. Aceast aplicaie conine coninut original i nu este afiliat sau susinut de doTERRA. doTERRA este o marc nregistrat a doTERRA Holdings, LLC.",
+        "backToTop": "napoi sus"
+    },
+    "language": {
+        "current": "Romn",
+        "select": "Selecteaz Limba",
+        "en": "English",
+        "de": "Deutsch",
+        "fr": "Franais",
+        "it": "Italiano",
+        "es": "Espaol",
+        "ro": "Romn"
+    }
+}

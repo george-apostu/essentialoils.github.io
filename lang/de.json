@@ -1,0 +1,256 @@
+{
+    "meta": {
+        "title": "Ätherische Öle Guide & Rezepte - Ihr vollständiger Begleiter für natürliches Wohlbefinden",
+        "description": "Entdecken Sie 400+ Gesundheitszustände, 140+ ätherische Öle und 100+ Diffuser-Mischungen. Ihr vollständiger Leitfaden für natürliches Wohlbefinden mit Expertenprotokollen und intelligenter Nachverfolgung. Jetzt herunterladen!",
+        "ogTitle": "Ätherische Öle Guide & Rezepte - Ihr vollständiger Begleiter für natürliches Wohlbefinden",
+        "ogDescription": "400+ Gesundheitszustände · 140+ Öle · 100+ Mischungen. Die ultimative Aromatherapie-App für natürliches Wohlbefinden. Kostenlos herunterladen!",
+        "twitterTitle": "Ätherische Öle Guide & Rezepte App",
+        "twitterDescription": "400+ Gesundheitszustände · 140+ Öle · 100+ Mischungen. Ihr vollständiger Begleiter für natürliches Wohlbefinden."
+    },
+    "nav": {
+        "home": "Start",
+        "benefits": "Vorteile",
+        "health": "Gesundheit",
+        "howToUse": "Anwendung",
+        "faq": "FAQ",
+        "download": "Herunterladen",
+        "getTheApp": "App holen"
+    },
+    "hero": {
+        "headline": "Ihr vollständiger Leitfaden für natürliches Wohlbefinden",
+        "subheadline": "Entdecken Sie 400+ Gesundheitszustände, 140+ ätherische Öle und Expertenmischungen - alles in einer wunderschön gestalteten App. Verwandeln Sie Ihre Wellness-Reise noch heute.",
+        "downloadAppStore": "Kostenlos im App Store herunterladen",
+        "downloadAppStoreMobile": "Kostenlos im<br>App Store herunterladen",
+        "subscribeTips": "Für Wellness-Tipps abonnieren",
+        "subscribeTipsMobile": "Für Wellness-Tipps<br>abonnieren"
+    },
+    "benefits": {
+        "section1": {
+            "title": "Finden Sie natürliche Lösungen für 400+ Gesundheitszustände",
+            "description": "Von Erkältungen und Schlaflosigkeit bis hin zu Angst und Verdauungsproblemen - entdecken Sie medizinisch recherchierte Protokolle, die Ihnen helfen, alltägliche Wellness-Bedenken natürlich zu behandeln. Jeder Zustand enthält Anwendungsmethoden, Sicherheitshinweise und Expertenempfehlungen.",
+            "highlight": "Hören Sie auf zu raten. Beginnen Sie mit Zuversicht zu heilen."
+        },
+        "section2": {
+            "title": "Expertenwissen auf einen Blick",
+            "description": "Greifen Sie auf detaillierte Profile von 140+ ätherischen Ölen zu. Erfahren Sie mehr über therapeutische Vorteile, Sicherheitsüberlegungen und Anwendungsmethoden. Ob Anfänger oder erfahrener Enthusiast - finden Sie alles, was Sie brauchen, um Öle sicher und effektiv zu nutzen.",
+            "highlight": "Ihre Taschen-Aromatherapie-Enzyklopädie."
+        },
+        "section3": {
+            "title": "Nie wieder ohne Ihre Favoriten",
+            "description": "Verfolgen Sie Ihre persönliche Ölsammlung, erhalten Sie intelligente Nachbestellvorschläge und verwalten Sie Ihr Inventar mühelos. Die App lernt Ihre Verwendungsmuster und erinnert Sie, wenn es Zeit zum Auffüllen ist, damit Sie immer vorbereitet sind.",
+            "highlight": "Wohlbefinden ohne Sorgen."
+        },
+        "section4": {
+            "title": "Schaffen Sie perfekte Atmosphären",
+            "description": "Greifen Sie auf 100+ von Experten erstellte Diffuser-Mischungen für Konzentration, Ruhe, Energie, Schlaf und Stimmung zu. Speichern Sie Ihre Favoriten, erstellen Sie individuelle Mischungen mit Ihrem Inventar und verwandeln Sie jeden Raum mit der Kraft der Aromatherapie.",
+            "highlight": "Die richtige Mischung für jeden Moment."
+        },
+        "section5": {
+            "title": "Tägliche Anleitung für Ihre Wellness-Reise",
+            "description": "Erhalten Sie personalisierte tägliche Öl-Highlights, Wellness-Tipps und Anwendungsempfehlungen. Lernen Sie neue Wege, ätherische Öle in Ihre Routine zu integrieren und entdecken Sie Vorteile, von denen Sie nie wussten, dass sie existieren.",
+            "highlight": "Erweitern Sie Ihr Wissen jeden Tag."
+        }
+    },
+    "healthBenefits": {
+        "title": "Verwandeln Sie Ihre Gesundheit auf natürliche Weise",
+        "subtitle": "Entdecken Sie, wie ätherische Öle Ihre Wellness-Reise unterstützen können",
+        "cards": {
+            "sleep": {
+                "title": "Besserer Schlaf",
+                "description": "Schlafen Sie schneller ein und wachen Sie erholt auf mit beruhigenden Mischungen wie Lavendel und Zeder."
+            },
+            "stress": {
+                "title": "Weniger Stress",
+                "description": "Finden Sie Frieden und Balance mit angstlindernden Ölen wie Bergamotte und Ylang-Ylang."
+            },
+            "focus": {
+                "title": "Verbesserte Konzentration",
+                "description": "Steigern Sie Konzentration und Produktivität natürlich mit Pfefferminze und Zitrone."
+            },
+            "immune": {
+                "title": "Immununterstützung",
+                "description": "Stärken Sie die natürlichen Abwehrkräfte Ihres Körpers mit Teebaum und Eukalyptus."
+            },
+            "pain": {
+                "title": "Schmerzlinderung",
+                "description": "Lindern Sie Kopfschmerzen, Muskelverspannungen und Beschwerden mit Weihrauch und Kamille."
+            },
+            "mood": {
+                "title": "Stimmungshebung",
+                "description": "Heben Sie Ihre Stimmung und bekämpfen Sie niedergeschlagene Gefühle mit Zitrusölen wie Orange und Grapefruit."
+            }
+        }
+    },
+    "howToUse": {
+        "title": "Einfache Möglichkeiten, ätherische Öle zu verwenden",
+        "subtitle": "Einfache Methoden für maximalen Nutzen",
+        "methods": {
+            "diffusion": {
+                "title": "Verdunstung",
+                "description": "Geben Sie 3-5 Tropfen in Ihren Diffuser für raumweite Vorteile. Perfekt zum Erstellen von Atmosphäre und Genießen von Aromatherapie in Ihrem Raum."
+            },
+            "topical": {
+                "title": "Topisch",
+                "description": "Verdünnen Sie mit Trägeröl und tragen Sie es auf Pulsstellen, Schläfen oder betroffene Bereiche auf. Führen Sie immer zuerst einen Patch-Test durch."
+            },
+            "inhalation": {
+                "title": "Inhalation",
+                "description": "Atmen Sie direkt aus der Flasche, verwenden Sie einen Diffuser oder geben Sie es in eine Schüssel mit heißem Wasser zur Dampfinhalation."
+            },
+            "bath": {
+                "title": "Bad",
+                "description": "Geben Sie 5-10 Tropfen in ein warmes Bad zur Entspannung. Mischen Sie mit Bittersalz oder Trägeröl, bevor Sie es dem Wasser hinzufügen."
+            }
+        }
+    },
+    "faq": {
+        "title": "Häufig gestellte Fragen",
+        "subtitle": "Alles, was Sie über ätherische Öle und unsere App wissen müssen",
+        "questions": [
+            {
+                "question": "Was sind ätherische Öle und wie funktionieren sie?",
+                "answer": "Ätherische Öle sind konzentrierte Pflanzenextrakte, die den natürlichen Duft und die vorteilhaften Eigenschaften von Pflanzen einfangen. Sie wirken durch Aromatherapie (Einatmen) oder topische Anwendung und interagieren mit den Systemen Ihres Körpers, um Wohlbefinden zu fördern. Jedes Öl enthält einzigartige Verbindungen, die die physische und emotionale Gesundheit unterstützen können."
+            },
+            {
+                "question": "Sind ätherische Öle sicher für die innere Anwendung?",
+                "answer": "Die innere Anwendung von ätherischen Ölen sollte nur unter Anleitung eines qualifizierten Gesundheitsfachmanns oder zertifizierten Aromatherapeuten erfolgen. Während einige Öle allgemein als sicher für die innere Anwendung in kleinen Mengen anerkannt sind, können andere toxisch sein. Unsere App bietet Sicherheitsinformationen für jedes Öl, aber konsultieren Sie immer einen Fachmann vor der inneren Anwendung."
+            },
+            {
+                "question": "Wie wähle ich das richtige ätherische Öl für meine Bedürfnisse?",
+                "answer": "Unsere App macht es einfach! Suchen Sie in 400+ Gesundheitszuständen, um empfohlene Öle zu finden, oder durchsuchen Sie unsere Datenbank von 140+ ätherischen Ölen nach ihren Vorteilen. Jedes Ölprofil enthält therapeutische Eigenschaften, Sicherheitsüberlegungen und empfohlene Anwendungen. Beginnen Sie mit beliebten Ölen wie Lavendel zur Entspannung oder Pfefferminze für Energie."
+            },
+            {
+                "question": "Was ist der Unterschied zwischen reinen und synthetischen Ölen?",
+                "answer": "Reine ätherische Öle sind 100% natürliche Pflanzenextrakte ohne Zusätze oder synthetische Verbindungen. Synthetische Öle sind im Labor erstellte Düfte, die ähnlich riechen können, aber keine therapeutischen Vorteile haben. Reine Öle werden auf Reinheit und Wirksamkeit getestet, um sicherzustellen, dass Sie die vollen Wellness-Vorteile erhalten. Unsere App hilft Ihnen, Qualitätsindikatoren für jedes Öl zu identifizieren."
+            },
+            {
+                "question": "Kann ich ätherische Öle während der Schwangerschaft verwenden?",
+                "answer": "Einige ätherische Öle sollten während der Schwangerschaft vermieden werden, besonders im ersten Trimester. Sichere Optionen umfassen typischerweise Lavendel, Kamille und Ylang-Ylang bei richtiger Verdünnung. Konsultieren Sie immer Ihren Arzt, bevor Sie ätherische Öle während der Schwangerschaft verwenden. Unsere App enthält Sicherheitshinweise für jedes Öl bezüglich Schwangerschaft und Stillzeit."
+            },
+            {
+                "question": "Wie sollte ich meine ätherischen Öle lagern?",
+                "answer": "Lagern Sie ätherische Öle in dunklen Glasflaschen (bernsteinfarben oder kobaltblau) fern von direktem Sonnenlicht und Hitze. Bewahren Sie sie an einem kühlen, trockenen Ort mit fest verschlossenen Kappen auf. Die meisten Öle halten 2-5 Jahre bei richtiger Lagerung, obwohl Zitrusöle eine kürzere Haltbarkeit von 1-2 Jahren haben. Unsere App enthält eine Nachverfolgungsfunktion zur Überwachung Ihres Ölinventars."
+            },
+            {
+                "question": "Was ist ein Trägeröl und warum brauche ich eines?",
+                "answer": "Trägeröle sind neutrale Pflanzenöle (wie Kokos, Jojoba oder Mandelöl), die verwendet werden, um ätherische Öle vor der topischen Anwendung zu verdünnen. Sie 'tragen' das ätherische Öl sicher auf Ihre Haut und verhindern Reizungen oder Empfindlichkeitsreaktionen. Eine typische Verdünnung ist 2-3 Tropfen ätherisches Öl pro Teelöffel Trägeröl für Erwachsene."
+            },
+            {
+                "question": "Können Kinder ätherische Öle sicher verwenden?",
+                "answer": "Ja, aber mit extra Vorsicht. Kinderhaut ist empfindlicher, also verwenden Sie immer höhere Verdünnungsverhältnisse (1 Tropfen pro Esslöffel Trägeröl für Kinder ab 2 Jahren). Einige Öle wie Eukalyptus und Pfefferminze sollten für junge Kinder vermieden werden. Unsere App bietet altersspezifische Sicherheitsrichtlinien für jedes ätherische Öl."
+            },
+            {
+                "question": "Wie viele Tropfen ätherisches Öl sollte ich verwenden?",
+                "answer": "Es hängt von der Verwendung ab: Zum Verdunsten verwenden Sie 3-5 Tropfen pro 100ml Wasser. Für topische Anwendung verwenden Sie eine 1-3%ige Verdünnung (3-6 Tropfen pro Teelöffel Trägeröl für Erwachsene). Für Bäder verwenden Sie 5-10 Tropfen gemischt mit einem Dispergiermittel wie Bittersalz. Unsere App bietet spezifische Empfehlungen für jede Anwendungsmethode."
+            },
+            {
+                "question": "Was sind die besten ätherischen Öle für Anfänger?",
+                "answer": "Große Einsteigeröle sind: Lavendel (Entspannung, Schlaf), Pfefferminze (Energie, Kopfschmerzen), Zitrone (Stimmung, Reinigung), Teebaum (Hautunterstützung, Immunität) und Weihrauch (allgemeines Wohlbefinden). Diese vielseitigen Öle haben mehrere Verwendungsmöglichkeiten und sind bei richtiger Verdünnung allgemein sicher. Unsere App bietet anfängerfreundliche Anleitungen und Rezepte."
+            },
+            {
+                "question": "Wie lange halten ätherische Öle?",
+                "answer": "Die Haltbarkeit variiert je nach Öltyp. Die meisten ätherischen Öle halten 2-5 Jahre bei richtiger Lagerung. Zitrusöle (Zitrone, Orange, Grapefruit) haben kürzere Haltbarkeiten von 1-2 Jahren. Hölzige Öle (Sandelholz, Zeder) und einige Blütenöle können 6-8 Jahre oder länger halten. Unsere Inventar-Nachverfolgungsfunktion hilft Ihnen, Frischheitsdaten zu überwachen."
+            },
+            {
+                "question": "Kann ich verschiedene ätherische Öle mischen?",
+                "answer": "Absolut! Das Mischen von Ölen kann synergetische Effekte und individuelle Aromen erzeugen. Unsere App enthält 100+ von Experten erstellte Diffuser-Mischungen und ermöglicht es Ihnen, eigene Kombinationen zu erstellen und zu speichern. Beginnen Sie mit einfachen 2-3-Öl-Mischungen und folgen Sie unseren Mischrichtlinien für ausgewogene, effektive Ergebnisse."
+            },
+            {
+                "question": "Was ist der Unterschied zwischen Verdunsten und topischer Anwendung?",
+                "answer": "Verdunsten setzt Ölmoleküle in die Luft zum Einatmen frei und beeinflusst Stimmung und Atemsystem. Es ist großartig für Atmosphäre und Luftreinigung. Topische Anwendung beinhaltet das Auftragen verdünnter Öle auf die Haut für gezielte Vorteile. Beide Methoden haben einzigartige Vorteile, und unsere App bietet detaillierte Anleitungen für jeden Ansatz."
+            },
+            {
+                "question": "Basieren Ihre Empfehlungen auf wissenschaftlicher Forschung?",
+                "answer": "Unsere Datenbank enthält Informationen aus begutachteter Forschung, traditioneller Verwendung und zertifizierten Aromatherapie-Praktiken. Während ätherische Öle Wellness-Unterstützung bieten, dient unser Inhalt nur zu Informationszwecken und ist nicht zur Diagnose, Behandlung oder Heilung gedacht. Konsultieren Sie immer medizinische Fachkräfte bei gesundheitlichen Bedenken."
+            },
+            {
+                "question": "Wie kann die Ätherische Öle App mir helfen?",
+                "answer": "Unsere App ist Ihr vollständiger Wellness-Begleiter! Greifen Sie auf 400+ Gesundheitszustände mit empfohlenen Ölen zu, erkunden Sie 140+ Profile ätherischer Öle, entdecken Sie 100+ Diffuser-Mischungen, verfolgen Sie Ihr Inventar, erhalten Sie tägliche Wellness-Tipps und speichern Sie Ihre Lieblingsrezepte. Laden Sie kostenlos auf iOS und Android herunter, um Ihre natürliche Wellness-Reise heute zu beginnen."
+            }
+        ]
+    },
+    "testimonials": {
+        "title": "Geliebt von Tausenden",
+        "subtitle": "Treten Sie unserer Gemeinschaft von Wellness-Enthusiasten bei",
+        "quotes": [
+            {
+                "text": "Diese App hat meine Wellness-Routine verwandelt! Die Gesundheitsprotokolle sind punktgenau, und das Verfolgen meines Ölinventars spart mir so viel Zeit. Sehr empfehlenswert für alle, die es mit natürlicher Gesundheit ernst meinen.",
+                "author": "Sarah Johnson",
+                "handle": "@sarahwellness"
+            },
+            {
+                "text": "Als Anfänger machten die geführte Einführung und Expertenrezepte das Mischen von Diffuser-Mischungen einfach und spaßig. Die Suchfunktion der App hilft mir, schnell Öle für spezifische Bedürfnisse zu finden.",
+                "author": "Lisa Chen",
+                "handle": "@lisaromatherapy"
+            },
+            {
+                "text": "Die umfassende Öldatenbank und Sicherheitshinweise geben mir Vertrauen bei der Verwendung ätherischer Öle. Favoriten und Notizen zu speichern hält meine Mischungen perfekt organisiert.",
+                "author": "Emily Davis",
+                "handle": "@emilyoils"
+            },
+            {
+                "text": "Die 400+ Gesundheitszustände und Protokolle sind ein Game-Changer. Ich kann jetzt natürliche Lösungen für häufige Probleme mit medizinisch recherchierter Anleitung finden. Perfekt für meine täglichen Wellness-Bedürfnisse!",
+                "author": "Anna Rivera",
+                "handle": "@annanaturalhealth"
+            }
+        ]
+    },
+    "download": {
+        "title": "Beginnen Sie Ihre Wellness-Reise noch heute",
+        "subtitle": "Jetzt herunterladen und sofortigen Zugang zu 400+ Gesundheitszuständen, 140+ Ölen und Expertenberatung erhalten",
+        "button": "Kostenlos im App Store herunterladen",
+        "buttonMobile": "Kostenlos<br>im App Store herunterladen",
+        "appStoreAlt": "Im App Store herunterladen",
+        "googlePlayAlt": "Bei Google Play holen"
+    },
+    "socialShare": {
+        "label": "Mit Freunden teilen:",
+        "facebookTitle": "Auf Facebook teilen",
+        "whatsappTitle": "Auf WhatsApp teilen",
+        "pinterestTitle": "Auf Pinterest teilen",
+        "twitterTitle": "Auf X (Twitter) teilen",
+        "emailTitle": "Per E-Mail teilen"
+    },
+    "subscribe": {
+        "title": "Wöchentliche Wellness-Tipps erhalten",
+        "subtitle": "Abonnieren Sie für exklusive Angebote, neue Mischrezepte und Experten-Gesundheitstipps direkt in Ihren Posteingang",
+        "privacy": "Wir respektieren Ihre Privatsphäre. Jederzeit abbestellen."
+    },
+    "footer": {
+        "about": {
+            "title": "Über Ätherische Öle Guide & Rezepte.",
+            "description": "Ätherische Öle, Aromatherapie und Diffuser-Rezepte - alles in einer intelligenten App, die Wellness einfach und effektiv macht. Expertenwissen, intelligente Werkzeuge und praktische Tipps für Ihre natürliche Wellness-Reise."
+        },
+        "siteLinks": {
+            "title": "Seitenlinks.",
+            "home": "Start",
+            "benefits": "Vorteile",
+            "health": "Gesundheit",
+            "howToUse": "Anwendung",
+            "faq": "FAQ",
+            "download": "Herunterladen",
+            "terms": "Nutzungsbedingungen",
+            "privacy": "Datenschutzrichtlinie"
+        },
+        "contact": {
+            "title": "Kontakt.",
+            "description": "Unabhängig entwickelt von Appostu SRL.",
+            "help": "Brauchen Sie Hilfe oder haben Sie eine Frage? Kontaktieren Sie uns unter:"
+        },
+        "copyright": "© Copyright Ätherische Öle Guide & Rezepte",
+        "designBy": "Design von styleshout",
+        "disclaimer1": "Nur zu Informationszwecken. Nicht zur medizinischen Diagnose, Behandlung, Heilung oder Prävention gedacht. Aussagen nicht von der Food and Drug Administration bewertet.",
+        "disclaimer2": "Unabhängig entwickelt von Appostu SRL. Diese App enthält originelle Inhalte und ist nicht mit doTERRA® verbunden oder von doTERRA® unterstützt. doTERRA ist eine Marke der doTERRA Holdings, LLC.",
+        "backToTop": "Nach oben"
+    },
+    "language": {
+        "current": "Deutsch",
+        "select": "Sprache auswählen",
+        "en": "English",
+        "de": "Deutsch",
+        "fr": "Français",
+        "it": "Italiano",
+        "es": "Español",
+        "ro": "RomânÄ"
+    }
+}

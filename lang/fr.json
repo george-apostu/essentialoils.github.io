@@ -1,0 +1,256 @@
+{
+    "meta": {
+        "title": "Guide des Huiles Essentielles & Recettes - Votre Compagnon Complet pour le Bien-être Naturel",
+        "description": "Découvrez plus de 400 conditions de santé, 140 huiles essentielles et 100 mélanges pour diffuseur. Votre guide complet pour le bien-être naturel avec des protocoles d'experts et un suivi intelligent. Téléchargez maintenant !",
+        "ogTitle": "Guide des Huiles Essentielles & Recettes - Votre Compagnon Complet pour le Bien-être Naturel",
+        "ogDescription": "Plus de 400 conditions de santé · 140 huiles · 100 mélanges. L'application d'aromathérapie ultime pour le bien-être naturel. Téléchargement gratuit !",
+        "twitterTitle": "Application Guide des Huiles Essentielles & Recettes",
+        "twitterDescription": "Plus de 400 conditions de santé · 140 huiles · 100 mélanges. Votre compagnon complet pour le bien-être naturel."
+    },
+    "nav": {
+        "home": "Accueil",
+        "benefits": "Avantages",
+        "health": "Santé",
+        "howToUse": "Utilisation",
+        "faq": "FAQ",
+        "download": "Télécharger",
+        "getTheApp": "Obtenir l'App"
+    },
+    "hero": {
+        "headline": "Votre Guide Complet pour le Bien-être Naturel",
+        "subheadline": "Découvrez plus de 400 conditions de santé, 140 huiles essentielles et des mélanges d'experts - le tout dans une application magnifiquement conçue. Transformez votre voyage vers le bien-être dès aujourd'hui.",
+        "downloadAppStore": "Télécharger Gratuitement sur l'App Store",
+        "downloadAppStoreMobile": "Télécharger Gratuitement<br>sur l'App Store",
+        "subscribeTips": "S'abonner aux Conseils Bien-être",
+        "subscribeTipsMobile": "S'abonner aux Conseils<br>Bien-être"
+    },
+    "benefits": {
+        "section1": {
+            "title": "Trouvez des Solutions Naturelles pour Plus de 400 Conditions de Santé",
+            "description": "Du rhume et de l'insomnie à l'anxiété et aux problèmes digestifs, découvrez des protocoles recherchés médicalement qui vous aident à aborder naturellement les préoccupations quotidiennes de bien-être. Chaque condition comprend des méthodes d'application, des notes de sécurité et des recommandations d'experts.",
+            "highlight": "Arrêtez de deviner. Commencez à guérir en toute confiance."
+        },
+        "section2": {
+            "title": "Une Expertise à Portée de Main",
+            "description": "Accédez à des profils détaillés de plus de 140 huiles essentielles. Découvrez les bienfaits thérapeutiques, les considérations de sécurité et les méthodes d'application. Que vous soyez débutant ou passionné expérimenté, trouvez tout ce dont vous avez besoin pour utiliser les huiles en toute sécurité et efficacité.",
+            "highlight": "Votre encyclopédie d'aromathérapie de poche."
+        },
+        "section3": {
+            "title": "Ne Manquez Plus Jamais Vos Favoris",
+            "description": "Suivez votre collection personnelle d'huiles, recevez des suggestions intelligentes de réapprovisionnement et gérez votre inventaire sans effort. L'application apprend vos habitudes d'utilisation et vous rappelle quand il est temps de réapprovisionner, pour que vous soyez toujours prêt.",
+            "highlight": "Le bien-être sans souci."
+        },
+        "section4": {
+            "title": "Créez des Atmosphères Parfaites",
+            "description": "Accédez à plus de 100 mélanges pour diffuseur créés par des experts pour la concentration, le calme, l'énergie, le sommeil et l'humeur. Sauvegardez vos favoris, créez des mélanges personnalisés avec votre inventaire et transformez n'importe quel espace avec la puissance de l'aromathérapie.",
+            "highlight": "Le bon mélange pour chaque moment."
+        },
+        "section5": {
+            "title": "Guidance Quotidienne pour Votre Voyage Bien-être",
+            "description": "Recevez des spots d'huiles quotidiens personnalisés, des conseils de bien-être et des recommandations d'utilisation. Découvrez de nouvelles façons d'intégrer les huiles essentielles dans votre routine et explorez des bienfaits dont vous ne soupçonniez pas l'existence.",
+            "highlight": "Faites croître vos connaissances chaque jour."
+        }
+    },
+    "healthBenefits": {
+        "title": "Transformez Votre Santé Naturellement",
+        "subtitle": "Découvrez comment les huiles essentielles peuvent soutenir votre voyage vers le bien-être",
+        "cards": {
+            "sleep": {
+                "title": "Meilleur Sommeil",
+                "description": "Endormez-vous plus rapidement et réveillez-vous reposé avec des mélanges apaisants comme la lavande et le cèdre."
+            },
+            "stress": {
+                "title": "Stress Réduit",
+                "description": "Trouvez paix et équilibre avec des huiles anti-anxiété comme la bergamote et l'ylang-ylang."
+            },
+            "focus": {
+                "title": "Concentration Améliorée",
+                "description": "Boostez concentration et productivité naturellement avec la menthe poivrée et le citron."
+            },
+            "immune": {
+                "title": "Soutien Immunitaire",
+                "description": "Renforcez les défenses naturelles de votre corps avec l'arbre à thé et l'eucalyptus."
+            },
+            "pain": {
+                "title": "Soulagement de la Douleur",
+                "description": "Soulagez les maux de tête, les tensions musculaires et l'inconfort avec l'encens et la camomille."
+            },
+            "mood": {
+                "title": "Élévation de l'Humeur",
+                "description": "Relevez votre moral et combattez les baisses d'humeur avec des huiles d'agrumes comme l'orange et le pamplemousse."
+            }
+        }
+    },
+    "howToUse": {
+        "title": "Façons Simples d'Utiliser les Huiles Essentielles",
+        "subtitle": "Méthodes simples pour un maximum de bienfaits",
+        "methods": {
+            "diffusion": {
+                "title": "Diffusion",
+                "description": "Ajoutez 3-5 gouttes dans votre diffuseur pour des bienfaits dans toute la pièce. Parfait pour créer une atmosphère et profiter de l'aromathérapie dans votre espace."
+            },
+            "topical": {
+                "title": "Application Topique",
+                "description": "Diluez avec une huile de support et appliquez sur les points de pulsation, les tempes ou les zones concernées. Effectuez toujours un test cutané d'abord."
+            },
+            "inhalation": {
+                "title": "Inhalation",
+                "description": "Respirez directement depuis le flacon, utilisez un diffuseur ou ajoutez à un bol d'eau chaude pour une inhalation à la vapeur."
+            },
+            "bath": {
+                "title": "Bain",
+                "description": "Ajoutez 5-10 gouttes dans un bain chaud pour la relaxation. Mélangez avec des sels d'Epsom ou une huile de support avant d'ajouter à l'eau."
+            }
+        }
+    },
+    "faq": {
+        "title": "Questions Fréquemment Posées",
+        "subtitle": "Tout ce que vous devez savoir sur les huiles essentielles et notre application",
+        "questions": [
+            {
+                "question": "Que sont les huiles essentielles et comment fonctionnent-elles ?",
+                "answer": "Les huiles essentielles sont des extraits de plantes concentrés qui capturent le parfum naturel et les propriétés bénéfiques des plantes. Elles fonctionnent par l'aromathérapie (inhalation) ou l'application topique, interagissant avec les systèmes de votre corps pour promouvoir le bien-être. Chaque huile contient des composés uniques qui peuvent soutenir la santé physique et émotionnelle."
+            },
+            {
+                "question": "Les huiles essentielles sont-elles sûres à utiliser en interne ?",
+                "answer": "L'utilisation interne des huiles essentielles ne doit se faire que sous la direction d'un professionnel de santé qualifié ou d'un aromathérapeute certifié. Bien que certaines huiles soient généralement reconnues comme sûres pour un usage interne en petites quantités, d'autres peuvent être toxiques. Notre application fournit des informations de sécurité pour chaque huile, mais consultez toujours un professionnel avant un usage interne."
+            },
+            {
+                "question": "Comment choisir la bonne huile essentielle pour mes besoins ?",
+                "answer": "Notre application facilite la tâche ! Recherchez parmi plus de 400 conditions de santé pour trouver les huiles recommandées, ou parcourez notre base de données de plus de 140 huiles essentielles par leurs bienfaits. Chaque profil d'huile comprend les propriétés thérapeutiques, les considérations de sécurité et les utilisations recommandées. Commencez avec des huiles populaires comme la lavande pour la relaxation ou la menthe poivrée pour l'énergie."
+            },
+            {
+                "question": "Quelle est la différence entre les huiles pures et synthétiques ?",
+                "answer": "Les huiles essentielles pures sont des extraits de plantes 100% naturels sans additifs ni composés synthétiques. Les huiles synthétiques sont des parfums créés en laboratoire qui peuvent sentir similaire mais manquent de bienfaits thérapeutiques. Les huiles pures sont testées pour leur pureté et leur puissance, vous assurant d'obtenir tous les bienfaits pour le bien-être. Notre application vous aide à identifier les indicateurs de qualité pour chaque huile."
+            },
+            {
+                "question": "Puis-je utiliser des huiles essentielles pendant la grossesse ?",
+                "answer": "Certaines huiles essentielles doivent être évitées pendant la grossesse, surtout au premier trimestre. Les options sûres incluent typiquement la lavande, la camomille et l'ylang-ylang lorsqu'elles sont correctement diluées. Consultez toujours votre professionnel de santé avant d'utiliser des huiles essentielles pendant la grossesse. Notre application inclut des notes de sécurité pour chaque huile concernant la grossesse et l'allaitement."
+            },
+            {
+                "question": "Comment dois-je conserver mes huiles essentielles ?",
+                "answer": "Conservez les huiles essentielles dans des flacons en verre foncé (ambre ou bleu cobalt) à l'abri de la lumière directe du soleil et de la chaleur. Gardez-les dans un endroit frais et sec avec des bouchons bien fermés. La plupart des huiles se conservent 2-5 ans lorsqu'elles sont stockées correctement, bien que les huiles d'agrumes aient une durée de vie plus courte de 1-2 ans. Notre application inclut une fonction de suivi pour surveiller votre inventaire d'huiles."
+            },
+            {
+                "question": "Qu'est-ce qu'une huile de support et pourquoi en ai-je besoin ?",
+                "answer": "Les huiles de support sont des huiles végétales neutres (comme le coco, le jojoba ou l'huile d'amande) utilisées pour diluer les huiles essentielles avant l'application topique. Elles 'transportent' l'huile essentielle sur votre peau en toute sécurité, prévenant les irritations ou réactions de sensibilité. Une dilution typique est de 2-3 gouttes d'huile essentielle par cuillère à café d'huile de support pour les adultes."
+            },
+            {
+                "question": "Les enfants peuvent-ils utiliser les huiles essentielles en toute sécurité ?",
+                "answer": "Oui, mais avec une prudence supplémentaire. La peau des enfants est plus sensible, donc utilisez toujours des ratios de dilution plus élevés (1 goutte par cuillère à soupe d'huile de support pour les 2 ans et plus). Certaines huiles comme l'eucalyptus et la menthe poivrée doivent être évitées pour les jeunes enfants. Notre application fournit des directives de sécurité spécifiques à l'âge pour chaque huile essentielle."
+            },
+            {
+                "question": "Combien de gouttes d'huile essentielle dois-je utiliser ?",
+                "answer": "Cela dépend de l'utilisation : Pour la diffusion, utilisez 3-5 gouttes pour 100 ml d'eau. Pour l'application topique, utilisez une dilution de 1-3% (3-6 gouttes par cuillère à café d'huile de support pour les adultes). Pour les bains, utilisez 5-10 gouttes mélangées avec un dispersant comme les sels d'Epsom. Notre application fournit des recommandations spécifiques pour chaque méthode d'application."
+            },
+            {
+                "question": "Quelles sont les meilleures huiles essentielles pour les débutants ?",
+                "answer": "Les excellentes huiles pour débutants incluent : Lavande (relaxation, sommeil), Menthe poivrée (énergie, maux de tête), Citron (humeur, nettoyage), Arbre à thé (soutien cutané, immunité) et Encens (bien-être général). Ces huiles polyvalentes ont de multiples utilisations et sont généralement sûres lorsqu'elles sont correctement diluées. Notre application propose des guides et des recettes adaptés aux débutants."
+            },
+            {
+                "question": "Combien de temps durent les huiles essentielles ?",
+                "answer": "La durée de conservation varie selon le type d'huile. La plupart des huiles essentielles se conservent 2-5 ans lorsqu'elles sont stockées correctement. Les huiles d'agrumes (citron, orange, pamplemousse) ont des durées de conservation plus courtes de 1-2 ans. Les huiles boisées (santal, cèdre) et certaines florales peuvent durer 6-8 ans ou plus. Notre fonction de suivi d'inventaire vous aide à surveiller les dates de fraîcheur."
+            },
+            {
+                "question": "Puis-je mélanger différentes huiles essentielles ensemble ?",
+                "answer": "Absolument ! Le mélange d'huiles peut créer des effets synergiques et des arômes personnalisés. Notre application comprend plus de 100 mélanges pour diffuseur créés par des experts et vous permet de créer et sauvegarder vos propres combinaisons. Commencez avec des mélanges simples de 2-3 huiles et suivez nos directives de mélange pour des résultats équilibrés et efficaces."
+            },
+            {
+                "question": "Quelle est la différence entre la diffusion et l'application topique ?",
+                "answer": "La diffusion libère des molécules d'huile dans l'air pour l'inhalation, affectant l'humeur et le système respiratoire. C'est génial pour l'ambiance et la purification de l'air. L'application topique implique l'application d'huiles diluées sur la peau pour des bienfaits ciblés. Les deux méthodes ont des avantages uniques, et notre application fournit des conseils détaillés pour chaque approche."
+            },
+            {
+                "question": "Vos recommandations sont-elles basées sur la recherche scientifique ?",
+                "answer": "Notre base de données comprend des informations provenant de recherches évaluées par des pairs, d'utilisations traditionnelles et de pratiques d'aromathérapie certifiées. Bien que les huiles essentielles offrent un soutien au bien-être, notre contenu est à titre informatif uniquement et n'est pas destiné à diagnostiquer, traiter ou guérir toute condition. Consultez toujours des professionnels de santé pour les préoccupations médicales."
+            },
+            {
+                "question": "Comment l'application Huiles Essentielles peut-elle m'aider ?",
+                "answer": "Notre application est votre compagnon de bien-être complet ! Accédez à plus de 400 conditions de santé avec les huiles recommandées, explorez plus de 140 profils d'huiles essentielles, découvrez plus de 100 mélanges pour diffuseur, suivez votre inventaire, recevez des conseils de bien-être quotidiens et sauvegardez vos recettes favorites. Téléchargez gratuitement sur iOS et Android pour commencer votre voyage de bien-être naturel aujourd'hui."
+            }
+        ]
+    },
+    "testimonials": {
+        "title": "Aimée par des Milliers",
+        "subtitle": "Rejoignez notre communauté de passionnés de bien-être",
+        "quotes": [
+            {
+                "text": "Cette application a transformé ma routine de bien-être ! Les protocoles de santé sont parfaits, et le suivi de mon inventaire d'huiles me fait gagner tellement de temps. Hautement recommandé pour tous ceux qui prennent la santé naturelle au sérieux.",
+                "author": "Sarah Johnson",
+                "handle": "@sarahwellness"
+            },
+            {
+                "text": "En tant que débutant, l'introduction guidée et les recettes d'experts ont rendu la création de mélanges pour diffuseur facile et amusante. La fonction de recherche de l'application m'aide à trouver rapidement des huiles pour des besoins spécifiques.",
+                "author": "Lisa Chen",
+                "handle": "@lisaromatherapy"
+            },
+            {
+                "text": "La base de données complète d'huiles et les notes de sécurité me donnent confiance dans l'utilisation des huiles essentielles. Sauvegarder les favoris et les notes garde mes mélanges parfaitement organisés.",
+                "author": "Emily Davis",
+                "handle": "@emilyoils"
+            },
+            {
+                "text": "Les plus de 400 conditions de santé et protocoles sont un changeur de jeu. Je peux maintenant trouver des solutions naturelles pour les problèmes courants avec des conseils médicalement recherchés. Parfait pour mes besoins quotidiens de bien-être !",
+                "author": "Anna Rivera",
+                "handle": "@annanaturalhealth"
+            }
+        ]
+    },
+    "download": {
+        "title": "Commencez Votre Voyage Bien-être Aujourd'hui",
+        "subtitle": "Téléchargez maintenant et accédez instantanément à plus de 400 conditions de santé, 140 huiles et des conseils d'experts",
+        "button": "Télécharger Gratuitement sur l'App Store",
+        "buttonMobile": "Télécharger Gratuitement<br>sur l'App Store",
+        "appStoreAlt": "Télécharger sur l'App Store",
+        "googlePlayAlt": "Disponible sur Google Play"
+    },
+    "socialShare": {
+        "label": "Partager avec des amis :",
+        "facebookTitle": "Partager sur Facebook",
+        "whatsappTitle": "Partager sur WhatsApp",
+        "pinterestTitle": "Partager sur Pinterest",
+        "twitterTitle": "Partager sur X (Twitter)",
+        "emailTitle": "Partager par Email"
+    },
+    "subscribe": {
+        "title": "Recevez des Conseils Bien-être Hebdomadaires",
+        "subtitle": "Abonnez-vous pour des promotions exclusives, de nouvelles recettes de mélanges et des conseils santé d'experts livrés dans votre boîte mail",
+        "privacy": "Nous respectons votre vie privée. Désabonnez-vous à tout moment."
+    },
+    "footer": {
+        "about": {
+            "title": "À propos du Guide des Huiles Essentielles & Recettes.",
+            "description": "Huiles essentielles, aromathérapie et recettes pour diffuseur - tout dans une application intelligente qui rend le bien-être simple et efficace. Expertise, outils intelligents et conseils pratiques pour votre voyage de bien-être naturel."
+        },
+        "siteLinks": {
+            "title": "Liens du site.",
+            "home": "Accueil",
+            "benefits": "Avantages",
+            "health": "Santé",
+            "howToUse": "Utilisation",
+            "faq": "FAQ",
+            "download": "Télécharger",
+            "terms": "Conditions d'Utilisation",
+            "privacy": "Politique de Confidentialité"
+        },
+        "contact": {
+            "title": "Contactez-nous.",
+            "description": "Développé indépendamment par Appostu SRL.",
+            "help": "Besoin d'aide ou avez une question ? Contactez-nous à :"
+        },
+        "copyright": "© Copyright Guide des Huiles Essentielles & Recettes",
+        "designBy": "Design par styleshout",
+        "disclaimer1": "À titre informatif uniquement. Non destiné au diagnostic, traitement, guérison ou prévention médicale. Déclarations non évaluées par la Food and Drug Administration.",
+        "disclaimer2": "Développé indépendamment par Appostu SRL. Cette application contient du contenu original et n'est pas affiliée ou approuvée par doTERRA®. doTERRA est une marque de doTERRA Holdings, LLC.",
+        "backToTop": "Retour en haut"
+    },
+    "language": {
+        "current": "Français",
+        "select": "Sélectionner la Langue",
+        "en": "English",
+        "de": "Deutsch",
+        "fr": "Français",
+        "it": "Italiano",
+        "es": "Español",
+        "ro": "RomânÄ"
+    }
+}

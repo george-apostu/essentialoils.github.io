@@ -374,6 +374,7 @@
     <link rel="stylesheet" href="css/vendor.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/purple-gold-theme.css">
+    <link rel="stylesheet" href="css/i18n.css">
 
     <style>
         /* Additional inline styles for placeholder cards */
@@ -501,16 +502,16 @@
     
             <nav class="header-nav-wrap">
                 <ul class="header-main-nav">
-                    <li class="current"><a class="smoothscroll" href="#hero" title="home">Home</a></li>
-                    <li><a class="smoothscroll" href="#benefits" title="benefits">Benefits</a></li>
-                    <li><a class="smoothscroll" href="#health-benefits" title="health">Health</a></li>
-                    <li><a class="smoothscroll" href="#how-to-use" title="how to use">How to Use</a></li>
-                    <li><a class="smoothscroll" href="#faq" title="faq">FAQ</a></li>
-                    <li><a class="smoothscroll" href="#download" title="download">Download</a></li>
+                    <li class="current"><a class="smoothscroll" href="#hero" title="home" data-i18n="nav.home">Home</a></li>
+                    <li><a class="smoothscroll" href="#benefits" title="benefits" data-i18n="nav.benefits">Benefits</a></li>
+                    <li><a class="smoothscroll" href="#health-benefits" title="health" data-i18n="nav.health">Health</a></li>
+                    <li><a class="smoothscroll" href="#how-to-use" title="how to use" data-i18n="nav.howToUse">How to Use</a></li>
+                    <li><a class="smoothscroll" href="#faq" title="faq" data-i18n="nav.faq">FAQ</a></li>
+                    <li><a class="smoothscroll" href="#download" title="download" data-i18n="nav.download">Download</a></li>
                 </ul>
     
                 <div class="header-cta">
-                    <a href="#download" class="btn btn--primary header-cta__btn smoothscroll">Get The App</a>
+                    <a href="#download" class="btn btn--primary header-cta__btn smoothscroll" data-i18n="nav.getTheApp">Get The App</a>
                 </div>
             </nav> <!-- end header-nav-wrap -->
     
@@ -518,6 +519,24 @@
         </div>
 
     </header> <!-- end header -->
+
+    <!-- Floating Language Switcher -->
+    <div class="language-switcher-floating">
+        <div class="language-switcher">
+            <button class="language-switcher__toggle" aria-expanded="false" aria-haspopup="true" aria-label="Select Language">
+                <span class="language-switcher__current">🇬🇧 English</span>
+                <span class="language-switcher__arrow">▲</span>
+            </button>
+            <ul class="language-switcher__dropdown" role="menu">
+                <li role="menuitem"><button data-lang="en">🇬🇧 English</button></li>
+                <li role="menuitem"><button data-lang="de">🇩🇪 Deutsch</button></li>
+                <li role="menuitem"><button data-lang="fr">🇫🇷 Français</button></li>
+                <li role="menuitem"><button data-lang="it">🇮🇹 Italiano</button></li>
+                <li role="menuitem"><button data-lang="es">🇪🇸 Español</button></li>
+                <li role="menuitem"><button data-lang="ro">🇷🇴 Română</button></li>
+            </ul>
+        </div>
+    </div>
 
 
     <!-- Breadcrumb Navigation (Temporarily disabled)
@@ -560,25 +579,25 @@
     <section id="hero" class="s-hero-new">
 
         <div class="s-hero-new__content">
-            <h1>
+            <h1 data-i18n="hero.headline">
                 Your Complete Guide to Natural Wellness
             </h1>
 
-            <p class="s-hero-new__subheadline">
+            <p class="s-hero-new__subheadline" data-i18n="hero.subheadline">
                 Discover 400+ health conditions, 140+ essential oils, and expert blends — all in one beautifully designed app. Transform your wellness journey today.
             </p>
 
             <div class="s-hero-new__ctas">
-                <a href="#download" class="btn btn--gold smoothscroll btn-desktop">
+                <a href="#download" class="btn btn--gold smoothscroll btn-desktop" data-i18n="hero.downloadAppStore">
                     Download Free on App Store
                 </a>
-                <a href="#download" class="btn btn--gold smoothscroll btn-mobile">
+                <a href="#download" class="btn btn--gold smoothscroll btn-mobile" data-i18n="hero.downloadAppStoreMobile">
                     Download Free<br>on App Store
                 </a>
-                <a href="#subscribe" class="btn btn--primary smoothscroll btn-desktop">
+                <a href="#subscribe" class="btn btn--primary smoothscroll btn-desktop" data-i18n="hero.subscribeTips">
                     Subscribe for Wellness Tips
                 </a>
-                <a href="#subscribe" class="btn btn--primary smoothscroll btn-mobile">
+                <a href="#subscribe" class="btn btn--primary smoothscroll btn-mobile" data-i18n="hero.subscribeTipsMobile">
                     Subscribe for<br>Wellness Tips
                 </a>
             </div>
@@ -609,13 +628,13 @@
 
         <div class="alternate-layout">
             <div class="alternate-layout__content">
-                <h2 class="display-1">
+                <h2 class="display-1" data-i18n="benefits.section1.title">
                     Find Natural Solutions for 400+ Health Conditions
                 </h2>
-                <p class="lead">
+                <p class="lead" data-i18n="benefits.section1.description">
                     From colds and insomnia to anxiety and digestive issues, discover medically researched protocols that help you address everyday wellness concerns naturally. Each condition includes application methods, safety notes, and expert recommendations.
                 </p>
-                <div class="benefit-highlight">
+                <div class="benefit-highlight" data-i18n="benefits.section1.highlight">
                     Stop guessing. Start healing with confidence.
                 </div>
             </div>
@@ -634,13 +653,13 @@
 
         <div class="alternate-layout reverse">
             <div class="alternate-layout__content">
-                <h2 class="display-1">
+                <h2 class="display-1" data-i18n="benefits.section2.title">
                     Expert Knowledge at Your Fingertips
                 </h2>
-                <p class="lead">
+                <p class="lead" data-i18n="benefits.section2.description">
                     Access in-depth profiles for 140+ essential oils. Learn therapeutic benefits, safety considerations, and application methods. Whether you're a beginner or experienced enthusiast, find everything you need to use oils safely and effectively.
                 </p>
-                <div class="benefit-highlight">
+                <div class="benefit-highlight" data-i18n="benefits.section2.highlight">
                     Your pocket aromatherapy encyclopedia.
                 </div>
             </div>
@@ -659,13 +678,13 @@
 
         <div class="alternate-layout">
             <div class="alternate-layout__content">
-                <h2 class="display-1">
+                <h2 class="display-1" data-i18n="benefits.section3.title">
                     Never Run Out of Your Favorites
                 </h2>
-                <p class="lead">
+                <p class="lead" data-i18n="benefits.section3.description">
                     Track your personal oil collection, get smart restock suggestions, and manage your inventory effortlessly. The app learns your usage patterns and reminds you when it's time to replenish, so you're always prepared.
                 </p>
-                <div class="benefit-highlight">
+                <div class="benefit-highlight" data-i18n="benefits.section3.highlight">
                     Wellness without the worry.
                 </div>
             </div>
@@ -684,13 +703,13 @@
 
         <div class="alternate-layout reverse">
             <div class="alternate-layout__content">
-                <h2 class="display-1">
+                <h2 class="display-1" data-i18n="benefits.section4.title">
                     Create Perfect Atmospheres
                 </h2>
-                <p class="lead">
+                <p class="lead" data-i18n="benefits.section4.description">
                     Access 100+ expert-crafted diffuser blends for focus, calm, energy, sleep, and mood. Save your favorites, create custom blends using your inventory, and transform any space with the power of aromatherapy.
                 </p>
-                <div class="benefit-highlight">
+                <div class="benefit-highlight" data-i18n="benefits.section4.highlight">
                     The right blend for every moment.
                 </div>
             </div>
@@ -709,13 +728,13 @@
 
         <div class="alternate-layout">
             <div class="alternate-layout__content">
-                <h2 class="display-1">
+                <h2 class="display-1" data-i18n="benefits.section5.title">
                     Daily Guidance for Your Wellness Journey
                 </h2>
-                <p class="lead">
+                <p class="lead" data-i18n="benefits.section5.description">
                     Receive personalized daily oil spotlights, wellness tips, and usage recommendations. Learn new ways to incorporate essential oils into your routine and discover benefits you never knew existed.
                 </p>
-                <div class="benefit-highlight">
+                <div class="benefit-highlight" data-i18n="benefits.section5.highlight">
                     Grow your knowledge every day.
                 </div>
             </div>
@@ -734,10 +753,10 @@
 
         <div class="row section-header align-center">
             <div class="col-full">
-                <h1 class="display-1">
+                <h1 class="display-1" data-i18n="healthBenefits.title">
                     Transform Your Health Naturally
                 </h1>
-                <p class="lead">
+                <p class="lead" data-i18n="healthBenefits.subtitle">
                     Discover how essential oils can support your wellness journey
                 </p>
             </div>
@@ -746,38 +765,38 @@
         <div class="health-benefits-grid">
             <div class="benefit-card">
                 <div class="benefit-card__icon">😴</div>
-                <h3 class="benefit-card__title">Better Sleep</h3>
-                <p class="benefit-card__description">Fall asleep faster and wake refreshed with calming blends like lavender and cedarwood.</p>
+                <h3 class="benefit-card__title" data-i18n="healthBenefits.cards.sleep.title">Better Sleep</h3>
+                <p class="benefit-card__description" data-i18n="healthBenefits.cards.sleep.description">Fall asleep faster and wake refreshed with calming blends like lavender and cedarwood.</p>
             </div>
 
             <div class="benefit-card">
                 <div class="benefit-card__icon">🧘</div>
-                <h3 class="benefit-card__title">Reduced Stress</h3>
-                <p class="benefit-card__description">Find peace and balance with anxiety-relieving oils like bergamot and ylang ylang.</p>
+                <h3 class="benefit-card__title" data-i18n="healthBenefits.cards.stress.title">Reduced Stress</h3>
+                <p class="benefit-card__description" data-i18n="healthBenefits.cards.stress.description">Find peace and balance with anxiety-relieving oils like bergamot and ylang ylang.</p>
             </div>
 
             <div class="benefit-card">
                 <div class="benefit-card__icon">🎯</div>
-                <h3 class="benefit-card__title">Enhanced Focus</h3>
-                <p class="benefit-card__description">Boost concentration and productivity naturally with peppermint and lemon.</p>
+                <h3 class="benefit-card__title" data-i18n="healthBenefits.cards.focus.title">Enhanced Focus</h3>
+                <p class="benefit-card__description" data-i18n="healthBenefits.cards.focus.description">Boost concentration and productivity naturally with peppermint and lemon.</p>
             </div>
 
             <div class="benefit-card">
                 <div class="benefit-card__icon">🛡️</div>
-                <h3 class="benefit-card__title">Immune Support</h3>
-                <p class="benefit-card__description">Strengthen your body's natural defenses with tea tree and eucalyptus.</p>
+                <h3 class="benefit-card__title" data-i18n="healthBenefits.cards.immune.title">Immune Support</h3>
+                <p class="benefit-card__description" data-i18n="healthBenefits.cards.immune.description">Strengthen your body's natural defenses with tea tree and eucalyptus.</p>
             </div>
 
             <div class="benefit-card">
                 <div class="benefit-card__icon">💆</div>
-                <h3 class="benefit-card__title">Pain Relief</h3>
-                <p class="benefit-card__description">Soothe headaches, muscle tension, and discomfort with frankincense and chamomile.</p>
+                <h3 class="benefit-card__title" data-i18n="healthBenefits.cards.pain.title">Pain Relief</h3>
+                <p class="benefit-card__description" data-i18n="healthBenefits.cards.pain.description">Soothe headaches, muscle tension, and discomfort with frankincense and chamomile.</p>
             </div>
 
             <div class="benefit-card">
                 <div class="benefit-card__icon">😊</div>
-                <h3 class="benefit-card__title">Mood Elevation</h3>
-                <p class="benefit-card__description">Lift your spirits and combat low moods with citrus oils like orange and grapefruit.</p>
+                <h3 class="benefit-card__title" data-i18n="healthBenefits.cards.mood.title">Mood Elevation</h3>
+                <p class="benefit-card__description" data-i18n="healthBenefits.cards.mood.description">Lift your spirits and combat low moods with citrus oils like orange and grapefruit.</p>
             </div>
         </div>
 
@@ -790,10 +809,10 @@
 
         <div class="row section-header align-center">
             <div class="col-full">
-                <h1 class="display-1">
+                <h1 class="display-1" data-i18n="howToUse.title">
                     Simple Ways to Use Essential Oils
                 </h1>
-                <p class="lead">
+                <p class="lead" data-i18n="howToUse.subtitle">
                     Easy methods for maximum benefit
                 </p>
             </div>
@@ -802,26 +821,26 @@
         <div class="usage-methods">
             <div class="usage-method">
                 <div class="usage-method__number">1</div>
-                <h3 class="usage-method__title">Diffusion</h3>
-                <p class="usage-method__description">Add 3-5 drops to your diffuser for room-wide benefits. Perfect for creating atmosphere and enjoying aromatherapy throughout your space.</p>
+                <h3 class="usage-method__title" data-i18n="howToUse.methods.diffusion.title">Diffusion</h3>
+                <p class="usage-method__description" data-i18n="howToUse.methods.diffusion.description">Add 3-5 drops to your diffuser for room-wide benefits. Perfect for creating atmosphere and enjoying aromatherapy throughout your space.</p>
             </div>
 
             <div class="usage-method">
                 <div class="usage-method__number">2</div>
-                <h3 class="usage-method__title">Topical</h3>
-                <p class="usage-method__description">Dilute with carrier oil and apply to pulse points, temples, or affected areas. Always perform a patch test first.</p>
+                <h3 class="usage-method__title" data-i18n="howToUse.methods.topical.title">Topical</h3>
+                <p class="usage-method__description" data-i18n="howToUse.methods.topical.description">Dilute with carrier oil and apply to pulse points, temples, or affected areas. Always perform a patch test first.</p>
             </div>
 
             <div class="usage-method">
                 <div class="usage-method__number">3</div>
-                <h3 class="usage-method__title">Inhalation</h3>
-                <p class="usage-method__description">Breathe directly from the bottle, use a diffuser, or add to a bowl of hot water for steam inhalation.</p>
+                <h3 class="usage-method__title" data-i18n="howToUse.methods.inhalation.title">Inhalation</h3>
+                <p class="usage-method__description" data-i18n="howToUse.methods.inhalation.description">Breathe directly from the bottle, use a diffuser, or add to a bowl of hot water for steam inhalation.</p>
             </div>
 
             <div class="usage-method">
                 <div class="usage-method__number">4</div>
-                <h3 class="usage-method__title">Bath</h3>
-                <p class="usage-method__description">Add 5-10 drops to a warm bath for relaxation. Mix with Epsom salts or carrier oil before adding to water.</p>
+                <h3 class="usage-method__title" data-i18n="howToUse.methods.bath.title">Bath</h3>
+                <p class="usage-method__description" data-i18n="howToUse.methods.bath.description">Add 5-10 drops to a warm bath for relaxation. Mix with Epsom salts or carrier oil before adding to water.</p>
             </div>
         </div>
 
@@ -833,10 +852,10 @@
     <section id="faq" class="faq-section" aria-label="Frequently Asked Questions">
         <div class="row section-header align-center">
             <div class="col-full">
-                <h1 class="display-1">
+                <h1 class="display-1" data-i18n="faq.title">
                     Frequently Asked Questions
                 </h1>
-                <p class="lead">
+                <p class="lead" data-i18n="faq.subtitle">
                     Everything you need to know about essential oils and our app
                 </p>
             </div>
@@ -845,11 +864,11 @@
         <div class="faq-accordion">
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>What are essential oils and how do they work?</h3>
+                    <h3 data-i18n="faq.q1.question">What are essential oils and how do they work?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q1.answer">
                         Essential oils are concentrated plant extracts that capture the natural scent and beneficial properties of plants. They work through aromatherapy (inhalation) or topical application, interacting with your body's systems to promote wellness. Each oil contains unique compounds that can support physical and emotional health.
                     </div>
                 </div>
@@ -857,11 +876,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>Are essential oils safe to use internally?</h3>
+                    <h3 data-i18n="faq.q2.question">Are essential oils safe to use internally?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q2.answer">
                         Internal use of essential oils should only be done under the guidance of a qualified healthcare professional or certified aromatherapist. While some oils are generally recognized as safe for internal use in small amounts, others can be toxic. Our app provides safety information for each oil, but always consult a professional before internal use.
                     </div>
                 </div>
@@ -869,11 +888,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>How do I choose the right essential oil for my needs?</h3>
+                    <h3 data-i18n="faq.q3.question">How do I choose the right essential oil for my needs?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q3.answer">
                         Our app makes it easy! Search from 400+ health conditions to find recommended oils, or browse our database of 140+ essential oils by their benefits. Each oil profile includes therapeutic properties, safety considerations, and recommended uses. Start with popular oils like lavender for relaxation or peppermint for energy.
                     </div>
                 </div>
@@ -881,11 +900,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>What is the difference between pure and synthetic oils?</h3>
+                    <h3 data-i18n="faq.q4.question">What is the difference between pure and synthetic oils?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q4.answer">
                         Pure essential oils are 100% natural plant extracts without additives or synthetic compounds. Synthetic oils are laboratory-created fragrances that may smell similar but lack therapeutic benefits. Pure oils are tested for purity and potency, ensuring you get the full wellness benefits. Our app helps you identify quality indicators for each oil.
                     </div>
                 </div>
@@ -893,11 +912,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>Can I use essential oils during pregnancy?</h3>
+                    <h3 data-i18n="faq.q5.question">Can I use essential oils during pregnancy?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q5.answer">
                         Some essential oils should be avoided during pregnancy, especially in the first trimester. Safe options typically include lavender, chamomile, and ylang-ylang when properly diluted. Always consult your healthcare provider before using essential oils during pregnancy. Our app includes safety notes for each oil regarding pregnancy and nursing.
                     </div>
                 </div>
@@ -905,11 +924,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>How should I store my essential oils?</h3>
+                    <h3 data-i18n="faq.q6.question">How should I store my essential oils?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q6.answer">
                         Store essential oils in dark glass bottles (amber or cobalt blue) away from direct sunlight and heat. Keep them in a cool, dry place with tightly closed caps. Most oils last 2-5 years when stored properly, though citrus oils have a shorter shelf life of 1-2 years. Our app includes a tracking feature to monitor your oil inventory.
                     </div>
                 </div>
@@ -917,11 +936,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>What is a carrier oil and why do I need one?</h3>
+                    <h3 data-i18n="faq.q7.question">What is a carrier oil and why do I need one?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q7.answer">
                         Carrier oils are neutral plant oils (like coconut, jojoba, or almond oil) used to dilute essential oils before topical application. They "carry" the essential oil onto your skin safely, preventing irritation or sensitivity reactions. A typical dilution is 2-3 drops of essential oil per teaspoon of carrier oil for adults.
                     </div>
                 </div>
@@ -929,11 +948,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>Can children use essential oils safely?</h3>
+                    <h3 data-i18n="faq.q8.question">Can children use essential oils safely?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q8.answer">
                         Yes, but with extra caution. Children's skin is more sensitive, so always use higher dilution ratios (1 drop per tablespoon of carrier oil for ages 2+). Some oils like eucalyptus and peppermint should be avoided for young children. Our app provides age-specific safety guidelines for each essential oil.
                     </div>
                 </div>
@@ -941,11 +960,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>How many drops of essential oil should I use?</h3>
+                    <h3 data-i18n="faq.q9.question">How many drops of essential oil should I use?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q9.answer">
                         It depends on the use: For diffusing, use 3-5 drops per 100ml of water. For topical application, use a 1-3% dilution (3-6 drops per teaspoon of carrier oil for adults). For baths, use 5-10 drops mixed with a dispersant like Epsom salts. Our app provides specific recommendations for each application method.
                     </div>
                 </div>
@@ -953,11 +972,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>What are the best essential oils for beginners?</h3>
+                    <h3 data-i18n="faq.q10.question">What are the best essential oils for beginners?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q10.answer">
                         Great starter oils include: Lavender (relaxation, sleep), Peppermint (energy, headaches), Lemon (mood, cleaning), Tea Tree (skin support, immunity), and Frankincense (overall wellness). These versatile oils have multiple uses and are generally safe when properly diluted. Our app features beginner-friendly guides and recipes.
                     </div>
                 </div>
@@ -965,11 +984,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>How long do essential oils last?</h3>
+                    <h3 data-i18n="faq.q11.question">How long do essential oils last?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q11.answer">
                         Shelf life varies by oil type. Most essential oils last 2-5 years when stored properly. Citrus oils (lemon, orange, grapefruit) have shorter shelf lives of 1-2 years. Woody oils (sandalwood, cedarwood) and some florals can last 6-8 years or more. Our inventory tracking feature helps you monitor freshness dates.
                     </div>
                 </div>
@@ -977,11 +996,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>Can I mix different essential oils together?</h3>
+                    <h3 data-i18n="faq.q12.question">Can I mix different essential oils together?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q12.answer">
                         Absolutely! Blending oils can create synergistic effects and custom aromas. Our app includes 100+ expert-crafted diffuser blends and allows you to create and save your own combinations. Start with simple 2-3 oil blends and follow our blending guidelines for balanced, effective results.
                     </div>
                 </div>
@@ -989,11 +1008,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>What's the difference between diffusing and topical application?</h3>
+                    <h3 data-i18n="faq.q13.question">What's the difference between diffusing and topical application?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q13.answer">
                         Diffusing releases oil molecules into the air for inhalation, affecting mood and respiratory system. It's great for ambiance and air purification. Topical application involves applying diluted oils to skin for targeted benefits. Both methods have unique advantages, and our app provides detailed guidance for each approach.
                     </div>
                 </div>
@@ -1001,11 +1020,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>Are your recommendations based on scientific research?</h3>
+                    <h3 data-i18n="faq.q14.question">Are your recommendations based on scientific research?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q14.answer">
                         Our database includes information from peer-reviewed research, traditional use, and certified aromatherapy practices. While essential oils offer wellness support, our content is for informational purposes only and not intended to diagnose, treat, or cure any condition. Always consult healthcare professionals for medical concerns.
                     </div>
                 </div>
@@ -1013,11 +1032,11 @@
 
             <div class="faq-item">
                 <div class="faq-question">
-                    <h3>How can the Essential Oils app help me?</h3>
+                    <h3 data-i18n="faq.q15.question">How can the Essential Oils app help me?</h3>
                     <div class="faq-icon"></div>
                 </div>
                 <div class="faq-answer">
-                    <div class="faq-answer-content">
+                    <div class="faq-answer-content" data-i18n="faq.q15.answer">
                         Our app is your complete wellness companion! Access 400+ health conditions with recommended oils, explore 140+ essential oil profiles, discover 100+ diffuser blends, track your inventory, receive daily wellness tips, and save your favorite recipes. Download free on iOS and Android to start your natural wellness journey today.
                     </div>
                 </div>
@@ -1032,10 +1051,10 @@
 
         <div class="row section-header align-center">
             <div class="col-full">
-                <h1 class="display-1">
+                <h1 class="display-1" data-i18n="testimonials.title">
                     Loved by Thousands
                 </h1>
-                <p class="lead">
+                <p class="lead" data-i18n="testimonials.subtitle">
                     Join our community of wellness enthusiasts
                 </p>
             </div>
@@ -1106,16 +1125,19 @@
 
         <div class="row">
             <div class="col-full">
-                <h2 class="display-1">
+                <h2 class="display-1" data-i18n="download.title">
                     Start Your Wellness Journey Today
                 </h2>
-                <p class="lead">
+                <p class="lead" data-i18n="download.subtitle">
                     Download now and get instant access to 400+ health conditions, 140+ oils, and expert guidance
                 </p>
 
                 <div class="cta-section__buttons">
-                    <a href="get-app.html" class="btn btn--gold">
+                    <a href="get-app.html" class="btn btn--gold btn-desktop" data-i18n="download.button">
                         Download Free on App Store
+                    </a>
+                    <a href="get-app.html" class="btn btn--gold btn-mobile" data-i18n="download.buttonMobile">
+                        Download Free<br>on App Store
                     </a>
                 </div>
 
@@ -1132,10 +1154,10 @@
 
                 <div class="store-buttons" style="margin-top: 3rem; display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap;">
                     <a href="https://apps.apple.com/app/apple-store/id6744415870?pt=127389640&ct=Landing%20Page&mt=8">
-                        <img src="images/appstore.png" alt="Download on App Store" style="height: 70px;">
+                        <img src="images/appstore.png" alt="Download on App Store" data-i18n-alt="download.appStoreAlt" style="height: 70px;">
                     </a>
                     <a href="https://play.google.com/store/apps/details?id=com.appostu.essentialoils">
-                        <img src="images/google-play.png" alt="Get it on Google Play" style="height: 70px;">
+                        <img src="images/google-play.png" alt="Get it on Google Play" data-i18n-alt="download.googlePlayAlt" style="height: 70px;">
                     </a>
                 </div>
             </div>
@@ -1148,7 +1170,7 @@
     ================================================== -->
     <section class="social-share-section">
         <div class="social-share">
-            <p class="social-share__label">Share with friends:</p>
+            <p class="social-share__label" data-i18n="socialShare.label">Share with friends:</p>
             <div class="social-share__buttons">
                 <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fessentialoils.app%2F" target="_blank" rel="noopener noreferrer" title="Share on Facebook" class="social-share__btn social-share__btn--facebook" aria-label="Share on Facebook">
                     <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -1186,10 +1208,10 @@
 
         <div class="row">
             <div class="col-full">
-                <h2 class="display-1">
+                <h2 class="display-1" data-i18n="subscribe.title">
                     Get Weekly Wellness Tips
                 </h2>
-                <p class="lead">
+                <p class="lead" data-i18n="subscribe.subtitle">
                     Subscribe for exclusive promotions, new blend recipes, and expert health tips delivered to your inbox
                 </p>
 
@@ -1197,7 +1219,7 @@
                     <div class="ml-embedded" data-form="216nn4"></div>
                 </div>
 
-                <p class="subscribe-form-new__privacy">
+                <p class="subscribe-form-new__privacy" data-i18n="subscribe.privacy">
                     🔒 We respect your privacy. Unsubscribe at any time.
                 </p>
             </div>
@@ -1212,9 +1234,9 @@
 
         <div class="row">
             <div class="col-five tab-full left">
-                <h4>About Essential Oils Guide & Recipes.</h4>
+                <h4 data-i18n="footer.about.title">About Essential Oils Guide & Recipes.</h4>
 
-                <p>
+                <p data-i18n="footer.about.description">
                 Essential oils, aromatherapy, and diffuser recipes — all in one smart app to make wellness simple and effective. Expert insights, smart tools, and real-world tips for your natural wellness journey.
                 </p>
 
@@ -1230,27 +1252,27 @@
                 <div class="row">
 
                     <div class="footer__site-links col-five mob-full">
-                        <h4>Site links.</h4>
+                        <h4 data-i18n="footer.siteLinks.title">Site links.</h4>
 
                         <ul class="footer__site-links">
-                            <li><a href="#hero" class="smoothscroll">Home</a></li>
-                            <li><a href="#benefits" class="smoothscroll">Benefits</a></li>
-                            <li><a href="#health-benefits" class="smoothscroll">Health</a></li>
-                            <li><a href="#how-to-use" class="smoothscroll">How to Use</a></li>
-                            <li><a href="#faq" class="smoothscroll">FAQ</a></li>
-                            <li><a href="#download" class="smoothscroll">Download</a></li>
-                            <li><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Terms of Service</a></li>
-                            <li><a href="https://appostu.com/privacypolicy">Privacy Policy</a></li>
+                            <li><a href="#hero" class="smoothscroll" data-i18n="footer.siteLinks.home">Home</a></li>
+                            <li><a href="#benefits" class="smoothscroll" data-i18n="footer.siteLinks.benefits">Benefits</a></li>
+                            <li><a href="#health-benefits" class="smoothscroll" data-i18n="footer.siteLinks.health">Health</a></li>
+                            <li><a href="#how-to-use" class="smoothscroll" data-i18n="footer.siteLinks.howToUse">How to Use</a></li>
+                            <li><a href="#faq" class="smoothscroll" data-i18n="footer.siteLinks.faq">FAQ</a></li>
+                            <li><a href="#download" class="smoothscroll" data-i18n="footer.siteLinks.download">Download</a></li>
+                            <li><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/" data-i18n="footer.siteLinks.terms">Terms of Service</a></li>
+                            <li><a href="https://appostu.com/privacypolicy" data-i18n="footer.siteLinks.privacy">Privacy Policy</a></li>
                         </ul>
                     </div>
 
                     <div class="footer__contact col-seven mob-full">
-                        <h4>Contact Us.</h4>
+                        <h4 data-i18n="footer.contact.title">Contact Us.</h4>
 
-                        <p>
+                        <p data-i18n="footer.contact.description">
                         Independently developed by Appostu SRL.
                         </p>
-                        <p>
+                        <p data-i18n="footer.contact.help">
                         Need help or have a question? Contact us at: <br>
                         <a href="mailto:appostu.srl@gmail.com" class="footer__mail-link">support@appostu.com</a>
                         </p>
@@ -1260,13 +1282,13 @@
             </div>
 
             <div class="col-full ss-copyright">
-                <span>&copy; Copyright Essential Oils Guide & Recipes</span>
-                <span>Design by <a href="https://www.styleshout.com/">styleshout</a></span>
+                <span data-i18n="footer.copyright">&copy; Copyright Essential Oils Guide & Recipes</span>
+                <span data-i18n="footer.designBy">Design by <a href="https://www.styleshout.com/">styleshout</a></span>
             </div>
 
             <div class="col-full ss-disclaimer">
-                <p><small>For informational purposes only. Not intended for medical diagnosis, treatment, cure, or prevention. Statements not evaluated by the Food and Drug Administration.</small></p>
-                <p><small>Independently developed by Appostu SRL. This app contains original content and is not affiliated with or endorsed by doTERRA®. doTERRA™ is a trademark of doTERRA Holdings, LLC.</small></p>
+                <p><small data-i18n="footer.disclaimer1">For informational purposes only. Not intended for medical diagnosis, treatment, cure, or prevention. Statements not evaluated by the Food and Drug Administration.</small></p>
+                <p><small data-i18n="footer.disclaimer2">Independently developed by Appostu SRL. This app contains original content and is not affiliated with or endorsed by doTERRA®. doTERRA™ is a trademark of doTERRA Holdings, LLC.</small></p>
             </div>
 
         </div> <!-- end row -->
@@ -1282,7 +1304,17 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/plugins.js"></script>
+    <script src="js/i18n.js"></script>
     <script src="js/main.js"></script>
+
+    <!-- Initialize i18n -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            if (window.i18n) {
+                window.i18n.init();
+            }
+        });
+    </script>
 
     <script type="module">
   // Import the functions you need from the SDKs you need

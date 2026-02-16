@@ -1,0 +1,256 @@
+{
+    "meta": {
+        "title": "Guida agli Oli Essenziali e Ricette - Il Tuo Compagno Completo per il Benessere Naturale",
+        "description": "Scopri oltre 400 condizioni di salute, 140 oli essenziali e 100 miscele per diffusore. La tua guida completa per il benessere naturale con protocolli esperti e monitoraggio intelligente. Scarica ora!",
+        "ogTitle": "Guida agli Oli Essenziali e Ricette - Il Tuo Compagno Completo per il Benessere Naturale",
+        "ogDescription": "Oltre 400 condizioni di salute · 140 oli · 100 miscele. L'app di aromaterapia definitiva per il benessere naturale. Scarica gratis!",
+        "twitterTitle": "App Guida Oli Essenziali e Ricette",
+        "twitterDescription": "Oltre 400 condizioni di salute · 140 oli · 100 miscele. Il tuo compagno completo per il benessere naturale."
+    },
+    "nav": {
+        "home": "Home",
+        "benefits": "Vantaggi",
+        "health": "Salute",
+        "howToUse": "Come Usare",
+        "faq": "FAQ",
+        "download": "Scarica",
+        "getTheApp": "Ottieni l'App"
+    },
+    "hero": {
+        "headline": "La Tua Guida Completa al Benessere Naturale",
+        "subheadline": "Scopri oltre 400 condizioni di salute, 140 oli essenziali e miscele esperte - tutto in un'app splendidamente progettata. Trasforma il tuo percorso di benessere oggi.",
+        "downloadAppStore": "Scarica Gratis sull'App Store",
+        "downloadAppStoreMobile": "Scarica Gratis<br>sull'App Store",
+        "subscribeTips": "Iscriviti per Consigli Benessere",
+        "subscribeTipsMobile": "Iscriviti per Consigli<br>Benessere"
+    },
+    "benefits": {
+        "section1": {
+            "title": "Trova Soluzioni Naturali per Oltre 400 Condizioni di Salute",
+            "description": "Da raffreddori e insonnia ad ansia e problemi digestivi, scopri protocolli ricercati medicalmente che ti aiutano ad affrontare naturalmente le preoccupazioni quotidiane di benessere. Ogni condizione include metodi di applicazione, note di sicurezza e raccomandazioni esperte.",
+            "highlight": "Smetti di indovinare. Inizia a guarire con fiducia."
+        },
+        "section2": {
+            "title": "Conoscenze Esperte a Portata di Mano",
+            "description": "Accedi a profili dettagliati di oltre 140 oli essenziali. Scopri i benefici terapeutici, le considerazioni sulla sicurezza e i metodi di applicazione. Che tu sia un principiante o un appassionato esperto, trova tutto ciò di cui hai bisogno per usare gli oli in modo sicuro ed efficace.",
+            "highlight": "La tua enciclopedia tascabile di aromaterapia."
+        },
+        "section3": {
+            "title": "Non Rimarrere Mai Senza i Tuoi Preferiti",
+            "description": "Tieni traccia della tua collezione personale di oli, ricevi suggerimenti intelligenti per il rifornimento e gestisci il tuo inventario senza sforzo. L'app impara i tuoi modelli di utilizzo e ti ricorda quando è il momento di rifornirti, così sei sempre preparato.",
+            "highlight": "Benessere senza preoccupazioni."
+        },
+        "section4": {
+            "title": "Crea Atmosfere Perfette",
+            "description": "Accedi a oltre 100 miscele per diffusore create da esperti per concentrazione, calma, energia, sonno e umore. Salva i tuoi preferiti, crea miscele personalizzate usando il tuo inventario e trasforma qualsiasi spazio con il potere dell'aromaterapia.",
+            "highlight": "La miscela giusta per ogni momento."
+        },
+        "section5": {
+            "title": "Guidanza Giornaliera per il Tuo Percorso Benessere",
+            "description": "Ricevi spotlights giornalieri personalizzati sugli oli, consigli di benessere e raccomandazioni d'uso. Scopri nuovi modi per incorporare gli oli essenziali nella tua routine ed esplora benefici di cui non sapevi l'esistenza.",
+            "highlight": "Fai crescere le tue conoscenze ogni giorno."
+        }
+    },
+    "healthBenefits": {
+        "title": "Trasforma la Tua Salute Naturalmente",
+        "subtitle": "Scopri come gli oli essenziali possono supportare il tuo percorso di benessere",
+        "cards": {
+            "sleep": {
+                "title": "Sonno Migliore",
+                "description": "Addormentati più velocemente e svegliati riposato con miscele calmanti come lavanda e cedro."
+            },
+            "stress": {
+                "title": "Stress Ridotto",
+                "description": "Trova pace ed equilibrio con oli anti-ansia come bergamotto e ylang-ylang."
+            },
+            "focus": {
+                "title": "Concentrazione Migliorata",
+                "description": "Aumenta concentrazione e produttività naturalmente con menta piperita e limone."
+            },
+            "immune": {
+                "title": "Supporto Immunitario",
+                "description": "Rafforza le difese naturali del tuo corpo con tea tree ed eucalipto."
+            },
+            "pain": {
+                "title": "Sollievo dal Dolore",
+                "description": "Sollieva mal di testa, tensione muscolare e disagio con incenso e camomilla."
+            },
+            "mood": {
+                "title": "Elevazione dell'Umore",
+                "description": "Solleva il tuo spirito e combatti l'umore basso con oli agrumati come arancia e pompelmo."
+            }
+        }
+    },
+    "howToUse": {
+        "title": "Modi Semplici per Usare gli Oli Essenziali",
+        "subtitle": "Metodi facili per il massimo beneficio",
+        "methods": {
+            "diffusion": {
+                "title": "Diffusione",
+                "description": "Aggiungi 3-5 gocce al tuo diffusore per benefici in tutta la stanza. Perfetto per creare atmosfera e godere dell'aromaterapia nel tuo spazio."
+            },
+            "topical": {
+                "title": "Applicazione Topica",
+                "description": "Diluisci con olio vettore e applica sui punti di polso, tempie o aree interessate. Esegui sempre prima un test cutaneo."
+            },
+            "inhalation": {
+                "title": "Inalazione",
+                "description": "Respira direttamente dalla bottiglia, usa un diffusore o aggiungi a una ciotola di acqua calda per inalazione a vapore."
+            },
+            "bath": {
+                "title": "Bagno",
+                "description": "Aggiungi 5-10 gocce a un bagno caldo per il rilassamento. Mescola con sali di Epsom o olio vettore prima di aggiungere all'acqua."
+            }
+        }
+    },
+    "faq": {
+        "title": "Domande Frequenti",
+        "subtitle": "Tutto quello che devi sapere sugli oli essenziali e la nostra app",
+        "questions": [
+            {
+                "question": "Cosa sono gli oli essenziali e come funzionano?",
+                "answer": "Gli oli essenziali sono estratti di piante concentrati che catturano il profumo naturale e le proprietà benefiche delle piante. Funzionano attraverso l'aromaterapia (inalazione) o l'applicazione topica, interagendo con i sistemi del tuo corpo per promuovere il benessere. Ogni olio contiene composti unici che possono supportare la salute fisica ed emotiva."
+            },
+            {
+                "question": "Gli oli essenziali sono sicuri da usare internamente?",
+                "answer": "L'uso interno degli oli essenziali dovrebbe essere fatto solo sotto la guida di un professionista sanitario qualificato o un aromaterapeuta certificato. Mentre alcuni oli sono generalmente riconosciuti come sicuri per l'uso interno in piccole quantità, altri possono essere tossici. La nostra app fornisce informazioni sulla sicurezza per ogni olio, ma consulta sempre un professionista prima dell'uso interno."
+            },
+            {
+                "question": "Come scelgo l'olio essenziale giusto per le mie esigenze?",
+                "answer": "La nostra app rende tutto facile! Cerca tra oltre 400 condizioni di salute per trovare gli oli raccomandati, o sfoglia il nostro database di oltre 140 oli essenziali per i loro benefici. Ogni profilo di olio include proprietà terapeutiche, considerazioni sulla sicurezza e usi raccomandati. Inizia con oli popolari come lavanda per il rilassamento o menta piperita per l'energia."
+            },
+            {
+                "question": "Qual è la differenza tra oli puri e sintetici?",
+                "answer": "Gli oli essenziali puri sono estratti di piante al 100% naturali senza additivi o composti sintetici. Gli oli sintetici sono fragranze create in laboratorio che possono avere un odore simile ma mancano di benefici terapeutici. Gli oli puri sono testati per purezza e potenza, assicurandoti di ottenere tutti i benefici per il benessere. La nostra app ti aiuta a identificare gli indicatori di qualità per ogni olio."
+            },
+            {
+                "question": "Posso usare gli oli essenziali durante la gravidanza?",
+                "answer": "Alcuni oli essenziali dovrebbero essere evitati durante la gravidanza, specialmente nel primo trimestre. Le opzioni sicure tipicamente includono lavanda, camomilla e ylang-ylang quando correttamente diluiti. Consulta sempre il tuo operatore sanitario prima di usare oli essenziali durante la gravidanza. La nostra app include note sulla sicurezza per ogni olio riguardo gravidanza e allattamento."
+            },
+            {
+                "question": "Come dovrei conservare i miei oli essenziali?",
+                "answer": "Conserva gli oli essenziali in bottiglie di vetro scuro (ambra o blu cobalto) lontano dalla luce solare diretta e dal calore. Tienili in un luogo fresco e asciutto con tappi ben chiusi. La maggior parte degli oli dura 2-5 anni quando conservati correttamente, anche se gli oli agrumati hanno una durata più breve di 1-2 anni. La nostra app include una funzione di tracciamento per monitorare il tuo inventario di oli."
+            },
+            {
+                "question": "Cos'è un olio vettore e perché ne ho bisogno?",
+                "answer": "Gli oli vettore sono oli vegetali neutri (come cocco, jojoba o olio di mandorla) usati per diluire gli oli essenziali prima dell'applicazione topica. 'Trasportano' l'olio essenziale sulla tua pelle in sicurezza, prevenendo irritazioni o reazioni di sensibilità. Una diluizione tipica è 2-3 gocce di olio essenziale per cucchiaino di olio vettore per adulti."
+            },
+            {
+                "question": "I bambini possono usare gli oli essenziali in sicurezza?",
+                "answer": "Sì, ma con cautela extra. La pelle dei bambini è più sensibile, quindi usa sempre rapporti di diluizione più alti (1 goccia per cucchiaio di olio vettore per età 2+). Alcuni oli come eucalipto e menta piperita dovrebbero essere evitati per i bambini piccoli. La nostra app fornisce linee guida sulla sicurezza specifiche per età per ogni olio essenziale."
+            },
+            {
+                "question": "Quante gocce di olio essenziale dovrei usare?",
+                "answer": "Dipende dall'uso: Per la diffusione, usa 3-5 gocce per 100ml di acqua. Per l'applicazione topica, usa una diluizione 1-3% (3-6 gocce per cucchiaino di olio vettore per adulti). Per i bagni, usa 5-10 gocce mescolate con un disperdente come sali di Epsom. La nostra app fornisce raccomandazioni specifiche per ogni metodo di applicazione."
+            },
+            {
+                "question": "Quali sono i migliori oli essenziali per i principianti?",
+                "answer": "Ottimi oli per iniziare includono: Lavanda (rilassamento, sonno), Menta piperita (energia, mal di testa), Limone (umore, pulizia), Tea tree (supporto pelle, immunità) e Incenso (benessere generale). Questi oli versatili hanno molteplici usi e sono generalmente sicuri quando correttamente diluiti. La nostra app presenta guide e ricette adatte ai principianti."
+            },
+            {
+                "question": "Quanto durano gli oli essenziali?",
+                "answer": "La durata varia per tipo di olio. La maggior parte degli oli essenziali dura 2-5 anni quando conservati correttamente. Gli oli agrumati (limone, arancia, pompelmo) hanno durate più brevi di 1-2 anni. Gli oli legnosi (sandallo, cedro) e alcuni floreali possono durare 6-8 anni o più. La nostra funzione di tracciamento inventario ti aiuta a monitorare le date di freschezza."
+            },
+            {
+                "question": "Posso mescolare diversi oli essenziali insieme?",
+                "answer": "Assolutamente! Mescolare oli può creare effetti sinergici e aromi personalizzati. La nostra app include oltre 100 miscele per diffusore create da esperti e ti permette di creare e salvare le tue combinazioni. Inizia con semplici miscele di 2-3 oli e segui le nostre linee guida per risultati equilibrati ed efficaci."
+            },
+            {
+                "question": "Qual è la differenza tra diffusione e applicazione topica?",
+                "answer": "La diffusione rilascia molecole di olio nell'aria per inalazione, influenzando umore e sistema respiratorio. È ottima per atmosfera e purificazione dell'aria. L'applicazione topica comporta l'applicazione di oli diluiti sulla pelle per benefici mirati. Entrambi i metodi hanno vantaggi unici, e la nostra app fornisce indicazioni dettagliate per ogni approccio."
+            },
+            {
+                "question": "Le vostre raccomandazioni si basano su ricerca scientifica?",
+                "answer": "Il nostro database include informazioni da ricerca peer-reviewed, uso tradizionale e pratiche di aromaterapia certificate. Mentre gli oli essenziali offrono supporto al benessere, i nostri contenuti sono solo a scopo informativo e non intesi a diagnosticare, trattare o curare alcuna condizione. Consulta sempre professionisti sanitari per preoccupazioni mediche."
+            },
+            {
+                "question": "Come può aiutarmi l'app Oli Essenziali?",
+                "answer": "La nostra app è il tuo compagno completo di benessere! Accedi a oltre 400 condizioni di salute con oli raccomandati, esplora oltre 140 profili di oli essenziali, scopri oltre 100 miscele per diffusore, traccia il tuo inventario, ricevi consigli di benessere giornalieri e salva le tue ricette preferite. Scarica gratis su iOS e Android per iniziare il tuo percorso di benessere naturale oggi."
+            }
+        ]
+    },
+    "testimonials": {
+        "title": "Amata da Migliaia",
+        "subtitle": "Unisciti alla nostra comunità di appassionati di benessere",
+        "quotes": [
+            {
+                "text": "Questa app ha trasformato la mia routine di benessere! I protocolli di salute sono precisi, e tracciare il mio inventario di oli mi fa risparmiare molto tempo. Altamente raccomandata per chi prende sul serio la salute naturale.",
+                "author": "Sarah Johnson",
+                "handle": "@sarahwellness"
+            },
+            {
+                "text": "Come principiante, l'onboarding guidato e le ricette esperte hanno reso facile e divertente creare miscele per diffusore. La funzione di ricerca dell'app mi aiuta a trovare rapidamente oli per esigenze specifiche.",
+                "author": "Lisa Chen",
+                "handle": "@lisaromatherapy"
+            },
+            {
+                "text": "Il database completo di oli e le note di sicurezza mi danno fiducia nell'uso degli oli essenziali. Salvare preferiti e note mantiene le mie miscele perfettamente organizzate.",
+                "author": "Emily Davis",
+                "handle": "@emilyoils"
+            },
+            {
+                "text": "Le oltre 400 condizioni di salute e i protocolli sono un game-changer. Ora posso trovare soluzioni naturali per problemi comuni con guida ricercata medicalmente. Perfetto per le mie esigenze quotidiane di benessere!",
+                "author": "Anna Rivera",
+                "handle": "@annanaturalhealth"
+            }
+        ]
+    },
+    "download": {
+        "title": "Inizia il Tuo Percorso Benessere Oggi",
+        "subtitle": "Scarica ora e ottieni accesso immediato a oltre 400 condizioni di salute, 140 oli e guida esperta",
+        "button": "Scarica Gratis sull'App Store",
+        "buttonMobile": "Scarica Gratis<br>sull'App Store",
+        "appStoreAlt": "Scarica sull'App Store",
+        "googlePlayAlt": "Disponibile su Google Play"
+    },
+    "socialShare": {
+        "label": "Condividi con gli amici:",
+        "facebookTitle": "Condividi su Facebook",
+        "whatsappTitle": "Condividi su WhatsApp",
+        "pinterestTitle": "Condividi su Pinterest",
+        "twitterTitle": "Condividi su X (Twitter)",
+        "emailTitle": "Condividi via Email"
+    },
+    "subscribe": {
+        "title": "Ricevi Consigli Benessere Settimanali",
+        "subtitle": "Iscriviti per promozioni esclusive, nuove ricette di miscele e consigli salute esperti consegnati nella tua casella email",
+        "privacy": "Rispettiamo la tua privacy. Cancella l'iscrizione in qualsiasi momento."
+    },
+    "footer": {
+        "about": {
+            "title": "Informazioni su Guida Oli Essenziali e Ricette.",
+            "description": "Oli essenziali, aromaterapia e ricette per diffusore - tutto in un'app intelligente che rende il benessere semplice ed efficace. Competenze esperte, strumenti intelligenti e consigli pratici per il tuo percorso di benessere naturale."
+        },
+        "siteLinks": {
+            "title": "Link del sito.",
+            "home": "Home",
+            "benefits": "Vantaggi",
+            "health": "Salute",
+            "howToUse": "Come Usare",
+            "faq": "FAQ",
+            "download": "Scarica",
+            "terms": "Termini di Servizio",
+            "privacy": "Politica sulla Privacy"
+        },
+        "contact": {
+            "title": "Contattaci.",
+            "description": "Sviluppato indipendentemente da Appostu SRL.",
+            "help": "Hai bisogno di aiuto o hai una domanda? Contattaci a:"
+        },
+        "copyright": "© Copyright Guida Oli Essenziali e Ricette",
+        "designBy": "Design di styleshout",
+        "disclaimer1": "Solo a scopo informativo. Non inteso per diagnosi, trattamento, cura o prevenzione medica. Dichiarazioni non valutate dalla Food and Drug Administration.",
+        "disclaimer2": "Sviluppato indipendentemente da Appostu SRL. Questa app contiene contenuti originali e non è affiliata o approvata da doTERRA®. doTERRA è un marchio di doTERRA Holdings, LLC.",
+        "backToTop": "Torna su"
+    },
+    "language": {
+        "current": "Italiano",
+        "select": "Seleziona Lingua",
+        "en": "English",
+        "de": "Deutsch",
+        "fr": "Français",
+        "it": "Italiano",
+        "es": "Español",
+        "ro": "RomânÄ"
+    }
+}

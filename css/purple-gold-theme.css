@@ -442,6 +442,40 @@ a:active {
     flex-wrap: wrap;
 }
 
+/* Download section mobile button styling - match hero section */
+@media only screen and (max-width: 600px) {
+    .cta-section__buttons {
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+        width: 100%;
+    }
+    
+    .cta-section__buttons .btn {
+        width: 100%;
+        max-width: 320px;
+        padding: 1rem 2rem;
+        white-space: normal;
+        text-align: center;
+        line-height: normal;
+        height: auto;
+    }
+    
+    /* Desktop button - hidden on mobile */
+    .cta-section__buttons .btn-desktop {
+        display: none !important;
+    }
+    
+    /* Mobile button - shown on mobile */
+    .cta-section__buttons .btn-mobile {
+        display: inline !important;
+    }
+}
+
+/* Desktop (default): show desktop buttons, hide mobile buttons */
+.cta-section__buttons .btn-desktop { display: inline !important; }
+.cta-section__buttons .btn-mobile { display: none !important; }
+
 /* Subscription Form */
 .subscribe-form-new {
     max-width: 500px;

@@ -1,0 +1,256 @@
+{
+    "meta": {
+        "title": "Guía de Aceites Esenciales y Recetas - Tu Compañero Completo para el Bienestar Natural",
+        "description": "Descubre más de 400 condiciones de salud, 140 aceites esenciales y 100 mezclas para difusor. Tu guía completa para el bienestar natural con protocolos expertos y seguimiento inteligente. ¡Descarga ahora!",
+        "ogTitle": "Guía de Aceites Esenciales y Recetas - Tu Compañero Completo para el Bienestar Natural",
+        "ogDescription": "Más de 400 condiciones de salud · 140 aceites · 100 mezclas. La aplicación de aromaterapia definitiva para el bienestar natural. ¡Descarga gratis!",
+        "twitterTitle": "App Guía de Aceites Esenciales y Recetas",
+        "twitterDescription": "Más de 400 condiciones de salud · 140 aceites · 100 mezclas. Tu compañero completo para el bienestar natural."
+    },
+    "nav": {
+        "home": "Inicio",
+        "benefits": "Beneficios",
+        "health": "Salud",
+        "howToUse": "Cómo Usar",
+        "faq": "FAQ",
+        "download": "Descargar",
+        "getTheApp": "Obtener la App"
+    },
+    "hero": {
+        "headline": "Tu Guía Completa para el Bienestar Natural",
+        "subheadline": "Descubre más de 400 condiciones de salud, 140 aceites esenciales y mezclas de expertos - todo en una aplicación hermosamente diseñada. Transforma tu camino hacia el bienestar hoy.",
+        "downloadAppStore": "Descargar Gratis en App Store",
+        "downloadAppStoreMobile": "Descargar Gratis<br>en App Store",
+        "subscribeTips": "Suscribirse para Consejos de Bienestar",
+        "subscribeTipsMobile": "Suscribirse para Consejos<br>de Bienestar"
+    },
+    "benefits": {
+        "section1": {
+            "title": "Encuentra Soluciones Naturales para Más de 400 Condiciones de Salud",
+            "description": "Desde resfriados e insomnio hasta ansiedad y problemas digestivos, descubre protocolos investigados médicamente que te ayudan a abordar naturalmente las preocupaciones diarias de bienestar. Cada condición incluye métodos de aplicación, notas de seguridad y recomendaciones de expertos.",
+            "highlight": "Deja de adivinar. Comienza a sanar con confianza."
+        },
+        "section2": {
+            "title": "Conocimiento Experto al Alcance de tu Mano",
+            "description": "Accede a perfiles detallados de más de 140 aceites esenciales. Aprende sobre beneficios terapéuticos, consideraciones de seguridad y métodos de aplicación. Ya seas principiante o entusiasta experimentado, encuentra todo lo que necesitas para usar aceites de forma segura y efectiva.",
+            "highlight": "Tu enciclopedia de aromaterapia de bolsillo."
+        },
+        "section3": {
+            "title": "Nunca te Quedes sin tus Favoritos",
+            "description": "Rastrea tu colección personal de aceites, obtén sugerencias inteligentes de reabastecimiento y gestiona tu inventario sin esfuerzo. La aplicación aprende tus patrones de uso y te recuerda cuando es momento de reabastecerse, para que siempre estés preparado.",
+            "highlight": "Bienestar sin preocupaciones."
+        },
+        "section4": {
+            "title": "Crea Atmósferas Perfectas",
+            "description": "Accede a más de 100 mezclas para difusor creadas por expertos para concentración, calma, energía, sueño y estado de ánimo. Guarda tus favoritos, crea mezclas personalizadas usando tu inventario y transforma cualquier espacio con el poder de la aromaterapia.",
+            "highlight": "La mezcla correcta para cada momento."
+        },
+        "section5": {
+            "title": "Guía Diaria para tu Camino de Bienestar",
+            "description": "Recibe destacados diarios personalizados de aceites, consejos de bienestar y recomendaciones de uso. Descubre nuevas formas de incorporar aceites esenciales en tu rutina y explora beneficios que no sabías que existían.",
+            "highlight": "Haz crecer tu conocimiento cada día."
+        }
+    },
+    "healthBenefits": {
+        "title": "Transforma tu Salud Naturalmente",
+        "subtitle": "Descubre cómo los aceites esenciales pueden apoyar tu camino de bienestar",
+        "cards": {
+            "sleep": {
+                "title": "Mejor Sueño",
+                "description": "Duérmete más rápido y despierta renovado con mezclas calmantes como lavanda y cedro."
+            },
+            "stress": {
+                "title": "Estrés Reducido",
+                "description": "Encuentra paz y equilibrio con aceites anti-ansiedad como bergamota e ylang-ylang."
+            },
+            "focus": {
+                "title": "Concentración Mejorada",
+                "description": "Aumenta concentración y productividad naturalmente con menta y limón."
+            },
+            "immune": {
+                "title": "Soporte Inmunológico",
+                "description": "Fortalece las defensas naturales de tu cuerpo con árbol de té y eucalipto."
+            },
+            "pain": {
+                "title": "Alivio del Dolor",
+                "description": "Alivia dolores de cabeza, tensión muscular y molestias con incienso y manzanilla."
+            },
+            "mood": {
+                "title": "Elevación del Ánimo",
+                "description": "Levanta tu espíritu y combate el ánimo bajo con aceites cítricos como naranja y toronja."
+            }
+        }
+    },
+    "howToUse": {
+        "title": "Formas Simples de Usar Aceites Esenciales",
+        "subtitle": "Métodos fáciles para máximo beneficio",
+        "methods": {
+            "diffusion": {
+                "title": "Difusión",
+                "description": "Añade 3-5 gotas a tu difusor para beneficios en toda la habitación. Perfecto para crear atmósfera y disfrutar de aromaterapia en tu espacio."
+            },
+            "topical": {
+                "title": "Aplicación Tópica",
+                "description": "Diluye con aceite portador y aplica en puntos de pulso, sienes o áreas afectadas. Siempre realiza primero una prueba de parche."
+            },
+            "inhalation": {
+                "title": "Inhalación",
+                "description": "Respira directamente del frasco, usa un difusor o añade a un tazón de agua caliente para inhalación de vapor."
+            },
+            "bath": {
+                "title": "Baño",
+                "description": "Añade 5-10 gotas a un baño tibio para relajación. Mezcla con sales de Epsom o aceite portador antes de añadir al agua."
+            }
+        }
+    },
+    "faq": {
+        "title": "Preguntas Frecuentes",
+        "subtitle": "Todo lo que necesitas saber sobre aceites esenciales y nuestra aplicación",
+        "questions": [
+            {
+                "question": "¿Qué son los aceites esenciales y cómo funcionan?",
+                "answer": "Los aceites esenciales son extractos de plantas concentrados que capturan el aroma natural y las propiedades beneficiosas de las plantas. Funcionan a través de aromaterapia (inhalación) o aplicación tópica, interactuando con los sistemas de tu cuerpo para promover el bienestar. Cada aceite contiene compuestos únicos que pueden apoyar la salud física y emocional."
+            },
+            {
+                "question": "¿Es seguro usar aceites esenciales internamente?",
+                "answer": "El uso interno de aceites esenciales solo debe hacerse bajo la guía de un profesional de salud calificado o aromaterapeuta certificado. Aunque algunos aceites son generalmente reconocidos como seguros para uso interno en pequeñas cantidades, otros pueden ser tóxicos. Nuestra aplicación proporciona información de seguridad para cada aceite, pero siempre consulta a un profesional antes del uso interno."
+            },
+            {
+                "question": "¿Cómo elijo el aceite esencial correcto para mis necesidades?",
+                "answer": "¡Nuestra aplicación lo hace fácil! Busca entre más de 400 condiciones de salud para encontrar aceites recomendados, o explora nuestra base de datos de más de 140 aceites esenciales por sus beneficios. Cada perfil de aceite incluye propiedades terapéuticas, consideraciones de seguridad y usos recomendados. Comienza con aceites populares como lavanda para relajación o menta para energía."
+            },
+            {
+                "question": "¿Cuál es la diferencia entre aceites puros y sintéticos?",
+                "answer": "Los aceites esenciales puros son extractos de plantas 100% naturales sin aditivos ni compuestos sintéticos. Los aceites sintéticos son fragancias creadas en laboratorio que pueden oler similar pero carecen de beneficios terapéuticos. Los aceites puros son probados por pureza y potencia, asegurándote obtener todos los beneficios de bienestar. Nuestra aplicación te ayuda a identificar indicadores de calidad para cada aceite."
+            },
+            {
+                "question": "¿Puedo usar aceites esenciales durante el embarazo?",
+                "answer": "Algunos aceites esenciales deben evitarse durante el embarazo, especialmente en el primer trimestre. Las opciones seguras típicamente incluyen lavanda, manzanilla e ylang-ylang cuando se diluyen correctamente. Siempre consulta a tu proveedor de salud antes de usar aceites esenciales durante el embarazo. Nuestra aplicación incluye notas de seguridad para cada aceite respecto al embarazo y lactancia."
+            },
+            {
+                "question": "¿Cómo debo almacenar mis aceites esenciales?",
+                "answer": "Almacena los aceites esenciales en botellas de vidrio oscuro (ámbar o azul cobalto) lejos de la luz solar directa y calor. Mantenlos en un lugar fresco y seco con tapas bien cerradas. La mayoría de los aceites duran 2-5 años cuando se almacenan correctamente, aunque los aceites cítricos tienen una vida útil más corta de 1-2 años. Nuestra aplicación incluye una función de seguimiento para monitorear tu inventario de aceites."
+            },
+            {
+                "question": "¿Qué es un aceite portador y por qué necesito uno?",
+                "answer": "Los aceites portadores son aceites vegetales neutros (como coco, jojoba o aceite de almendra) usados para diluir aceites esenciales antes de la aplicación tópica. 'Transportan' el aceite esencial sobre tu piel de forma segura, previniendo irritación o reacciones de sensibilidad. Una dilución típica es 2-3 gotas de aceite esencial por cucharadita de aceite portador para adultos."
+            },
+            {
+                "question": "¿Pueden los niños usar aceites esenciales de forma segura?",
+                "answer": "Sí, pero con precaución extra. La piel de los niños es más sensible, así que siempre usa proporciones de dilución más altas (1 gota por cucharada de aceite portador para mayores de 2 años). Algunos aceites como eucalipto y menta deben evitarse para niños pequeños. Nuestra aplicación proporciona directrices de seguridad específicas por edad para cada aceite esencial."
+            },
+            {
+                "question": "¿Cuántas gotas de aceite esencial debo usar?",
+                "answer": "Depende del uso: Para difusión, usa 3-5 gotas por 100ml de agua. Para aplicación tópica, usa una dilución del 1-3% (3-6 gotas por cucharadita de aceite portador para adultos). Para baños, usa 5-10 gotas mezcladas con un dispersante como sales de Epsom. Nuestra aplicación proporciona recomendaciones específicas para cada método de aplicación."
+            },
+            {
+                "question": "¿Cuáles son los mejores aceites esenciales para principiantes?",
+                "answer": "Excelentes aceites para empezar incluyen: Lavanda (relajación, sueño), Menta (energía, dolores de cabeza), Limón (ánimo, limpieza), Árbol de té (soporte cutáneo, inmunidad) e Incienso (bienestar general). Estos aceites versátiles tienen múltiples usos y son generalmente seguros cuando se diluyen correctamente. Nuestra aplicación presenta guías y recetas para principiantes."
+            },
+            {
+                "question": "¿Cuánto duran los aceites esenciales?",
+                "answer": "La vida útil varía por tipo de aceite. La mayoría de los aceites esenciales duran 2-5 años cuando se almacenan correctamente. Los aceites cítricos (limón, naranja, toronja) tienen vidas útiles más cortas de 1-2 años. Los aceites maderosos (sándalo, cedro) y algunos florales pueden durar 6-8 años o más. Nuestra función de seguimiento de inventario te ayuda a monitorear las fechas de frescura."
+            },
+            {
+                "question": "¿Puedo mezclar diferentes aceites esenciales juntos?",
+                "answer": "¡Absolutamente! Mezclar aceites puede crear efectos sinérgicos y aromas personalizados. Nuestra aplicación incluye más de 100 mezclas para difusor creadas por expertos y te permite crear y guardar tus propias combinaciones. Comienza con mezclas simples de 2-3 aceites y sigue nuestras directrices para resultados equilibrados y efectivos."
+            },
+            {
+                "question": "¿Cuál es la diferencia entre difusión y aplicación tópica?",
+                "answer": "La difusión libera moléculas de aceite en el aire para inhalación, afectando el estado de ánimo y el sistema respiratorio. Es excelente para atmósfera y purificación del aire. La aplicación tópica implica aplicar aceites diluidos en la piel para beneficios específicos. Ambos métodos tienen ventajas únicas, y nuestra aplicación proporciona orientación detallada para cada enfoque."
+            },
+            {
+                "question": "¿Sus recomendaciones se basan en investigación científica?",
+                "answer": "Nuestra base de datos incluye información de investigación revisada por pares, uso tradicional y prácticas de aromaterapia certificadas. Aunque los aceites esenciales ofrecen soporte de bienestar, nuestro contenido es solo informativo y no está destinado a diagnosticar, tratar o curar ninguna condición. Siempre consulta a profesionales de salud para preocupaciones médicas."
+            },
+            {
+                "question": "¿Cómo puede ayudarme la aplicación de Aceites Esenciales?",
+                "answer": "¡Nuestra aplicación es tu compañero completo de bienestar! Accede a más de 400 condiciones de salud con aceites recomendados, explora más de 140 perfiles de aceites esenciales, descubre más de 100 mezclas para difusor, rastrea tu inventario, recibe consejos de bienestar diarios y guarda tus recetas favoritas. Descarga gratis en iOS y Android para comenzar tu camino de bienestar natural hoy."
+            }
+        ]
+    },
+    "testimonials": {
+        "title": "Amada por Miles",
+        "subtitle": "Únete a nuestra comunidad de entusiastas del bienestar",
+        "quotes": [
+            {
+                "text": "¡Esta aplicación ha transformado mi rutina de bienestar! Los protocolos de salud son precisos, y rastrear mi inventario de aceites me ahorra mucho tiempo. Altamente recomendada para cualquiera que tome en serio la salud natural.",
+                "author": "Sarah Johnson",
+                "handle": "@sarahwellness"
+            },
+            {
+                "text": "Como principiante, la incorporación guiada y las recetas de expertos hicieron que crear mezclas para difusor fuera fácil y divertido. La función de búsqueda de la aplicación me ayuda a encontrar rápidamente aceites para necesidades específicas.",
+                "author": "Lisa Chen",
+                "handle": "@lisaromatherapy"
+            },
+            {
+                "text": "La base de datos completa de aceites y las notas de seguridad me dan confianza al usar aceites esenciales. Guardar favoritos y notas mantiene mis mezclas perfectamente organizadas.",
+                "author": "Emily Davis",
+                "handle": "@emilyoils"
+            },
+            {
+                "text": "Las más de 400 condiciones de salud y protocolos son un cambio de juego. Ahora puedo encontrar soluciones naturales para problemas comunes con orientación investigada médicamente. ¡Perfecto para mis necesidades diarias de bienestar!",
+                "author": "Anna Rivera",
+                "handle": "@annanaturalhealth"
+            }
+        ]
+    },
+    "download": {
+        "title": "Comienza tu Camino de Bienestar Hoy",
+        "subtitle": "Descarga ahora y obtén acceso instantáneo a más de 400 condiciones de salud, 140 aceites y orientación experta",
+        "button": "Descargar Gratis en App Store",
+        "buttonMobile": "Descargar Gratis<br>en App Store",
+        "appStoreAlt": "Descargar en App Store",
+        "googlePlayAlt": "Disponible en Google Play"
+    },
+    "socialShare": {
+        "label": "Compartir con amigos:",
+        "facebookTitle": "Compartir en Facebook",
+        "whatsappTitle": "Compartir en WhatsApp",
+        "pinterestTitle": "Compartir en Pinterest",
+        "twitterTitle": "Compartir en X (Twitter)",
+        "emailTitle": "Compartir por Email"
+    },
+    "subscribe": {
+        "title": "Recibe Consejos de Bienestar Semanales",
+        "subtitle": "Suscríbete para promociones exclusivas, nuevas recetas de mezclas y consejos de salud expertos entregados en tu bandeja de entrada",
+        "privacy": "Respetamos tu privacidad. Cancela la suscripción en cualquier momento."
+    },
+    "footer": {
+        "about": {
+            "title": "Sobre Guía de Aceites Esenciales y Recetas.",
+            "description": "Aceites esenciales, aromaterapia y recetas para difusor - todo en una aplicación inteligente que hace el bienestar simple y efectivo. Conocimiento experto, herramientas inteligentes y consejos prácticos para tu camino de bienestar natural."
+        },
+        "siteLinks": {
+            "title": "Enlaces del sitio.",
+            "home": "Inicio",
+            "benefits": "Beneficios",
+            "health": "Salud",
+            "howToUse": "Cómo Usar",
+            "faq": "FAQ",
+            "download": "Descargar",
+            "terms": "Términos de Servicio",
+            "privacy": "Política de Privacidad"
+        },
+        "contact": {
+            "title": "Contáctanos.",
+            "description": "Desarrollado independientemente por Appostu SRL.",
+            "help": "¿Necesitas ayuda o tienes una pregunta? Contáctanos en:"
+        },
+        "copyright": "© Copyright Guía de Aceites Esenciales y Recetas",
+        "designBy": "Diseño por styleshout",
+        "disclaimer1": "Solo para fines informativos. No está destinado para diagnóstico, tratamiento, cura o prevención médica. Declaraciones no evaluadas por la Food and Drug Administration.",
+        "disclaimer2": "Desarrollado independientemente por Appostu SRL. Esta aplicación contiene contenido original y no está afiliada ni respaldada por doTERRA®. doTERRA es una marca registrada de doTERRA Holdings, LLC.",
+        "backToTop": "Volver arriba"
+    },
+    "language": {
+        "current": "Español",
+        "select": "Seleccionar Idioma",
+        "en": "English",
+        "de": "Deutsch",
+        "fr": "Français",
+        "it": "Italiano",
+        "es": "Español",
+        "ro": "RomânÄ"
+    }
+}
