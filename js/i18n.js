@@ -40,11 +40,11 @@
         en: {
             "meta": {
                 "title": "Essential Oils Guide & Recipes – Your Complete Natural Wellness Companion",
-                "description": "Discover 400+ health conditions, 140+ essential oils, and 100+ diffuser blends. Your complete guide to natural wellness with expert protocols and smart tracking. Download now!",
+                "description": "Discover 650+ health conditions, 150+ essential oils, and 100+ diffuser blends — now with dedicated Pregnancy, Kids & Cancer Support guides. Your complete guide to natural wellness with expert protocols and smart tracking. Download now!",
                 "ogTitle": "Essential Oils Guide & Recipes – Your Complete Natural Wellness Companion",
-                "ogDescription": "400+ health conditions • 140+ oils • 100+ blends. The ultimate aromatherapy app for natural wellness. Download free today!",
+                "ogDescription": "650+ health conditions • 150+ oils • 100+ blends • new Pregnancy, Kids & Cancer Support guides. The ultimate aromatherapy app for natural wellness. Download free today!",
                 "twitterTitle": "Essential Oils Guide & Recipes App",
-                "twitterDescription": "400+ health conditions • 140+ oils • 100+ blends. Your complete natural wellness companion."
+                "twitterDescription": "650+ health conditions • 150+ oils • 100+ blends • new Pregnancy, Kids & Cancer Support guides. Your complete natural wellness companion."
             },
             "nav": {
                 "home": "Home",
@@ -57,7 +57,7 @@
             },
             "hero": {
                 "headline": "Your Complete Guide to Natural Wellness",
-                "subheadline": "Discover 400+ health conditions, 140+ essential oils, and expert blends — all in one beautifully designed app. Transform your wellness journey today.",
+                "subheadline": "Discover 650+ health conditions, 150+ essential oils, and dedicated Pregnancy, Kids & Cancer Support guides — all in one beautifully designed app. Transform your wellness journey today.",
                 "downloadAppStore": "Download Free on App Store",
                 "downloadAppStoreMobile": "Download Free<br>on App Store",
                 "subscribeTips": "Subscribe for Wellness Tips",
@@ -65,13 +65,13 @@
             },
             "benefits": {
                 "section1": {
-                    "title": "Find Natural Solutions for 400+ Health Conditions",
-                    "description": "From colds and insomnia to anxiety and digestive issues, discover medically researched protocols that help you address everyday wellness concerns naturally. Each condition includes application methods, safety notes, and expert recommendations.",
+                    "title": "Find Natural Solutions for 650+ Health Conditions",
+                    "description": "From colds and insomnia to anxiety and digestive issues — plus dedicated safety guides for pregnancy, young children, and cancer care — discover medically researched protocols that help you address wellness concerns naturally at every life stage. Each condition includes application methods, safety notes, and expert recommendations.",
                     "highlight": "Stop guessing. Start healing with confidence."
                 },
                 "section2": {
                     "title": "Expert Knowledge at Your Fingertips",
-                    "description": "Access in-depth profiles for 140+ essential oils. Learn therapeutic benefits, safety considerations, and application methods. Whether you're a beginner or experienced enthusiast, find everything you need to use oils safely and effectively.",
+                    "description": "Access in-depth profiles for 150+ essential oils. Learn therapeutic benefits, safety considerations, and application methods. Whether you're a beginner or experienced enthusiast, find everything you need to use oils safely and effectively.",
                     "highlight": "Your pocket aromatherapy encyclopedia."
                 },
                 "section3": {
@@ -155,7 +155,7 @@
                 },
                 "q3": {
                     "question": "How do I choose the right essential oil for my needs?",
-                    "answer": "Our app makes it easy! Search from 400+ health conditions to find recommended oils, or browse our database of 140+ essential oils by their benefits. Each oil profile includes therapeutic properties, safety considerations, and recommended uses. Start with popular oils like lavender for relaxation or peppermint for energy."
+                    "answer": "Our app makes it easy! Search from 650+ health conditions to find recommended oils, or browse our database of 150+ essential oils by their benefits. Each oil profile includes therapeutic properties, safety considerations, and recommended uses. Start with popular oils like lavender for relaxation or peppermint for energy."
                 },
                 "q4": {
                     "question": "What is the difference between pure and synthetic oils?",
@@ -163,7 +163,7 @@
                 },
                 "q5": {
                     "question": "Can I use essential oils during pregnancy?",
-                    "answer": "Some essential oils should be avoided during pregnancy, especially in the first trimester. Safe options typically include lavender, chamomile, and ylang-ylang when properly diluted. Always consult your healthcare provider before using essential oils during pregnancy. Our app includes safety notes for each oil regarding pregnancy and nursing."
+                    "answer": "Some essential oils should be avoided during pregnancy, especially in the first trimester. Safe options typically include lavender, chamomile, and ylang-ylang when properly diluted. Always consult your healthcare provider before using essential oils during pregnancy. Our app now includes a dedicated Pregnancy Support section with trimester-specific safety notes, dosage guidance, and oils to avoid."
                 },
                 "q6": {
                     "question": "How should I store my essential oils?",
@@ -175,7 +175,7 @@
                 },
                 "q8": {
                     "question": "Can children use essential oils safely?",
-                    "answer": "Yes, but with extra caution. Children's skin is more sensitive, so always use higher dilution ratios (1 drop per tablespoon of carrier oil for ages 2+). Some oils like eucalyptus and peppermint should be avoided for young children. Our app provides age-specific safety guidelines for each essential oil."
+                    "answer": "Yes, but with extra caution. Children's skin is more sensitive, so always use higher dilution ratios (1 drop per tablespoon of carrier oil for ages 2+). Some oils like eucalyptus and peppermint should be avoided for young children. Our app now includes a dedicated Kids Support section with age-specific dosage guidance and safety guidelines for each essential oil."
                 },
                 "q9": {
                     "question": "How many drops of essential oil should I use?",
@@ -203,7 +203,7 @@
                 },
                 "q15": {
                     "question": "How can the Essential Oils app help me?",
-                    "answer": "Our app is your complete wellness companion! Access 400+ health conditions with recommended oils, explore 140+ essential oil profiles, discover 100+ diffuser blends, track your inventory, receive daily wellness tips, and save your favorite recipes. Download free on iOS and Android to start your natural wellness journey today."
+                    "answer": "Our app is your complete wellness companion! Access 650+ health conditions with recommended oils, explore 150+ essential oil profiles, discover 100+ diffuser blends, get dedicated safety guidance for pregnancy, kids, and cancer care, track your inventory, receive daily wellness tips, and save your favorite recipes. Download free on iOS and Android to start your natural wellness journey today."
                 }
             },
             "testimonials": {
@@ -212,7 +212,7 @@
             },
             "download": {
                 "title": "Start Your Wellness Journey Today",
-                "subtitle": "Download now and get instant access to 400+ health conditions, 140+ oils, and expert guidance",
+                "subtitle": "Download now and get instant access to 650+ health conditions, 150+ oils, and dedicated Pregnancy, Kids & Cancer Support guides",
                 "button": "Download Free on App Store",
                 "buttonMobile": "Download Free<br>on App Store",
                 "appStoreAlt": "Download on App Store",
@@ -250,7 +250,8 @@
                 "copyright": "© Copyright Essential Oils Guide & Recipes",
                 "designBy": "Design by styleshout",
                 "disclaimer1": "For informational purposes only. Not intended for medical diagnosis, treatment, cure, or prevention. Statements not evaluated by the Food and Drug Administration.",
-                "disclaimer2": "Independently developed by Appostu SRL. This app contains original content and is not affiliated with or endorsed by doTERRA®. doTERRA™ is a trademark of doTERRA Holdings, LLC."
+                "disclaimer2": "Independently developed by Appostu SRL. This app contains original content and is not affiliated with or endorsed by doTERRA®. doTERRA™ is a trademark of doTERRA Holdings, LLC.",
+                "backToTop": "Back to Top"
             },
             "language": {
                 "current": "English"
@@ -259,11 +260,11 @@
         de: {
             "meta": {
                 "title": "Ätherische Öle Guide & Rezepte - Ihr vollständiger Begleiter für natürliches Wohlbefinden",
-                "description": "Entdecken Sie 400+ Gesundheitszustände, 140+ ätherische Öle und 100+ Diffuser-Mischungen. Ihr vollständiger Leitfaden für natürliches Wohlbefinden mit Expertenprotokollen und intelligenter Nachverfolgung. Jetzt herunterladen!",
+                "description": "Entdecken Sie 650+ Gesundheitszustände, 150+ ätherische Öle und 100+ Diffuser-Mischungen – jetzt mit eigenen Bereichen für Schwangerschaft, Kinder & Krebs. Ihr vollständiger Leitfaden für natürliches Wohlbefinden mit Expertenprotokollen und intelligenter Nachverfolgung. Jetzt herunterladen!",
                 "ogTitle": "Ätherische Öle Guide & Rezepte - Ihr vollständiger Begleiter für natürliches Wohlbefinden",
-                "ogDescription": "400+ Gesundheitszustände · 140+ Öle · 100+ Mischungen. Die ultimative Aromatherapie-App für natürliches Wohlbefinden. Kostenlos herunterladen!",
+                "ogDescription": "650+ Gesundheitszustände · 150+ Öle · 100+ Mischungen · neu: Bereiche für Schwangerschaft, Kinder & Krebs. Die ultimative Aromatherapie-App für natürliches Wohlbefinden. Kostenlos herunterladen!",
                 "twitterTitle": "Ätherische Öle Guide & Rezepte App",
-                "twitterDescription": "400+ Gesundheitszustände · 140+ Öle · 100+ Mischungen. Ihr vollständiger Begleiter für natürliches Wohlbefinden."
+                "twitterDescription": "650+ Gesundheitszustände · 150+ Öle · 100+ Mischungen · neu: Bereiche für Schwangerschaft, Kinder & Krebs. Ihr vollständiger Begleiter für natürliches Wohlbefinden."
             },
             "nav": {
                 "home": "Start",
@@ -276,7 +277,7 @@
             },
             "hero": {
                 "headline": "Ihr vollständiger Leitfaden für natürliches Wohlbefinden",
-                "subheadline": "Entdecken Sie 400+ Gesundheitszustände, 140+ ätherische Öle und Expertenmischungen - alles in einer wunderschön gestalteten App. Verwandeln Sie Ihre Wellness-Reise noch heute.",
+                "subheadline": "Entdecken Sie 650+ Gesundheitszustände, 150+ ätherische Öle und eigene Bereiche für Schwangerschaft, Kinder & Krebs - alles in einer wunderschön gestalteten App. Verwandeln Sie Ihre Wellness-Reise noch heute.",
                 "downloadAppStore": "Kostenlos im App Store herunterladen",
                 "downloadAppStoreMobile": "Kostenlos im<br>App Store herunterladen",
                 "subscribeTips": "Für Wellness-Tipps abonnieren",
@@ -284,13 +285,13 @@
             },
             "benefits": {
                 "section1": {
-                    "title": "Finden Sie natürliche Lösungen für 400+ Gesundheitszustände",
-                    "description": "Von Erkältungen und Schlaflosigkeit bis hin zu Angst und Verdauungsproblemen - entdecken Sie medizinisch recherchierte Protokolle, die Ihnen helfen, alltägliche Wellness-Bedenken natürlich zu behandeln. Jeder Zustand enthält Anwendungsmethoden, Sicherheitshinweise und Expertenempfehlungen.",
+                    "title": "Finden Sie natürliche Lösungen für 650+ Gesundheitszustände",
+                    "description": "Von Erkältungen und Schlaflosigkeit bis hin zu Angst und Verdauungsproblemen - plus eigene Sicherheits-Guides für Schwangerschaft, kleine Kinder und die Krebsbegleitung - entdecken Sie medizinisch recherchierte Protokolle, die Ihnen helfen, Wellness-Anliegen in jeder Lebensphase natürlich zu behandeln. Jeder Zustand enthält Anwendungsmethoden, Sicherheitshinweise und Expertenempfehlungen.",
                     "highlight": "Hören Sie auf zu raten. Beginnen Sie mit Zuversicht zu heilen."
                 },
                 "section2": {
                     "title": "Expertenwissen auf einen Blick",
-                    "description": "Greifen Sie auf detaillierte Profile von 140+ ätherischen Ölen zu. Erfahren Sie mehr über therapeutische Vorteile, Sicherheitsüberlegungen und Anwendungsmethoden. Ob Anfänger oder erfahrener Enthusiast - finden Sie alles, was Sie brauchen, um Öle sicher und effektiv zu nutzen.",
+                    "description": "Greifen Sie auf detaillierte Profile von 150+ ätherischen Ölen zu. Erfahren Sie mehr über therapeutische Vorteile, Sicherheitsüberlegungen und Anwendungsmethoden. Ob Anfänger oder erfahrener Enthusiast - finden Sie alles, was Sie brauchen, um Öle sicher und effektiv zu nutzen.",
                     "highlight": "Ihre Taschen-Aromatherapie-Enzyklopädie."
                 },
                 "section3": {
@@ -374,7 +375,7 @@
                 },
                 "q3": {
                     "question": "Wie wähle ich das richtige ätherische Öl für meine Bedürfnisse?",
-                    "answer": "Unsere App macht es einfach! Suchen Sie in 400+ Gesundheitszuständen, um empfohlene Öle zu finden, oder durchsuchen Sie unsere Datenbank von 140+ ätherischen Ölen nach ihren Vorteilen. Jedes Ölprofil enthält therapeutische Eigenschaften, Sicherheitsüberlegungen und empfohlene Anwendungen. Beginnen Sie mit beliebten Ölen wie Lavendel zur Entspannung oder Pfefferminze für Energie."
+                    "answer": "Unsere App macht es einfach! Suchen Sie in 650+ Gesundheitszuständen, um empfohlene Öle zu finden, oder durchsuchen Sie unsere Datenbank von 150+ ätherischen Ölen nach ihren Vorteilen. Jedes Ölprofil enthält therapeutische Eigenschaften, Sicherheitsüberlegungen und empfohlene Anwendungen. Beginnen Sie mit beliebten Ölen wie Lavendel zur Entspannung oder Pfefferminze für Energie."
                 },
                 "q4": {
                     "question": "Was ist der Unterschied zwischen reinen und synthetischen Ölen?",
@@ -382,7 +383,7 @@
                 },
                 "q5": {
                     "question": "Kann ich ätherische Öle während der Schwangerschaft verwenden?",
-                    "answer": "Einige ätherische Öle sollten während der Schwangerschaft vermieden werden, besonders im ersten Trimester. Sichere Optionen umfassen typischerweise Lavendel, Kamille und Ylang-Ylang bei richtiger Verdünnung. Konsultieren Sie immer Ihren Arzt, bevor Sie ätherische Öle während der Schwangerschaft verwenden. Unsere App enthält Sicherheitshinweise für jedes Öl bezüglich Schwangerschaft und Stillzeit."
+                    "answer": "Einige ätherische Öle sollten während der Schwangerschaft vermieden werden, besonders im ersten Trimester. Sichere Optionen umfassen typischerweise Lavendel, Kamille und Ylang-Ylang bei richtiger Verdünnung. Konsultieren Sie immer Ihren Arzt, bevor Sie ätherische Öle während der Schwangerschaft verwenden. Unsere App bietet jetzt einen eigenen Schwangerschafts-Bereich mit trimesterspezifischen Sicherheitshinweisen, Dosierungsempfehlungen und zu vermeidenden Ölen."
                 },
                 "q6": {
                     "question": "Wie sollte ich meine ätherischen Öle lagern?",
@@ -394,7 +395,7 @@
                 },
                 "q8": {
                     "question": "Können Kinder ätherische Öle sicher verwenden?",
-                    "answer": "Ja, aber mit extra Vorsicht. Kinderhaut ist empfindlicher, also verwenden Sie immer höhere Verdünnungsverhältnisse (1 Tropfen pro Esslöffel Trägeröl für Kinder ab 2 Jahren). Einige Öle wie Eukalyptus und Pfefferminze sollten für junge Kinder vermieden werden. Unsere App bietet altersspezifische Sicherheitsrichtlinien für jedes ätherische Öl."
+                    "answer": "Ja, aber mit extra Vorsicht. Kinderhaut ist empfindlicher, also verwenden Sie immer höhere Verdünnungsverhältnisse (1 Tropfen pro Esslöffel Trägeröl für Kinder ab 2 Jahren). Einige Öle wie Eukalyptus und Pfefferminze sollten für junge Kinder vermieden werden. Unsere App bietet jetzt einen eigenen Kinder-Bereich mit altersspezifischen Dosierungsempfehlungen und Sicherheitsrichtlinien für jedes ätherische Öl."
                 },
                 "q9": {
                     "question": "Wie viele Tropfen ätherisches Öl sollte ich verwenden?",
@@ -422,7 +423,7 @@
                 },
                 "q15": {
                     "question": "Wie kann die Ätherische Öle App mir helfen?",
-                    "answer": "Unsere App ist Ihr vollständiger Wellness-Begleiter! Greifen Sie auf 400+ Gesundheitszustände mit empfohlenen Ölen zu, erkunden Sie 140+ Profile ätherischer Öle, entdecken Sie 100+ Diffuser-Mischungen, verfolgen Sie Ihr Inventar, erhalten Sie tägliche Wellness-Tipps und speichern Sie Ihre Lieblingsrezepte. Laden Sie kostenlos auf iOS und Android herunter, um Ihre natürliche Wellness-Reise heute zu beginnen."
+                    "answer": "Unsere App ist Ihr vollständiger Wellness-Begleiter! Greifen Sie auf 650+ Gesundheitszustände mit empfohlenen Ölen zu, erkunden Sie 150+ Profile ätherischer Öle, entdecken Sie 100+ Diffuser-Mischungen, nutzen Sie eigene Sicherheits-Guides für Schwangerschaft, Kinder und Krebsbegleitung, verfolgen Sie Ihr Inventar, erhalten Sie tägliche Wellness-Tipps und speichern Sie Ihre Lieblingsrezepte. Laden Sie kostenlos auf iOS und Android herunter, um Ihre natürliche Wellness-Reise heute zu beginnen."
                 }
             },
             "testimonials": {
@@ -431,9 +432,9 @@
             },
             "download": {
                 "title": "Beginnen Sie Ihre Wellness-Reise noch heute",
-                "subtitle": "Jetzt herunterladen und sofortigen Zugang zu 400+ Gesundheitszuständen, 140+ Ölen und Expertenberatung erhalten",
+                "subtitle": "Jetzt herunterladen und sofortigen Zugang zu 650+ Gesundheitszuständen, 150+ Ölen und eigenen Guides für Schwangerschaft, Kinder & Krebs erhalten",
                 "button": "Kostenlos im App Store herunterladen",
-                "buttonMobile": "Kostenlos im<br>App Store herunterladen",
+                "buttonMobile": "Kostenlos<br>im App Store herunterladen",
                 "appStoreAlt": "Im App Store herunterladen",
                 "googlePlayAlt": "Bei Google Play holen"
             },
@@ -469,7 +470,8 @@
                 "copyright": "© Copyright Ätherische Öle Guide & Rezepte",
                 "designBy": "Design von styleshout",
                 "disclaimer1": "Nur zu Informationszwecken. Nicht zur medizinischen Diagnose, Behandlung, Heilung oder Prävention gedacht. Aussagen nicht von der Food and Drug Administration bewertet.",
-                "disclaimer2": "Unabhängig entwickelt von Appostu SRL. Diese App enthält originelle Inhalte und ist nicht mit doTERRA® verbunden oder von doTERRA® unterstützt. doTERRA ist eine Marke der doTERRA Holdings, LLC."
+                "disclaimer2": "Unabhängig entwickelt von Appostu SRL. Diese App enthält originelle Inhalte und ist nicht mit doTERRA® verbunden oder von doTERRA® unterstützt. doTERRA ist eine Marke der doTERRA Holdings, LLC.",
+                "backToTop": "Nach oben"
             },
             "language": {
                 "current": "Deutsch"
@@ -478,11 +480,11 @@
         fr: {
             "meta": {
                 "title": "Guide des Huiles Essentielles & Recettes - Votre Compagnon Complet pour le Bien-être Naturel",
-                "description": "Découvrez plus de 400 conditions de santé, 140 huiles essentielles et 100 mélanges pour diffuseur. Votre guide complet pour le bien-être naturel avec des protocoles d'experts et un suivi intelligent. Téléchargez maintenant !",
+                "description": "Découvrez 650+ conditions de santé, 150+ huiles essentielles et 100+ mélanges pour diffuseur — désormais avec des sections dédiées Grossesse, Enfants et Cancer. Votre guide complet pour le bien-être naturel avec des protocoles d'experts et un suivi intelligent. Téléchargez maintenant !",
                 "ogTitle": "Guide des Huiles Essentielles & Recettes - Votre Compagnon Complet pour le Bien-être Naturel",
-                "ogDescription": "Plus de 400 conditions de santé · 140 huiles · 100 mélanges. L'application d'aromathérapie ultime pour le bien-être naturel. Téléchargement gratuit !",
+                "ogDescription": "650+ conditions de santé · 150+ huiles · 100+ mélanges · nouveau : sections Grossesse, Enfants et Cancer. L'application d'aromathérapie ultime pour le bien-être naturel. Téléchargement gratuit !",
                 "twitterTitle": "Application Guide des Huiles Essentielles & Recettes",
-                "twitterDescription": "Plus de 400 conditions de santé · 140 huiles · 100 mélanges. Votre compagnon complet pour le bien-être naturel."
+                "twitterDescription": "650+ conditions de santé · 150+ huiles · 100+ mélanges · nouveau : sections Grossesse, Enfants et Cancer. Votre compagnon complet pour le bien-être naturel."
             },
             "nav": {
                 "home": "Accueil",
@@ -495,7 +497,7 @@
             },
             "hero": {
                 "headline": "Votre Guide Complet pour le Bien-être Naturel",
-                "subheadline": "Découvrez plus de 400 conditions de santé, 140 huiles essentielles et des mélanges d'experts - le tout dans une application magnifiquement conçue. Transformez votre voyage vers le bien-être dès aujourd'hui.",
+                "subheadline": "Découvrez 650+ conditions de santé, 150+ huiles essentielles et des sections dédiées Grossesse, Enfants et Cancer - le tout dans une application magnifiquement conçue. Transformez votre voyage vers le bien-être dès aujourd'hui.",
                 "downloadAppStore": "Télécharger Gratuitement sur l'App Store",
                 "downloadAppStoreMobile": "Télécharger Gratuitement<br>sur l'App Store",
                 "subscribeTips": "S'abonner aux Conseils Bien-être",
@@ -503,13 +505,13 @@
             },
             "benefits": {
                 "section1": {
-                    "title": "Trouvez des Solutions Naturelles pour Plus de 400 Conditions de Santé",
-                    "description": "Du rhume et de l'insomnie à l'anxiété et aux problèmes digestifs, découvrez des protocoles recherchés médicalement qui vous aident à aborder naturellement les préoccupations quotidiennes de bien-être. Chaque condition comprend des méthodes d'application, des notes de sécurité et des recommandations d'experts.",
+                    "title": "Trouvez des Solutions Naturelles pour 650+ Conditions de Santé",
+                    "description": "Du rhume et de l'insomnie à l'anxiété et aux problèmes digestifs - avec désormais des guides de sécurité dédiés à la grossesse, aux jeunes enfants et au cancer - découvrez des protocoles recherchés médicalement qui vous aident à aborder naturellement le bien-être à chaque étape de la vie. Chaque condition comprend des méthodes d'application, des notes de sécurité et des recommandations d'experts.",
                     "highlight": "Arrêtez de deviner. Commencez à guérir en toute confiance."
                 },
                 "section2": {
                     "title": "Une Expertise à Portée de Main",
-                    "description": "Accédez à des profils détaillés de plus de 140 huiles essentielles. Découvrez les bienfaits thérapeutiques, les considérations de sécurité et les méthodes d'application. Que vous soyez débutant ou passionné expérimenté, trouvez tout ce dont vous avez besoin pour utiliser les hoses en toute sécurité et efficacité.",
+                    "description": "Accédez à des profils détaillés de 150+ huiles essentielles. Découvrez les bienfaits thérapeutiques, les considérations de sécurité et les méthodes d'application. Que vous soyez débutant ou passionné expérimenté, trouvez tout ce dont vous avez besoin pour utiliser les huiles en toute sécurité et efficacité.",
                     "highlight": "Votre encyclopédie d'aromathérapie de poche."
                 },
                 "section3": {
@@ -530,7 +532,7 @@
             },
             "healthBenefits": {
                 "title": "Transformez Votre Santé Naturellement",
-                "subtitle": "Découvrez comment les hoses essentielles peuvent soutenir votre voyage vers le bien-être",
+                "subtitle": "Découvrez comment les huiles essentielles peuvent soutenir votre voyage vers le bien-être",
                 "cards": {
                     "sleep": {
                         "title": "Meilleur Sommeil",
@@ -538,7 +540,7 @@
                     },
                     "stress": {
                         "title": "Stress Réduit",
-                        "description": "Trouvez paix et équilibre avec des hoses anti-anxiété comme la bergamote et l'ylang-ylang."
+                        "description": "Trouvez paix et équilibre avec des huiles anti-anxiété comme la bergamote et l'ylang-ylang."
                     },
                     "focus": {
                         "title": "Concentration Améliorée",
@@ -554,7 +556,7 @@
                     },
                     "mood": {
                         "title": "Élévation de l'Humeur",
-                        "description": "Relevez votre moral et combattez les baisses d'humeur avec des hoses d'agrumes comme l'orange et le pamplemousse."
+                        "description": "Relevez votre moral et combattez les baisses d'humeur avec des huiles d'agrumes comme l'orange et le pamplemousse."
                     }
                 }
             },
@@ -582,66 +584,66 @@
             },
             "faq": {
                 "title": "Questions Fréquemment Posées",
-                "subtitle": "Tout ce que vous devez savoir sur les hoses essentielles et notre application",
+                "subtitle": "Tout ce que vous devez savoir sur les huiles essentielles et notre application",
                 "q1": {
-                    "question": "Que sont les hoses essentielles et comment fonctionnent-elles ?",
-                    "answer": "Les hoses essentielles sont des extraits de plantes concentrés qui capturent le parfum naturel et les propriétés bénéfiques des plantes. Elles fonctionnent par l'aromathérapie (inhalation) ou l'application topique, interagissant avec les systèmes de votre corps pour promouvoir le bien-être. Chaque huile contient des composés uniques qui peuvent soutenir la santé physique et émotionnelle."
+                    "question": "Que sont les huiles essentielles et comment fonctionnent-elles ?",
+                    "answer": "Les huiles essentielles sont des extraits de plantes concentrés qui capturent le parfum naturel et les propriétés bénéfiques des plantes. Elles fonctionnent par l'aromathérapie (inhalation) ou l'application topique, interagissant avec les systèmes de votre corps pour promouvoir le bien-être. Chaque huile contient des composés uniques qui peuvent soutenir la santé physique et émotionnelle."
                 },
                 "q2": {
-                    "question": "Les hoses essentielles sont-elles sûres à utiliser en interne ?",
-                    "answer": "L'utilisation interne des hoses essentielles ne doit se faire que sous la direction d'un professionnel de santé qualifié ou d'un aromathérapeute certifié. Bien que certaines hoses soient généralement reconnues comme sûres pour un usage interne en petites quantités, d'autres peuvent être toxiques. Notre application fournit des informations de sécurité pour chaque huile, mais consultez toujours un professionnel avant un usage interne."
+                    "question": "Les huiles essentielles sont-elles sûres à utiliser en interne ?",
+                    "answer": "L'utilisation interne des huiles essentielles ne doit se faire que sous la direction d'un professionnel de santé qualifié ou d'un aromathérapeute certifié. Bien que certaines huiles soient généralement reconnues comme sûres pour un usage interne en petites quantités, d'autres peuvent être toxiques. Notre application fournit des informations de sécurité pour chaque huile, mais consultez toujours un professionnel avant un usage interne."
                 },
                 "q3": {
-                    "question": "Comment choisir la bonne hose essentielle pour mes besoins ?",
-                    "answer": "Notre application facilite la tâche ! Recherchez parmi plus de 400 conditions de santé pour trouver les hoses recommandées, ou parcourez notre base de données de plus de 140 hoses essentielles par leurs bienfaits. Chaque profil d'huile comprend les propriétés thérapeutiques, les considérations de sécurité et les utilisations recommandées. Commencez avec des hoses populaires comme la lavande pour la relaxation ou la menthe poivrée pour l'énergie."
+                    "question": "Comment choisir la bonne huile essentielle pour mes besoins ?",
+                    "answer": "Notre application facilite la tâche ! Recherchez parmi 650+ conditions de santé pour trouver les huiles recommandées, ou parcourez notre base de données de 150+ huiles essentielles par leurs bienfaits. Chaque profil d'huile comprend les propriétés thérapeutiques, les considérations de sécurité et les utilisations recommandées. Commencez avec des huiles populaires comme la lavande pour la relaxation ou la menthe poivrée pour l'énergie."
                 },
                 "q4": {
-                    "question": "Quelle est la différence entre les hoses pures et synthétiques ?",
-                    "answer": "Les hoses essentielles pures sont des extraits de plantes 100% naturels sans additifs ni composés synthétiques. Les hoses synthétiques sont des parfums créés en laboratoire qui peuvent sentir similaire mais manquent de thérapeut. Les hoses pures sont testées pour leur pureté et leur puissance, vous assurant d'obtenir tous les bienfaits pour le bien-être. Notre application vous aide à identifier les indicateurs de qualité pour chaque huile."
+                    "question": "Quelle est la différence entre les huiles pures et synthétiques ?",
+                    "answer": "Les huiles essentielles pures sont des extraits de plantes 100% naturels sans additifs ni composés synthétiques. Les huiles synthétiques sont des parfums créés en laboratoire qui peuvent sentir similaire mais manquent de bienfaits thérapeutiques. Les huiles pures sont testées pour leur pureté et leur puissance, vous assurant d'obtenir tous les bienfaits pour le bien-être. Notre application vous aide à identifier les indicateurs de qualité pour chaque huile."
                 },
                 "q5": {
-                    "question": "Puis-je utiliser des hoses essentielles pendant la grossesse ?",
-                    "answer": "Certaines hoses essentielles doivent être évitées pendant la grossesse, surtout au premier trimestre. Les options sûres incluent typiquement la lavande, la camomille et l'ylang-ylang lorsqu'elles sont correctement diluées. Consultez toujours votre professionnel de santé avant d'utiliser des hoses essentielles pendant la grossesse. Notre application inclut des notes de sécurité pour chaque huile concernant la grossesse et l'allaitement."
+                    "question": "Puis-je utiliser des huiles essentielles pendant la grossesse ?",
+                    "answer": "Certaines huiles essentielles doivent être évitées pendant la grossesse, surtout au premier trimestre. Les options sûres incluent typiquement la lavande, la camomille et l'ylang-ylang lorsqu'elles sont correctement diluées. Consultez toujours votre professionnel de santé avant d'utiliser des huiles essentielles pendant la grossesse. Notre application propose désormais une section Grossesse dédiée avec des notes de sécurité par trimestre, des conseils de dosage et les huiles à éviter."
                 },
                 "q6": {
-                    "question": "Comment dois-je conserver mes hoses essentielles ?",
-                    "answer": "Conservez les hoses essentielles dans des flacons en verre foncé (ambre ou bleu cobalt) à l'abri de la lumière directe du soleil et de la chaleur. Gardez-les dans un endroit frais et sec avec des bouchons bien fermés. La plupart des hoses se conservent 2-5 ans lorsqu'elles sont stockées correctement, bien que les hoses d'agrumes aient une durée de vie plus courte de 1-2 ans. Notre application inclut une fonction de suivi pour surveiller votre inventaire d'huiles."
+                    "question": "Comment dois-je conserver mes huiles essentielles ?",
+                    "answer": "Conservez les huiles essentielles dans des flacons en verre foncé (ambre ou bleu cobalt) à l'abri de la lumière directe du soleil et de la chaleur. Gardez-les dans un endroit frais et sec avec des bouchons bien fermés. La plupart des huiles se conservent 2-5 ans lorsqu'elles sont stockées correctement, bien que les huiles d'agrumes aient une durée de vie plus courte de 1-2 ans. Notre application inclut une fonction de suivi pour surveiller votre inventaire d'huiles."
                 },
                 "q7": {
-                    "question": "Qu'est-ce qu'une hose de support et pourquoi en ai-je besoin ?",
-                    "answer": "Les hoses de support sont des hoses végétales neutres (comme le coco, le jojoba ou l'huile d'amande) utilisées pour diluer les hoses essentielles avant l'application topique. Elles 'transportent' l'huilée essentielle sur votre peau en toute sécurité, prévenant les irritations ou réactions de sensibilité. Une dilution typique est de 2-3 gouttes d'huilée essentielle par cuillère à café d'huilée de support pour les adultes."
+                    "question": "Qu'est-ce qu'une huile de support et pourquoi en ai-je besoin ?",
+                    "answer": "Les huiles de support sont des huiles végétales neutres (comme le coco, le jojoba ou l'huile d'amande) utilisées pour diluer les huiles essentielles avant l'application topique. Elles 'transportent' l'huile essentielle sur votre peau en toute sécurité, prévenant les irritations ou réactions de sensibilité. Une dilution typique est de 2-3 gouttes d'huile essentielle par cuillère à café d'huile de support pour les adultes."
                 },
                 "q8": {
-                    "question": "Les enfants peuvent-ils utiliser les hoses essentielles en toute sécurité ?",
-                    "answer": "Oui, mais avec une prudence supplémentaire. La peau des enfants est plus sensible, donc utilisez toujours des ratios de dilution plus élevés (1 goutte par cuillère à soupe d'huilée de support pour les 2 ans et plus). Certaines hoses comme l'eucalyptus et la menthe poivrée doivent être évitées pour les jeunes enfants. Notre application fournit des directives de sécurité spécifiques à l'âge pour chaque hose essentielle."
+                    "question": "Les enfants peuvent-ils utiliser les huiles essentielles en toute sécurité ?",
+                    "answer": "Oui, mais avec une prudence supplémentaire. La peau des enfants est plus sensible, donc utilisez toujours des ratios de dilution plus élevés (1 goutte par cuillère à soupe d'huile de support pour les 2 ans et plus). Certaines huiles comme l'eucalyptus et la menthe poivrée doivent être évitées pour les jeunes enfants. Notre application propose désormais une section Enfants dédiée avec des conseils de dosage par âge et des consignes de sécurité pour chaque huile essentielle."
                 },
                 "q9": {
-                    "question": "Combien de gouttes d'huilée essentielle dois-je utiliser ?",
-                    "answer": "Cela dépend de l'utilisation : Pour la diffusion, utilisez 3-5 gouttes pour 100 ml d'eau. Pour l'application topique, utilisez une dilution de 1-3% (3-6 gouttes par cuillère à café d'huilée de support pour les adultes). Pour les bains, utilisez 5-10 gouttes mélangées avec un dispersant comme les sels d'Epsom. Notre application fournit des recommandations spécifiques pour chaque méthode d'application."
+                    "question": "Combien de gouttes d'huile essentielle dois-je utiliser ?",
+                    "answer": "Cela dépend de l'utilisation : Pour la diffusion, utilisez 3-5 gouttes pour 100 ml d'eau. Pour l'application topique, utilisez une dilution de 1-3% (3-6 gouttes par cuillère à café d'huile de support pour les adultes). Pour les bains, utilisez 5-10 gouttes mélangées avec un dispersant comme les sels d'Epsom. Notre application fournit des recommandations spécifiques pour chaque méthode d'application."
                 },
                 "q10": {
-                    "question": "Quelles sont les meilleures hoses essentielles pour les débutants ?",
-                    "answer": "Les excellentes hoses pour débutants incluent : Lavande (relaxation, sommeil), Menthe poivrée (énergie, maux de tête), Citron (humeur, nettoyage), Arbre à thé (soutien cutané, immunité) et Encens (bien-être général). Ces hoses polyvalentes ont de multiples utilisations et sont généralement sûres lorsqu'elles sont correctement diluées. Notre application propose des guides et des recettes adaptés aux débutants."
+                    "question": "Quelles sont les meilleures huiles essentielles pour les débutants ?",
+                    "answer": "Les excellentes huiles pour débutants incluent : Lavande (relaxation, sommeil), Menthe poivrée (énergie, maux de tête), Citron (humeur, nettoyage), Arbre à thé (soutien cutané, immunité) et Encens (bien-être général). Ces huiles polyvalentes ont de multiples utilisations et sont généralement sûres lorsqu'elles sont correctement diluées. Notre application propose des guides et des recettes adaptés aux débutants."
                 },
                 "q11": {
-                    "question": "Combien de temps durent les hoses essentielles ?",
-                    "answer": "La durée de conservation varie selon le type d'huilée. La plupart des hoses essentielles se conservent 2-5 ans lorsqu'elles sont stockées correctement. Les hoses d'agrumes (citron, orange, pamplemousse) ont des durées de conservation plus courtes de 1-2 ans. Les hoses boisées (santal, cèdre) et certaines florales peuvent durer 6-8 ans ou plus. Notre fonction de suivi d'inventaire vous aide à surveiller les dates de fraîcheur."
+                    "question": "Combien de temps durent les huiles essentielles ?",
+                    "answer": "La durée de conservation varie selon le type d'huile. La plupart des huiles essentielles se conservent 2-5 ans lorsqu'elles sont stockées correctement. Les huiles d'agrumes (citron, orange, pamplemousse) ont des durées de conservation plus courtes de 1-2 ans. Les huiles boisées (santal, cèdre) et certaines florales peuvent durer 6-8 ans ou plus. Notre fonction de suivi d'inventaire vous aide à surveiller les dates de fraîcheur."
                 },
                 "q12": {
-                    "question": "Puis-je mélanger différentes hoses essentielles ensemble ?",
-                    "answer": "Absolument ! Le mélange d'huiles peut créer des effets synergiques et des aromes personnalisés. Notre application comprend plus de 100 mélanges pour diffuseur créés par des experts et vous permet de créer et sauvegarder vos propres combinaisons. Commencez avec des mélanges simples de 2-3 hoses et suivez nos directives de mélange pour des résultats équilibrés et efficaces."
+                    "question": "Puis-je mélanger différentes huiles essentielles ensemble ?",
+                    "answer": "Absolument ! Le mélange d'huiles peut créer des effets synergiques et des arômes personnalisés. Notre application comprend plus de 100 mélanges pour diffuseur créés par des experts et vous permet de créer et sauvegarder vos propres combinaisons. Commencez avec des mélanges simples de 2-3 huiles et suivez nos directives de mélange pour des résultats équilibrés et efficaces."
                 },
                 "q13": {
                     "question": "Quelle est la différence entre la diffusion et l'application topique ?",
-                    "answer": "La diffusion libère des molécules d'huilée dans l'air pour l'inhalation, affectant l'humeur et le système respiratoire. C'est génial pour l'ambiance et la purification de l'air. L'application topique implique l'application d'huiles diluées sur la peau pour des bienfaits ciblés. Les deux méthodes ont des avantages uniques, et notre application fournit des conseils détaillés pour chaque approche."
+                    "answer": "La diffusion libère des molécules d'huile dans l'air pour l'inhalation, affectant l'humeur et le système respiratoire. C'est génial pour l'ambiance et la purification de l'air. L'application topique implique l'application d'huiles diluées sur la peau pour des bienfaits ciblés. Les deux méthodes ont des avantages uniques, et notre application fournit des conseils détaillés pour chaque approche."
                 },
                 "q14": {
                     "question": "Vos recommandations sont-elles basées sur la recherche scientifique ?",
-                    "answer": "Notre base de données comprend des informations provenant de recherches évaluées par des pairs, d'utilisations traditionnelles et de pratiques d'aromathérapie certifiées. Bien que les hoses essentielles offrent un soutien au bien-être, notre contenu est à titre informatif uniquement et n'est pas destiné à diagnostiquer, traiter ou guérir toute condition. Consultez toujours des professionnels de santé pour les préoccupations médicales."
+                    "answer": "Notre base de données comprend des informations provenant de recherches évaluées par des pairs, d'utilisations traditionnelles et de pratiques d'aromathérapie certifiées. Bien que les huiles essentielles offrent un soutien au bien-être, notre contenu est à titre informatif uniquement et n'est pas destiné à diagnostiquer, traiter ou guérir toute condition. Consultez toujours des professionnels de santé pour les préoccupations médicales."
                 },
                 "q15": {
                     "question": "Comment l'application Huiles Essentielles peut-elle m'aider ?",
-                    "answer": "Notre application est votre compagnon de bien-être complet ! Accédez à plus de 400 conditions de santé avec les hoses recommandées, explorez plus de 140 profils d'huiles essentielles, découvrez plus de 100 mélanges pour diffuseur, suivez votre inventaire, recevez des conseils de bien-être quotidiens et sauvegardez vos recettes favorites. Téléchargez gratuitement sur iOS et Android pour commencer votre voyage de bien-être naturel aujourd'hui."
+                    "answer": "Notre application est votre compagnon de bien-être complet ! Accédez à 650+ conditions de santé avec les huiles recommandées, explorez 150+ profils d'huiles essentielles, découvrez 100+ mélanges pour diffuseur, profitez de guides de sécurité dédiés à la grossesse, aux enfants et au cancer, suivez votre inventaire, recevez des conseils de bien-être quotidiens et sauvegardez vos recettes favorites. Téléchargez gratuitement sur iOS et Android pour commencer votre voyage de bien-être naturel aujourd'hui."
                 }
             },
             "testimonials": {
@@ -650,7 +652,7 @@
             },
             "download": {
                 "title": "Commencez Votre Voyage Bien-être Aujourd'hui",
-                "subtitle": "Téléchargez maintenant et accédez instantanément à plus de 400 conditions de santé, 140 hoses et des conseils d'experts",
+                "subtitle": "Téléchargez maintenant et accédez instantanément à 650+ conditions de santé, 150+ huiles et des sections dédiées Grossesse, Enfants et Cancer",
                 "button": "Télécharger Gratuitement sur l'App Store",
                 "buttonMobile": "Télécharger Gratuitement<br>sur l'App Store",
                 "appStoreAlt": "Télécharger sur l'App Store",
@@ -688,7 +690,8 @@
                 "copyright": "© Copyright Guide des Huiles Essentielles & Recettes",
                 "designBy": "Design par styleshout",
                 "disclaimer1": "À titre informatif uniquement. Non destiné au diagnostic, traitement, guérison ou prévention médicale. Déclarations non évaluées par la Food and Drug Administration.",
-                "disclaimer2": "Développé indépendamment par Appostu SRL. Cette application contient du contenu original et n'est pas affiliée ou approuvée par doTERRA®. doTERRA est une marque de doTERRA Holdings, LLC."
+                "disclaimer2": "Développé indépendamment par Appostu SRL. Cette application contient du contenu original et n'est pas affiliée ou approuvée par doTERRA®. doTERRA est une marque de doTERRA Holdings, LLC.",
+                "backToTop": "Retour en haut"
             },
             "language": {
                 "current": "Français"
@@ -697,11 +700,11 @@
         it: {
             "meta": {
                 "title": "Guida agli Oli Essenziali e Ricette - Il Tuo Compagno Completo per il Benessere Naturale",
-                "description": "Scopri oltre 400 condizioni di salute, 140 oli essenziali e 100 miscele per diffusore. La tua guida completa per il benessere naturale con protocolli esperti e monitoraggio intelligente. Scarica ora!",
+                "description": "Scopri 650+ condizioni di salute, 150+ oli essenziali e 100+ miscele per diffusore — ora con sezioni dedicate Gravidanza, Bambini e Cancro. La tua guida completa per il benessere naturale con protocolli esperti e monitoraggio intelligente. Scarica ora!",
                 "ogTitle": "Guida agli Oli Essenziali e Ricette - Il Tuo Compagno Completo per il Benessere Naturale",
-                "ogDescription": "Oltre 400 condizioni di salute · 140 oli · 100 miscele. L'app di aromaterapia definitiva per il benessere naturale. Scarica gratis!",
+                "ogDescription": "650+ condizioni di salute · 150+ oli · 100+ miscele · novità: sezioni Gravidanza, Bambini e Cancro. L'app di aromaterapia definitiva per il benessere naturale. Scarica gratis!",
                 "twitterTitle": "App Guida Oli Essenziali e Ricette",
-                "twitterDescription": "Oltre 400 condizioni di salute · 140 oli · 100 miscele. Il tuo compagno completo per il benessere naturale."
+                "twitterDescription": "650+ condizioni di salute · 150+ oli · 100+ miscele · novità: sezioni Gravidanza, Bambini e Cancro. Il tuo compagno completo per il benessere naturale."
             },
             "nav": {
                 "home": "Home",
@@ -714,7 +717,7 @@
             },
             "hero": {
                 "headline": "La Tua Guida Completa al Benessere Naturale",
-                "subheadline": "Scopri oltre 400 condizioni di salute, 140 oli essenziali e miscele esperte - tutto in un'app splendidamente progettata. Trasforma il tuo percorso di benessere oggi.",
+                "subheadline": "Scopri 650+ condizioni di salute, 150+ oli essenziali e sezioni dedicate Gravidanza, Bambini e Cancro - tutto in un'app splendidamente progettata. Trasforma il tuo percorso di benessere oggi.",
                 "downloadAppStore": "Scarica Gratis sull'App Store",
                 "downloadAppStoreMobile": "Scarica Gratis<br>sull'App Store",
                 "subscribeTips": "Iscriviti per Consigli Benessere",
@@ -722,13 +725,13 @@
             },
             "benefits": {
                 "section1": {
-                    "title": "Trova Soluzioni Naturali per Oltre 400 Condizioni di Salute",
-                    "description": "Da raffreddori e insonnia ad ansia e problemi digestivi, scopri protocolli ricercati medicalmente che ti aiutano ad affrontare naturalmente le preoccupazioni quotidiane di benessere. Ogni condizione include metodi di applicazione, note di sicurezza e raccomandazioni esperte.",
+                    "title": "Trova Soluzioni Naturali per 650+ Condizioni di Salute",
+                    "description": "Da raffreddori e insonnia ad ansia e problemi digestivi - ora con guide di sicurezza dedicate a gravidanza, bambini piccoli e percorso oncologico - scopri protocolli ricercati medicalmente che ti aiutano ad affrontare naturalmente il benessere in ogni fase della vita. Ogni condizione include metodi di applicazione, note di sicurezza e raccomandazioni esperte.",
                     "highlight": "Smetti di indovinare. Inizia a guarire con fiducia."
                 },
                 "section2": {
                     "title": "Conoscenze Esperte a Portata di Mano",
-                    "description": "Accedi a profili dettagliati di oltre 140 oli essenziali. Scopri i benefici terapeutici, le considerazioni sulla sicurezza e i metodi di applicazione. Che tu sia un principiante o un appassionato esperto, trova tutto ciò di cui hai bisogno per usare gli oli in modo sicuro ed efficace.",
+                    "description": "Accedi a profili dettagliati di 150+ oli essenziali. Scopri i benefici terapeutici, le considerazioni sulla sicurezza e i metodi di applicazione. Che tu sia un principiante o un appassionato esperto, trova tutto ciò di cui hai bisogno per usare gli oli in modo sicuro ed efficace.",
                     "highlight": "La tua enciclopedia tascabile di aromaterapia."
                 },
                 "section3": {
@@ -812,7 +815,7 @@
                 },
                 "q3": {
                     "question": "Come scelgo l'olio essenziale giusto per le mie esigenze?",
-                    "answer": "La nostra app rende tutto facile! Cerca tra oltre 400 condizioni di salute per trovare gli oli raccomandati, o sfoglia il nostro database di oltre 140 oli essenziali per i loro benefici. Ogni profilo di olio include proprietà terapeutiche, considerazioni sulla sicurezza e usi raccomandati. Inizia con oli popolari come lavanda per il rilassamento o menta piperita per l'energia."
+                    "answer": "La nostra app rende tutto facile! Cerca tra 650+ condizioni di salute per trovare gli oli raccomandati, o sfoglia il nostro database di 150+ oli essenziali per i loro benefici. Ogni profilo di olio include proprietà terapeutiche, considerazioni sulla sicurezza e usi raccomandati. Inizia con oli popolari come lavanda per il rilassamento o menta piperita per l'energia."
                 },
                 "q4": {
                     "question": "Qual è la differenza tra oli puri e sintetici?",
@@ -820,7 +823,7 @@
                 },
                 "q5": {
                     "question": "Posso usare gli oli essenziali durante la gravidanza?",
-                    "answer": "Alcuni oli essenziali dovrebbero essere evitati durante la gravidanza, specialmente nel primo trimestre. Le opzioni sicure tipicamente includono lavanda, camomilla e ylang-ylang quando correttamente diluiti. Consulta sempre il tuo operatore sanitario prima di usare oli essenziali durante la gravidanza. La nostra app include note sulla sicurezza per ogni olio riguardo gravidanza e allattamento."
+                    "answer": "Alcuni oli essenziali dovrebbero essere evitati durante la gravidanza, specialmente nel primo trimestre. Le opzioni sicure tipicamente includono lavanda, camomilla e ylang-ylang quando correttamente diluiti. Consulta sempre il tuo operatore sanitario prima di usare oli essenziali durante la gravidanza. La nostra app include ora una sezione Gravidanza dedicata con note di sicurezza per trimestre, indicazioni sui dosaggi e oli da evitare."
                 },
                 "q6": {
                     "question": "Come dovrei conservare i miei oli essenziali?",
@@ -832,7 +835,7 @@
                 },
                 "q8": {
                     "question": "I bambini possono usare gli oli essenziali in sicurezza?",
-                    "answer": "Sì, ma con cautela extra. La pelle dei bambini è più sensibile, quindi usa sempre rapporti di diluizione più alti (1 goccia per cucchiaio di olio vettore per età 2+). Alcuni oli come eucalipto e menta piperita dovrebbero essere evitati per i bambini piccoli. La nostra app fornisce linee guida sulla sicurezza specifiche per età per ogni olio essenziale."
+                    "answer": "Sì, ma con cautela extra. La pelle dei bambini è più sensibile, quindi usa sempre rapporti di diluizione più alti (1 goccia per cucchiaio di olio vettore per età 2+). Alcuni oli come eucalipto e menta piperita dovrebbero essere evitati per i bambini piccoli. La nostra app include ora una sezione Bambini dedicata con indicazioni sui dosaggi per età e linee guida di sicurezza per ogni olio essenziale."
                 },
                 "q9": {
                     "question": "Quante gocce di olio essenziale dovrei usare?",
@@ -844,7 +847,7 @@
                 },
                 "q11": {
                     "question": "Quanto durano gli oli essenziali?",
-                    "answer": "La durata varia per tipo di olio. La maggior parte degli oli essenziali dura 2-5 anni quando conservati correttamente. Gli oli agrumati (limone, arancia, pompelmo) hanno durate più brevi di 1-2 anni. Gli oli legnosi (sandalo, cedro) e alcuni floreali possono durare 6-8 anni o più. La nostra funzione di tracciamento inventario ti aiuta a monitorare le date di freschezza."
+                    "answer": "La durata varia per tipo di olio. La maggior parte degli oli essenziali dura 2-5 anni quando conservati correttamente. Gli oli agrumati (limone, arancia, pompelmo) hanno durate più brevi di 1-2 anni. Gli oli legnosi (sandallo, cedro) e alcuni floreali possono durare 6-8 anni o più. La nostra funzione di tracciamento inventario ti aiuta a monitorare le date di freschezza."
                 },
                 "q12": {
                     "question": "Posso mescolare diversi oli essenziali insieme?",
@@ -860,7 +863,7 @@
                 },
                 "q15": {
                     "question": "Come può aiutarmi l'app Oli Essenziali?",
-                    "answer": "La nostra app è il tuo compagno completo di benessere! Accedi a oltre 400 condizioni di salute con oli raccomandati, esplora oltre 140 profili di oli essenziali, scopri oltre 100 miscele per diffusore, traccia il tuo inventario, ricevi consigli di benessere giornalieri e salva le tue ricette preferite. Scarica gratis su iOS e Android per iniziare il tuo percorso di benessere naturale oggi."
+                    "answer": "La nostra app è il tuo compagno completo di benessere! Accedi a 650+ condizioni di salute con oli raccomandati, esplora 150+ profili di oli essenziali, scopri 100+ miscele per diffusore, usufruisci di guide di sicurezza dedicate a gravidanza, bambini e percorso oncologico, traccia il tuo inventario, ricevi consigli di benessere giornalieri e salva le tue ricette preferite. Scarica gratis su iOS e Android per iniziare il tuo percorso di benessere naturale oggi."
                 }
             },
             "testimonials": {
@@ -869,7 +872,7 @@
             },
             "download": {
                 "title": "Inizia il Tuo Percorso Benessere Oggi",
-                "subtitle": "Scarica ora e ottieni accesso immediato a oltre 400 condizioni di salute, 140 oli e guida esperta",
+                "subtitle": "Scarica ora e ottieni accesso immediato a 650+ condizioni di salute, 150+ oli e sezioni dedicate Gravidanza, Bambini e Cancro",
                 "button": "Scarica Gratis sull'App Store",
                 "buttonMobile": "Scarica Gratis<br>sull'App Store",
                 "appStoreAlt": "Scarica sull'App Store",
@@ -907,7 +910,8 @@
                 "copyright": "© Copyright Guida Oli Essenziali e Ricette",
                 "designBy": "Design di styleshout",
                 "disclaimer1": "Solo a scopo informativo. Non inteso per diagnosi, trattamento, cura o prevenzione medica. Dichiarazioni non valutate dalla Food and Drug Administration.",
-                "disclaimer2": "Sviluppato indipendentemente da Appostu SRL. Questa app contiene contenuti originali e non è affiliata o approvata da doTERRA®. doTERRA è un marchio di doTERRA Holdings, LLC."
+                "disclaimer2": "Sviluppato indipendentemente da Appostu SRL. Questa app contiene contenuti originali e non è affiliata o approvata da doTERRA®. doTERRA è un marchio di doTERRA Holdings, LLC.",
+                "backToTop": "Torna su"
             },
             "language": {
                 "current": "Italiano"
@@ -916,11 +920,11 @@
         es: {
             "meta": {
                 "title": "Guía de Aceites Esenciales y Recetas - Tu Compañero Completo para el Bienestar Natural",
-                "description": "Descubre más de 400 condiciones de salud, 140 aceites esenciales y 100 mezclas para difusor. Tu guía completa para el bienestar natural con protocolos expertos y seguimiento inteligente. ¡Descarga ahora!",
+                "description": "Descubre 650+ condiciones de salud, 150+ aceites esenciales y 100+ mezclas para difusor — ahora con secciones dedicadas Embarazo, Niños y Cáncer. Tu guía completa para el bienestar natural con protocolos expertos y seguimiento inteligente. ¡Descarga ahora!",
                 "ogTitle": "Guía de Aceites Esenciales y Recetas - Tu Compañero Completo para el Bienestar Natural",
-                "ogDescription": "Más de 400 condiciones de salud · 140 aceites · 100 mezclas. La aplicación de aromaterapia definitiva para el bienestar natural. ¡Descarga gratis!",
+                "ogDescription": "650+ condiciones de salud · 150+ aceites · 100+ mezclas · nuevo: secciones Embarazo, Niños y Cáncer. La aplicación de aromaterapia definitiva para el bienestar natural. ¡Descarga gratis!",
                 "twitterTitle": "App Guía de Aceites Esenciales y Recetas",
-                "twitterDescription": "Más de 400 condiciones de salud · 140 aceites · 100 mezclas. Tu compañero completo para el bienestar natural."
+                "twitterDescription": "650+ condiciones de salud · 150+ aceites · 100+ mezclas · nuevo: secciones Embarazo, Niños y Cáncer. Tu compañero completo para el bienestar natural."
             },
             "nav": {
                 "home": "Inicio",
@@ -933,7 +937,7 @@
             },
             "hero": {
                 "headline": "Tu Guía Completa para el Bienestar Natural",
-                "subheadline": "Descubre más de 400 condiciones de salud, 140 aceites esenciales y mezclas de expertos - todo en una aplicación hermosamente diseñada. Transforma tu camino hacia el bienestar hoy.",
+                "subheadline": "Descubre 650+ condiciones de salud, 150+ aceites esenciales y secciones dedicadas Embarazo, Niños y Cáncer - todo en una aplicación hermosamente diseñada. Transforma tu camino hacia el bienestar hoy.",
                 "downloadAppStore": "Descargar Gratis en App Store",
                 "downloadAppStoreMobile": "Descargar Gratis<br>en App Store",
                 "subscribeTips": "Suscribirse para Consejos de Bienestar",
@@ -941,13 +945,13 @@
             },
             "benefits": {
                 "section1": {
-                    "title": "Encuentra Soluciones Naturales para Más de 400 Condiciones de Salud",
-                    "description": "Desde resfriados e insomnio hasta ansiedad y problemas digestivos, descubre protocolos investigados médicamente que te ayudan a abordar naturalmente las preocupaciones diarias de bienestar. Cada condición incluye métodos de aplicación, notas de seguridad y recomendaciones de expertos.",
+                    "title": "Encuentra Soluciones Naturales para 650+ Condiciones de Salud",
+                    "description": "Desde resfriados e insomnio hasta ansiedad y problemas digestivos - ahora con guías de seguridad dedicadas para el embarazo, los niños pequeños y el acompañamiento oncológico - descubre protocolos investigados médicamente que te ayudan a abordar el bienestar de forma natural en cada etapa de la vida. Cada condición incluye métodos de aplicación, notas de seguridad y recomendaciones de expertos.",
                     "highlight": "Deja de adivinar. Comienza a sanar con confianza."
                 },
                 "section2": {
                     "title": "Conocimiento Experto al Alcance de tu Mano",
-                    "description": "Accede a perfiles detallados de más de 140 aceites esenciales. Aprende sobre beneficios terapéuticos, consideraciones de seguridad y métodos de aplicación. Ya seas principiante o entusiasta experimentado, encuentra todo lo que necesitas para usar aceites de forma segura y efectiva.",
+                    "description": "Accede a perfiles detallados de 150+ aceites esenciales. Aprende sobre beneficios terapéuticos, consideraciones de seguridad y métodos de aplicación. Ya seas principiante o entusiasta experimentado, encuentra todo lo que necesitas para usar aceites de forma segura y efectiva.",
                     "highlight": "Tu enciclopedia de aromaterapia de bolsillo."
                 },
                 "section3": {
@@ -1031,7 +1035,7 @@
                 },
                 "q3": {
                     "question": "¿Cómo elijo el aceite esencial correcto para mis necesidades?",
-                    "answer": "¡Nuestra aplicación lo hace fácil! Busca entre más de 400 condiciones de salud para encontrar aceites recomendados, o explora nuestra base de datos de más de 140 aceites esenciales por sus beneficios. Cada perfil de aceite incluye propiedades terapéuticas, consideraciones de seguridad y usos recomendados. Comienza con aceites populares como lavanda para relajación o menta para energía."
+                    "answer": "¡Nuestra aplicación lo hace fácil! Busca entre 650+ condiciones de salud para encontrar aceites recomendados, o explora nuestra base de datos de 150+ aceites esenciales por sus beneficios. Cada perfil de aceite incluye propiedades terapéuticas, consideraciones de seguridad y usos recomendados. Comienza con aceites populares como lavanda para relajación o menta para energía."
                 },
                 "q4": {
                     "question": "¿Cuál es la diferencia entre aceites puros y sintéticos?",
@@ -1039,7 +1043,7 @@
                 },
                 "q5": {
                     "question": "¿Puedo usar aceites esenciales durante el embarazo?",
-                    "answer": "Algunos aceites esenciales deben evitarse durante el embarazo, especialmente en el primer trimestre. Las opciones seguras típicamente incluyen lavanda, manzanilla e ylang-ylang cuando se diluyen correctamente. Siempre consulta a tu proveedor de salud antes de usar aceites esenciales durante el embarazo. Nuestra aplicación incluye notas de seguridad para cada aceite respecto al embarazo y lactancia."
+                    "answer": "Algunos aceites esenciales deben evitarse durante el embarazo, especialmente en el primer trimestre. Las opciones seguras típicamente incluyen lavanda, manzanilla e ylang-ylang cuando se diluyen correctamente. Siempre consulta a tu proveedor de salud antes de usar aceites esenciales durante el embarazo. Nuestra aplicación ahora incluye una sección de Embarazo dedicada con notas de seguridad por trimestre, orientación de dosificación y aceites a evitar."
                 },
                 "q6": {
                     "question": "¿Cómo debo almacenar mis aceites esenciales?",
@@ -1051,7 +1055,7 @@
                 },
                 "q8": {
                     "question": "¿Pueden los niños usar aceites esenciales de forma segura?",
-                    "answer": "Sí, pero con precaución extra. La piel de los niños es más sensible, así que siempre usa proporciones de dilución más altas (1 gota por cucharada de aceite portador para mayores de 2 años). Algunos aceites como eucalipto y menta deben evitarse para niños pequeños. Nuestra aplicación proporciona directrices de seguridad específicas por edad para cada aceite esencial."
+                    "answer": "Sí, pero con precaución extra. La piel de los niños es más sensible, así que siempre usa proporciones de dilución más altas (1 gota por cucharada de aceite portador para mayores de 2 años). Algunos aceites como eucalipto y menta deben evitarse para niños pequeños. Nuestra aplicación ahora incluye una sección de Niños dedicada con orientación de dosificación por edad y pautas de seguridad para cada aceite esencial."
                 },
                 "q9": {
                     "question": "¿Cuántas gotas de aceite esencial debo usar?",
@@ -1070,8 +1074,8 @@
                     "answer": "¡Absolutamente! Mezclar aceites puede crear efectos sinérgicos y aromas personalizados. Nuestra aplicación incluye más de 100 mezclas para difusor creadas por expertos y te permite crear y guardar tus propias combinaciones. Comienza con mezclas simples de 2-3 aceites y sigue nuestras directrices para resultados equilibrados y efectivos."
                 },
                 "q13": {
-                    "question": "¿Cuál es la diferencia entre difusión y aplicación tópico?",
-                    "answer": "La difusión libera moléculas de aceite en el aire para inhalación, afectando el estado de ánimo y el sistema respiratorio. Es excelente para atmósfera y purificación del aire. La aplicación tópico implica aplicar aceites diluidos en la piel para beneficios específicos. Ambos métodos tienen ventajas únicas, y nuestra aplicación proporciona orientación detallada para cada enfoque."
+                    "question": "¿Cuál es la diferencia entre difusión y aplicación tópica?",
+                    "answer": "La difusión libera moléculas de aceite en el aire para inhalación, afectando el estado de ánimo y el sistema respiratorio. Es excelente para atmósfera y purificación del aire. La aplicación tópica implica aplicar aceites diluidos en la piel para beneficios específicos. Ambos métodos tienen ventajas únicas, y nuestra aplicación proporciona orientación detallada para cada enfoque."
                 },
                 "q14": {
                     "question": "¿Sus recomendaciones se basan en investigación científica?",
@@ -1079,7 +1083,7 @@
                 },
                 "q15": {
                     "question": "¿Cómo puede ayudarme la aplicación de Aceites Esenciales?",
-                    "answer": "¡Nuestra aplicación es tu compañero completo de bienestar! Accede a más de 400 condiciones de salud con aceites recomendados, explora más de 140 perfiles de aceites esenciales, descubre más de 100 mezclas para difusor, rastrea tu inventario, recibe consejos de bienestar diarios y guarda tus recetas favoritas. Descarga gratis en iOS y Android para comenzar tu camino de bienestar natural hoy."
+                    "answer": "¡Nuestra aplicación es tu compañero completo de bienestar! Accede a 650+ condiciones de salud con aceites recomendados, explora 150+ perfiles de aceites esenciales, descubre 100+ mezclas para difusor, aprovecha guías de seguridad dedicadas para embarazo, niños y acompañamiento oncológico, rastrea tu inventario, recibe consejos de bienestar diarios y guarda tus recetas favoritas. Descarga gratis en iOS y Android para comenzar tu camino de bienestar natural hoy."
                 }
             },
             "testimonials": {
@@ -1088,7 +1092,7 @@
             },
             "download": {
                 "title": "Comienza tu Camino de Bienestar Hoy",
-                "subtitle": "Descarga ahora y obtén acceso instantáneo a más de 400 condiciones de salud, 140 aceites y orientación experta",
+                "subtitle": "Descarga ahora y obtén acceso instantáneo a 650+ condiciones de salud, 150+ aceites y secciones dedicadas Embarazo, Niños y Cáncer",
                 "button": "Descargar Gratis en App Store",
                 "buttonMobile": "Descargar Gratis<br>en App Store",
                 "appStoreAlt": "Descargar en App Store",
@@ -1126,7 +1130,8 @@
                 "copyright": "© Copyright Guía de Aceites Esenciales y Recetas",
                 "designBy": "Diseño por styleshout",
                 "disclaimer1": "Solo para fines informativos. No está destinado para diagnóstico, tratamiento, cura o prevención médica. Declaraciones no evaluadas por la Food and Drug Administration.",
-                "disclaimer2": "Desarrollado independientemente por Appostu SRL. Esta aplicación contiene contenido original y no está afiliada ni respaldada por doTERRA®. doTERRA es una marca registrada de doTERRA Holdings, LLC."
+                "disclaimer2": "Desarrollado independientemente por Appostu SRL. Esta aplicación contiene contenido original y no está afiliada ni respaldada por doTERRA®. doTERRA es una marca registrada de doTERRA Holdings, LLC.",
+                "backToTop": "Volver arriba"
             },
             "language": {
                 "current": "Español"
@@ -1135,11 +1140,11 @@
         ro: {
             "meta": {
                 "title": "Ghid Uleiuri Esențiale & Rețete - Companionul Tău Complet pentru Bunăstarea Naturală",
-                "description": "Descoperă 400+ condiții de sănătate, 140+ uleiuri esențiale și 100+ amestecuri pentru difuzor. Ghidul tău complet pentru bunăstarea naturală cu protocoale de experți și urmărire inteligentă. Descarcă acum!",
+                "description": "Descoperă 650+ condiții de sănătate, 150+ uleiuri esențiale și 100+ amestecuri pentru difuzor — acum cu secțiuni dedicate Sarcină, Copii și Cancer. Ghidul tău complet pentru bunăstarea naturală cu protocoale de experți și urmărire inteligentă. Descarcă acum!",
                 "ogTitle": "Ghid Uleiuri Esențiale & Rețete - Companionul Tău Complet pentru Bunăstarea Naturală",
-                "ogDescription": "400+ condiții de sănătate • 140+ uleiuri • 100+ amestecuri. Aplicația definitivă de aromaterapie pentru bunăstarea naturală. Descarcă gratuit!",
+                "ogDescription": "650+ condiții de sănătate • 150+ uleiuri • 100+ amestecuri • nou: secțiuni Sarcină, Copii și Cancer. Aplicația definitivă de aromaterapie pentru bunăstarea naturală. Descarcă gratuit!",
                 "twitterTitle": "Aplicație Ghid Uleiuri Esențiale & Rețete",
-                "twitterDescription": "400+ condiții de sănătate • 140+ uleiuri • 100+ amestecuri. Companionul tău complet pentru bunăstarea naturală."
+                "twitterDescription": "650+ condiții de sănătate • 150+ uleiuri • 100+ amestecuri • nou: secțiuni Sarcină, Copii și Cancer. Companionul tău complet pentru bunăstarea naturală."
             },
             "nav": {
                 "home": "Acasă",
@@ -1152,7 +1157,7 @@
             },
             "hero": {
                 "headline": "Ghidul Tău Complet pentru Bunăstarea Naturală",
-                "subheadline": "Descoperă 400+ condiții de sănătate, 140+ uleiuri esențiale și amestecuri de experți - totul într-o aplicație frumos proiectată. Transformă-ți călătoria spre bunăstare astăzi.",
+                "subheadline": "Descoperă 650+ condiții de sănătate, 150+ uleiuri esențiale și secțiuni dedicate Sarcină, Copii și Cancer - totul într-o aplicație frumos proiectată. Transformă-ți călătoria spre bunăstare astăzi.",
                 "downloadAppStore": "Descarcă Gratuit pe App Store",
                 "downloadAppStoreMobile": "Descarcă Gratuit<br>pe App Store",
                 "subscribeTips": "Abonează-te pentru Sfaturi de Bunăstare",
@@ -1160,13 +1165,13 @@
             },
             "benefits": {
                 "section1": {
-                    "title": "Găsește Soluții Naturale pentru 400+ Condiții de Sănătate",
-                    "description": "De la răceli și insomnie până la anxietate și probleme digestive, descoperă protocoale cercetate medical care te ajută să abordezi natural îngrijorările zilnice de bunăstare. Fiecare condiție include metode de aplicare, note de siguranță și recomandări de experți.",
+                    "title": "Găsește Soluții Naturale pentru 650+ Condiții de Sănătate",
+                    "description": "De la răceli și insomnie până la anxietate și probleme digestive - acum cu ghiduri de siguranță dedicate pentru sarcină, copii mici și suportul în cancer - descoperă protocoale cercetate medical care te ajută să abordezi natural bunăstarea în fiecare etapă a vieții. Fiecare condiție include metode de aplicare, note de siguranță și recomandări de experți.",
                     "highlight": "Nu mai ghici. Începe să vindeci cu încredere."
                 },
                 "section2": {
                     "title": "Cunoștințe de Experți la Îndemână",
-                    "description": "Accesează profiluri detaliate pentru 140+ uleiuri esențiale. Învață despre beneficiile terapeutice, considerentele de siguranță și metodele de aplicare. Fie că ești începător sau entuziast experimentat, găsește tot ce ai nevoie pentru a folosi uleiurile în siguranță și eficient.",
+                    "description": "Accesează profiluri detaliate pentru 150+ uleiuri esențiale. Învață despre beneficiile terapeutice, considerentele de siguranță și metodele de aplicare. Fie că ești începător sau entuziast experimentat, găsește tot ce ai nevoie pentru a folosi uleiurile în siguranță și eficient.",
                     "highlight": "Enciclopedia ta de aromaterapie din buzunar."
                 },
                 "section3": {
@@ -1250,7 +1255,7 @@
                 },
                 "q3": {
                     "question": "Cum aleg uleiul esențial potrivit pentru nevoile mele?",
-                    "answer": "Aplicația noastră face ușor! Caută printre 400+ condiții de sănătate pentru a găsi uleiuri recomandate, sau răsfoiește baza noastră de date de 140+ uleiuri esențiale după beneficiile lor. Fiecare profil de ulei include proprietăți terapeutice, considerente de siguranță și utilizări recomandate. Începe cu uleiuri populare ca lavanda pentru relaxare sau mentă pentru energie."
+                    "answer": "Aplicația noastră face ușor! Caută printre 650+ condiții de sănătate pentru a găsi uleiuri recomandate, sau răsfoiește baza noastră de date de 150+ uleiuri esențiale după beneficiile lor. Fiecare profil de ulei include proprietăți terapeutice, considerente de siguranță și utilizări recomandate. Începe cu uleiuri populare ca lavanda pentru relaxare sau mentă pentru energie."
                 },
                 "q4": {
                     "question": "Care este diferența dintre uleiurile pure și sintetice?",
@@ -1258,11 +1263,11 @@
                 },
                 "q5": {
                     "question": "Pot folosi uleiuri esențiale în timpul sarcinii?",
-                    "answer": "Unele uleiuri esențiale trebuie evitate în timpul sarcinii, mai ales în primul trimestru. Opțiunile sigure includ de obicei lavanda, mușețelul și ylang-ylang când sunt diluate corect. Consultă întotdeauna medicul tău înainte de a folosi uleiuri esențiale în timpul sarcinii. Aplicația noastră include note de siguranță pentru fiecare ulei privind sarcina și alăptarea."
+                    "answer": "Unele uleiuri esențiale trebuie evitate în timpul sarcinii, mai ales în primul trimestru. Opțiunile sigure includ de obicei lavanda, mușețelul și ylang-ylang când sunt diluate corect. Consultă întotdeauna medicul tău înainte de a folosi uleiuri esențiale în timpul sarcinii. Aplicația noastră include acum o secțiune Sarcină dedicată, cu note de siguranță pe trimestre, recomandări de dozaj și uleiuri de evitat."
                 },
                 "q6": {
                     "question": "Cum să-mi păstrez uleiurile esențiale?",
-                    "answer": "Păstrează uleiurile esențiale în sticle de sticlă închis (chihlimbar sau albastru cobalt) departe de lumina directă a soarelui și căldură. Ține-le într-un loc răcoros și uscat cu capace bine închise. Majoritatea uleiurilor țin 2-5 ani când sunt păstrate corect, deși uleiurile citrice au o durată de viață mai scurtă de 1-2 ani. Aplicația noastră include o funcție de urmărire pentru a monitoriza inventarul tău de uleiuri."
+                    "answer": "Păstrează uleiurile esențiale în sticle de sticlă închisă (chihlimbar sau albastru cobalt) departe de lumina directă a soarelui și căldură. Ține-le într-un loc răcoros și uscat cu capace bine închise. Majoritatea uleiurilor țin 2-5 ani când sunt păstrate corect, deși uleiurile citrice au o durată de viață mai scurtă de 1-2 ani. Aplicația noastră include o funcție de urmărire pentru a monitoriza inventarul tău de uleiuri."
                 },
                 "q7": {
                     "question": "Ce este un ulei purtător și de ce am nevoie de unul?",
@@ -1270,11 +1275,11 @@
                 },
                 "q8": {
                     "question": "Pot copiii folosi uleiurile esențiale în siguranță?",
-                    "answer": "Da, dar cu precauție suplimentară. Pielea copiilor este mai sensibilă, așa că folosește întotdeauna rapoarte de diluare mai mari (1 picătură per lingură de ulei purtător pentru vârste de 2+ ani). Unele uleiuri ca eucaliptul și menta trebuie evitate pentru copiii mici. Aplicația noastră oferă ghiduri de siguranță specifice pe vârstă pentru fiecare ulei esențial."
+                    "answer": "Da, dar cu precauție suplimentară. Pielea copiilor este mai sensibilă, așa că folosește întotdeauna rapoarte de diluare mai mari (1 picătură per lingură de ulei purtător pentru vârste de 2+ ani). Unele uleiuri ca eucaliptul și menta trebuie evitate pentru copiii mici. Aplicația noastră include acum o secțiune Copii dedicată, cu recomandări de dozaj pe vârstă și ghiduri de siguranță pentru fiecare ulei esențial."
                 },
                 "q9": {
                     "question": "Câte picături de ulei esențial să folosesc?",
-                    "answer": "Depinde de utilizare: Pentru difuzare, folosește 3-5 picături per 100ml de ap. Pentru aplicare topic, folosește o diluare de 1-3% (3-6 picături per linguriță de ulei purtător pentru adulți). Pentru băi, folosește 5-10 picături amestecate cu un dispersant ca săruri Epsom. Aplicația noastră oferă recomandări specifice pentru fiecare metodă de aplicare."
+                    "answer": "Depinde de utilizare: Pentru difuzare, folosește 3-5 picături per 100ml de apă. Pentru aplicare topic, folosește o diluare de 1-3% (3-6 picături per linguriță de ulei purtător pentru adulți). Pentru băi, folosește 5-10 picături amestecate cu un dispersant ca săruri Epsom. Aplicația noastră oferă recomandări specifice pentru fiecare metodă de aplicare."
                 },
                 "q10": {
                     "question": "Care sunt cele mai bune uleiuri esențiale pentru începători?",
@@ -1294,11 +1299,11 @@
                 },
                 "q14": {
                     "question": "Recomandările voastre se bazează pe cercetare științifică?",
-                    "answer": "Baza noastră de date include informații din cercetare revizuită de experți, utilizare tradițională și practici de aromaterapie certificate. Deși uleiurile esențiale oferă suport de bunăstare, conținutul nostru este doar informativ și nu este destinat să diagnosticheze, trateze sau vindece nicio condiție. Consultă întotdeauna profesioniști medicale pentru îngrijorări medicale."
+                    "answer": "Baza noastră de date include informații din cercetare revizuită de experți, utilizare tradițională și practici de aromaterapie certificate. Deși uleiurile esențiale oferă suport de bunăstare, conținutul nostru este doar informativ și nu este destinat să diagnosticheze, trateze sau vindece nicio condiție. Consultă întotdeauna profesioniști medicali pentru îngrijorări medicale."
                 },
                 "q15": {
                     "question": "Cum mă poate ajuta aplicația Uleiuri Esențiale?",
-                    "answer": "Aplicația noastră este companionul tău complet de bunăstare! Accesează 400+ condiții de sănătate cu uleiuri recomandate, explorează 140+ profiluri de uleiuri esențiale, descoperă 100+ amestecuri pentru difuzor, urmărește inventarul tău, primește sfaturi de bunăstare zilnice și salvează rețetele tale favorite. Descarcă gratuit pe iOS și Android pentru a începe călătoria ta de bunăstare naturală astăzi."
+                    "answer": "Aplicația noastră este companionul tău complet de bunăstare! Accesează 650+ condiții de sănătate cu uleiuri recomandate, explorează 150+ profiluri de uleiuri esențiale, descoperă 100+ amestecuri pentru difuzor, beneficiază de ghiduri de siguranță dedicate pentru sarcină, copii și suportul în cancer, urmărește inventarul tău, primește sfaturi de bunăstare zilnice și salvează rețetele tale favorite. Descarcă gratuit pe iOS și Android pentru a începe călătoria ta de bunăstare naturală astăzi."
                 }
             },
             "testimonials": {
@@ -1307,7 +1312,7 @@
             },
             "download": {
                 "title": "Începe Călătoria Ta de Bunăstare Astăzi",
-                "subtitle": "Descarcă acum și obține acces instant la 400+ condiții de sănătate, 140+ uleiuri și ghidare de experți",
+                "subtitle": "Descarcă acum și obține acces instant la 650+ condiții de sănătate, 150+ uleiuri și secțiuni dedicate Sarcină, Copii și Cancer",
                 "button": "Descarcă Gratuit pe App Store",
                 "buttonMobile": "Descarcă Gratuit<br>pe App Store",
                 "appStoreAlt": "Descarcă pe App Store",
@@ -1345,7 +1350,8 @@
                 "copyright": "© Copyright Ghid Uleiuri Esențiale & Rețete",
                 "designBy": "Design de styleshout",
                 "disclaimer1": "Doar în scop informativ. Nu este destinat pentru diagnostic, tratament, vindecare sau prevenire medicală. Declarații neevaluate de Food and Drug Administration.",
-                "disclaimer2": "Dezvoltat independent de Appostu SRL. Această aplicație conține conținut original și nu este afiliată sau susținută de doTERRA. doTERRA este o marcă înregistrată a doTERRA Holdings, LLC."
+                "disclaimer2": "Dezvoltat independent de Appostu SRL. Această aplicație conține conținut original și nu este afiliată sau susținută de doTERRA®. doTERRA™ este o marcă înregistrată a doTERRA Holdings, LLC.",
+                "backToTop": "Înapoi sus"
             },
             "language": {
                 "current": "Română"

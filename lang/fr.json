@@ -1,11 +1,11 @@
 {
     "meta": {
         "title": "Guide des Huiles Essentielles & Recettes - Votre Compagnon Complet pour le Bien-être Naturel",
-        "description": "Découvrez plus de 400 conditions de santé, 140 huiles essentielles et 100 mélanges pour diffuseur. Votre guide complet pour le bien-être naturel avec des protocoles d'experts et un suivi intelligent. Téléchargez maintenant !",
+        "description": "Découvrez 650+ conditions de santé, 150+ huiles essentielles et 100+ mélanges pour diffuseur — désormais avec des sections dédiées Grossesse, Enfants et Cancer. Votre guide complet pour le bien-être naturel avec des protocoles d'experts et un suivi intelligent. Téléchargez maintenant !",
         "ogTitle": "Guide des Huiles Essentielles & Recettes - Votre Compagnon Complet pour le Bien-être Naturel",
-        "ogDescription": "Plus de 400 conditions de santé · 140 huiles · 100 mélanges. L'application d'aromathérapie ultime pour le bien-être naturel. Téléchargement gratuit !",
+        "ogDescription": "650+ conditions de santé · 150+ huiles · 100+ mélanges · nouveau : sections Grossesse, Enfants et Cancer. L'application d'aromathérapie ultime pour le bien-être naturel. Téléchargement gratuit !",
         "twitterTitle": "Application Guide des Huiles Essentielles & Recettes",
-        "twitterDescription": "Plus de 400 conditions de santé · 140 huiles · 100 mélanges. Votre compagnon complet pour le bien-être naturel."
+        "twitterDescription": "650+ conditions de santé · 150+ huiles · 100+ mélanges · nouveau : sections Grossesse, Enfants et Cancer. Votre compagnon complet pour le bien-être naturel."
     },
     "nav": {
         "home": "Accueil",
@@ -18,7 +18,7 @@
     },
     "hero": {
         "headline": "Votre Guide Complet pour le Bien-être Naturel",
-        "subheadline": "Découvrez plus de 400 conditions de santé, 140 huiles essentielles et des mélanges d'experts - le tout dans une application magnifiquement conçue. Transformez votre voyage vers le bien-être dès aujourd'hui.",
+        "subheadline": "Découvrez 650+ conditions de santé, 150+ huiles essentielles et des sections dédiées Grossesse, Enfants et Cancer - le tout dans une application magnifiquement conçue. Transformez votre voyage vers le bien-être dès aujourd'hui.",
         "downloadAppStore": "Télécharger Gratuitement sur l'App Store",
         "downloadAppStoreMobile": "Télécharger Gratuitement<br>sur l'App Store",
         "subscribeTips": "S'abonner aux Conseils Bien-être",
@@ -26,13 +26,13 @@
     },
     "benefits": {
         "section1": {
-            "title": "Trouvez des Solutions Naturelles pour Plus de 400 Conditions de Santé",
-            "description": "Du rhume et de l'insomnie à l'anxiété et aux problèmes digestifs, découvrez des protocoles recherchés médicalement qui vous aident à aborder naturellement les préoccupations quotidiennes de bien-être. Chaque condition comprend des méthodes d'application, des notes de sécurité et des recommandations d'experts.",
+            "title": "Trouvez des Solutions Naturelles pour 650+ Conditions de Santé",
+            "description": "Du rhume et de l'insomnie à l'anxiété et aux problèmes digestifs - avec désormais des guides de sécurité dédiés à la grossesse, aux jeunes enfants et au cancer - découvrez des protocoles recherchés médicalement qui vous aident à aborder naturellement le bien-être à chaque étape de la vie. Chaque condition comprend des méthodes d'application, des notes de sécurité et des recommandations d'experts.",
             "highlight": "Arrêtez de deviner. Commencez à guérir en toute confiance."
         },
         "section2": {
             "title": "Une Expertise à Portée de Main",
-            "description": "Accédez à des profils détaillés de plus de 140 huiles essentielles. Découvrez les bienfaits thérapeutiques, les considérations de sécurité et les méthodes d'application. Que vous soyez débutant ou passionné expérimenté, trouvez tout ce dont vous avez besoin pour utiliser les huiles en toute sécurité et efficacité.",
+            "description": "Accédez à des profils détaillés de 150+ huiles essentielles. Découvrez les bienfaits thérapeutiques, les considérations de sécurité et les méthodes d'application. Que vous soyez débutant ou passionné expérimenté, trouvez tout ce dont vous avez besoin pour utiliser les huiles en toute sécurité et efficacité.",
             "highlight": "Votre encyclopédie d'aromathérapie de poche."
         },
         "section3": {
@@ -117,7 +117,7 @@
             },
             {
                 "question": "Comment choisir la bonne huile essentielle pour mes besoins ?",
-                "answer": "Notre application facilite la tâche ! Recherchez parmi plus de 400 conditions de santé pour trouver les huiles recommandées, ou parcourez notre base de données de plus de 140 huiles essentielles par leurs bienfaits. Chaque profil d'huile comprend les propriétés thérapeutiques, les considérations de sécurité et les utilisations recommandées. Commencez avec des huiles populaires comme la lavande pour la relaxation ou la menthe poivrée pour l'énergie."
+                "answer": "Notre application facilite la tâche ! Recherchez parmi 650+ conditions de santé pour trouver les huiles recommandées, ou parcourez notre base de données de 150+ huiles essentielles par leurs bienfaits. Chaque profil d'huile comprend les propriétés thérapeutiques, les considérations de sécurité et les utilisations recommandées. Commencez avec des huiles populaires comme la lavande pour la relaxation ou la menthe poivrée pour l'énergie."
             },
             {
                 "question": "Quelle est la différence entre les huiles pures et synthétiques ?",
@@ -125,7 +125,7 @@
             },
             {
                 "question": "Puis-je utiliser des huiles essentielles pendant la grossesse ?",
-                "answer": "Certaines huiles essentielles doivent être évitées pendant la grossesse, surtout au premier trimestre. Les options sûres incluent typiquement la lavande, la camomille et l'ylang-ylang lorsqu'elles sont correctement diluées. Consultez toujours votre professionnel de santé avant d'utiliser des huiles essentielles pendant la grossesse. Notre application inclut des notes de sécurité pour chaque huile concernant la grossesse et l'allaitement."
+                "answer": "Certaines huiles essentielles doivent être évitées pendant la grossesse, surtout au premier trimestre. Les options sûres incluent typiquement la lavande, la camomille et l'ylang-ylang lorsqu'elles sont correctement diluées. Consultez toujours votre professionnel de santé avant d'utiliser des huiles essentielles pendant la grossesse. Notre application propose désormais une section Grossesse dédiée avec des notes de sécurité par trimestre, des conseils de dosage et les huiles à éviter."
             },
             {
                 "question": "Comment dois-je conserver mes huiles essentielles ?",
@@ -137,7 +137,7 @@
             },
             {
                 "question": "Les enfants peuvent-ils utiliser les huiles essentielles en toute sécurité ?",
-                "answer": "Oui, mais avec une prudence supplémentaire. La peau des enfants est plus sensible, donc utilisez toujours des ratios de dilution plus élevés (1 goutte par cuillère à soupe d'huile de support pour les 2 ans et plus). Certaines huiles comme l'eucalyptus et la menthe poivrée doivent être évitées pour les jeunes enfants. Notre application fournit des directives de sécurité spécifiques à l'âge pour chaque huile essentielle."
+                "answer": "Oui, mais avec une prudence supplémentaire. La peau des enfants est plus sensible, donc utilisez toujours des ratios de dilution plus élevés (1 goutte par cuillère à soupe d'huile de support pour les 2 ans et plus). Certaines huiles comme l'eucalyptus et la menthe poivrée doivent être évitées pour les jeunes enfants. Notre application propose désormais une section Enfants dédiée avec des conseils de dosage par âge et des consignes de sécurité pour chaque huile essentielle."
             },
             {
                 "question": "Combien de gouttes d'huile essentielle dois-je utiliser ?",
@@ -165,7 +165,7 @@
             },
             {
                 "question": "Comment l'application Huiles Essentielles peut-elle m'aider ?",
-                "answer": "Notre application est votre compagnon de bien-être complet ! Accédez à plus de 400 conditions de santé avec les huiles recommandées, explorez plus de 140 profils d'huiles essentielles, découvrez plus de 100 mélanges pour diffuseur, suivez votre inventaire, recevez des conseils de bien-être quotidiens et sauvegardez vos recettes favorites. Téléchargez gratuitement sur iOS et Android pour commencer votre voyage de bien-être naturel aujourd'hui."
+                "answer": "Notre application est votre compagnon de bien-être complet ! Accédez à 650+ conditions de santé avec les huiles recommandées, explorez 150+ profils d'huiles essentielles, découvrez 100+ mélanges pour diffuseur, profitez de guides de sécurité dédiés à la grossesse, aux enfants et au cancer, suivez votre inventaire, recevez des conseils de bien-être quotidiens et sauvegardez vos recettes favorites. Téléchargez gratuitement sur iOS et Android pour commencer votre voyage de bien-être naturel aujourd'hui."
             }
         ]
     },
@@ -189,7 +189,7 @@
                 "handle": "@emilyoils"
             },
             {
-                "text": "Les plus de 400 conditions de santé et protocoles sont un changeur de jeu. Je peux maintenant trouver des solutions naturelles pour les problèmes courants avec des conseils médicalement recherchés. Parfait pour mes besoins quotidiens de bien-être !",
+                "text": "Les 650+ conditions de santé et protocoles sont un changeur de jeu. Je peux maintenant trouver des solutions naturelles pour les problèmes courants avec des conseils médicalement recherchés. Parfait pour mes besoins quotidiens de bien-être !",
                 "author": "Anna Rivera",
                 "handle": "@annanaturalhealth"
             }
@@ -197,7 +197,7 @@
     },
     "download": {
         "title": "Commencez Votre Voyage Bien-être Aujourd'hui",
-        "subtitle": "Téléchargez maintenant et accédez instantanément à plus de 400 conditions de santé, 140 huiles et des conseils d'experts",
+        "subtitle": "Téléchargez maintenant et accédez instantanément à 650+ conditions de santé, 150+ huiles et des sections dédiées Grossesse, Enfants et Cancer",
         "button": "Télécharger Gratuitement sur l'App Store",
         "buttonMobile": "Télécharger Gratuitement<br>sur l'App Store",
         "appStoreAlt": "Télécharger sur l'App Store",
@@ -251,6 +251,6 @@
         "fr": "Français",
         "it": "Italiano",
         "es": "Español",
-        "ro": "RomânÄ"
+        "ro": "Română"
     }
 }

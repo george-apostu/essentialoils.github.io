@@ -1,11 +1,11 @@
 {
     "meta": {
         "title": "Guía de Aceites Esenciales y Recetas - Tu Compañero Completo para el Bienestar Natural",
-        "description": "Descubre más de 400 condiciones de salud, 140 aceites esenciales y 100 mezclas para difusor. Tu guía completa para el bienestar natural con protocolos expertos y seguimiento inteligente. ¡Descarga ahora!",
+        "description": "Descubre 650+ condiciones de salud, 150+ aceites esenciales y 100+ mezclas para difusor — ahora con secciones dedicadas Embarazo, Niños y Cáncer. Tu guía completa para el bienestar natural con protocolos expertos y seguimiento inteligente. ¡Descarga ahora!",
         "ogTitle": "Guía de Aceites Esenciales y Recetas - Tu Compañero Completo para el Bienestar Natural",
-        "ogDescription": "Más de 400 condiciones de salud · 140 aceites · 100 mezclas. La aplicación de aromaterapia definitiva para el bienestar natural. ¡Descarga gratis!",
+        "ogDescription": "650+ condiciones de salud · 150+ aceites · 100+ mezclas · nuevo: secciones Embarazo, Niños y Cáncer. La aplicación de aromaterapia definitiva para el bienestar natural. ¡Descarga gratis!",
         "twitterTitle": "App Guía de Aceites Esenciales y Recetas",
-        "twitterDescription": "Más de 400 condiciones de salud · 140 aceites · 100 mezclas. Tu compañero completo para el bienestar natural."
+        "twitterDescription": "650+ condiciones de salud · 150+ aceites · 100+ mezclas · nuevo: secciones Embarazo, Niños y Cáncer. Tu compañero completo para el bienestar natural."
     },
     "nav": {
         "home": "Inicio",
@@ -18,7 +18,7 @@
     },
     "hero": {
         "headline": "Tu Guía Completa para el Bienestar Natural",
-        "subheadline": "Descubre más de 400 condiciones de salud, 140 aceites esenciales y mezclas de expertos - todo en una aplicación hermosamente diseñada. Transforma tu camino hacia el bienestar hoy.",
+        "subheadline": "Descubre 650+ condiciones de salud, 150+ aceites esenciales y secciones dedicadas Embarazo, Niños y Cáncer - todo en una aplicación hermosamente diseñada. Transforma tu camino hacia el bienestar hoy.",
         "downloadAppStore": "Descargar Gratis en App Store",
         "downloadAppStoreMobile": "Descargar Gratis<br>en App Store",
         "subscribeTips": "Suscribirse para Consejos de Bienestar",
@@ -26,13 +26,13 @@
     },
     "benefits": {
         "section1": {
-            "title": "Encuentra Soluciones Naturales para Más de 400 Condiciones de Salud",
-            "description": "Desde resfriados e insomnio hasta ansiedad y problemas digestivos, descubre protocolos investigados médicamente que te ayudan a abordar naturalmente las preocupaciones diarias de bienestar. Cada condición incluye métodos de aplicación, notas de seguridad y recomendaciones de expertos.",
+            "title": "Encuentra Soluciones Naturales para 650+ Condiciones de Salud",
+            "description": "Desde resfriados e insomnio hasta ansiedad y problemas digestivos - ahora con guías de seguridad dedicadas para el embarazo, los niños pequeños y el acompañamiento oncológico - descubre protocolos investigados médicamente que te ayudan a abordar el bienestar de forma natural en cada etapa de la vida. Cada condición incluye métodos de aplicación, notas de seguridad y recomendaciones de expertos.",
             "highlight": "Deja de adivinar. Comienza a sanar con confianza."
         },
         "section2": {
             "title": "Conocimiento Experto al Alcance de tu Mano",
-            "description": "Accede a perfiles detallados de más de 140 aceites esenciales. Aprende sobre beneficios terapéuticos, consideraciones de seguridad y métodos de aplicación. Ya seas principiante o entusiasta experimentado, encuentra todo lo que necesitas para usar aceites de forma segura y efectiva.",
+            "description": "Accede a perfiles detallados de 150+ aceites esenciales. Aprende sobre beneficios terapéuticos, consideraciones de seguridad y métodos de aplicación. Ya seas principiante o entusiasta experimentado, encuentra todo lo que necesitas para usar aceites de forma segura y efectiva.",
             "highlight": "Tu enciclopedia de aromaterapia de bolsillo."
         },
         "section3": {
@@ -117,7 +117,7 @@
             },
             {
                 "question": "¿Cómo elijo el aceite esencial correcto para mis necesidades?",
-                "answer": "¡Nuestra aplicación lo hace fácil! Busca entre más de 400 condiciones de salud para encontrar aceites recomendados, o explora nuestra base de datos de más de 140 aceites esenciales por sus beneficios. Cada perfil de aceite incluye propiedades terapéuticas, consideraciones de seguridad y usos recomendados. Comienza con aceites populares como lavanda para relajación o menta para energía."
+                "answer": "¡Nuestra aplicación lo hace fácil! Busca entre 650+ condiciones de salud para encontrar aceites recomendados, o explora nuestra base de datos de 150+ aceites esenciales por sus beneficios. Cada perfil de aceite incluye propiedades terapéuticas, consideraciones de seguridad y usos recomendados. Comienza con aceites populares como lavanda para relajación o menta para energía."
             },
             {
                 "question": "¿Cuál es la diferencia entre aceites puros y sintéticos?",
@@ -125,7 +125,7 @@
             },
             {
                 "question": "¿Puedo usar aceites esenciales durante el embarazo?",
-                "answer": "Algunos aceites esenciales deben evitarse durante el embarazo, especialmente en el primer trimestre. Las opciones seguras típicamente incluyen lavanda, manzanilla e ylang-ylang cuando se diluyen correctamente. Siempre consulta a tu proveedor de salud antes de usar aceites esenciales durante el embarazo. Nuestra aplicación incluye notas de seguridad para cada aceite respecto al embarazo y lactancia."
+                "answer": "Algunos aceites esenciales deben evitarse durante el embarazo, especialmente en el primer trimestre. Las opciones seguras típicamente incluyen lavanda, manzanilla e ylang-ylang cuando se diluyen correctamente. Siempre consulta a tu proveedor de salud antes de usar aceites esenciales durante el embarazo. Nuestra aplicación ahora incluye una sección de Embarazo dedicada con notas de seguridad por trimestre, orientación de dosificación y aceites a evitar."
             },
             {
                 "question": "¿Cómo debo almacenar mis aceites esenciales?",
@@ -137,7 +137,7 @@
             },
             {
                 "question": "¿Pueden los niños usar aceites esenciales de forma segura?",
-                "answer": "Sí, pero con precaución extra. La piel de los niños es más sensible, así que siempre usa proporciones de dilución más altas (1 gota por cucharada de aceite portador para mayores de 2 años). Algunos aceites como eucalipto y menta deben evitarse para niños pequeños. Nuestra aplicación proporciona directrices de seguridad específicas por edad para cada aceite esencial."
+                "answer": "Sí, pero con precaución extra. La piel de los niños es más sensible, así que siempre usa proporciones de dilución más altas (1 gota por cucharada de aceite portador para mayores de 2 años). Algunos aceites como eucalipto y menta deben evitarse para niños pequeños. Nuestra aplicación ahora incluye una sección de Niños dedicada con orientación de dosificación por edad y pautas de seguridad para cada aceite esencial."
             },
             {
                 "question": "¿Cuántas gotas de aceite esencial debo usar?",
@@ -165,7 +165,7 @@
             },
             {
                 "question": "¿Cómo puede ayudarme la aplicación de Aceites Esenciales?",
-                "answer": "¡Nuestra aplicación es tu compañero completo de bienestar! Accede a más de 400 condiciones de salud con aceites recomendados, explora más de 140 perfiles de aceites esenciales, descubre más de 100 mezclas para difusor, rastrea tu inventario, recibe consejos de bienestar diarios y guarda tus recetas favoritas. Descarga gratis en iOS y Android para comenzar tu camino de bienestar natural hoy."
+                "answer": "¡Nuestra aplicación es tu compañero completo de bienestar! Accede a 650+ condiciones de salud con aceites recomendados, explora 150+ perfiles de aceites esenciales, descubre 100+ mezclas para difusor, aprovecha guías de seguridad dedicadas para embarazo, niños y acompañamiento oncológico, rastrea tu inventario, recibe consejos de bienestar diarios y guarda tus recetas favoritas. Descarga gratis en iOS y Android para comenzar tu camino de bienestar natural hoy."
             }
         ]
     },
@@ -189,7 +189,7 @@
                 "handle": "@emilyoils"
             },
             {
-                "text": "Las más de 400 condiciones de salud y protocolos son un cambio de juego. Ahora puedo encontrar soluciones naturales para problemas comunes con orientación investigada médicamente. ¡Perfecto para mis necesidades diarias de bienestar!",
+                "text": "Las 650+ condiciones de salud y protocolos son un cambio de juego. Ahora puedo encontrar soluciones naturales para problemas comunes con orientación investigada médicamente. ¡Perfecto para mis necesidades diarias de bienestar!",
                 "author": "Anna Rivera",
                 "handle": "@annanaturalhealth"
             }
@@ -197,7 +197,7 @@
     },
     "download": {
         "title": "Comienza tu Camino de Bienestar Hoy",
-        "subtitle": "Descarga ahora y obtén acceso instantáneo a más de 400 condiciones de salud, 140 aceites y orientación experta",
+        "subtitle": "Descarga ahora y obtén acceso instantáneo a 650+ condiciones de salud, 150+ aceites y secciones dedicadas Embarazo, Niños y Cáncer",
         "button": "Descargar Gratis en App Store",
         "buttonMobile": "Descargar Gratis<br>en App Store",
         "appStoreAlt": "Descargar en App Store",
@@ -251,6 +251,6 @@
         "fr": "Français",
         "it": "Italiano",
         "es": "Español",
-        "ro": "RomânÄ"
+        "ro": "Română"
     }
 }

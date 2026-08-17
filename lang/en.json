@@ -1,11 +1,11 @@
 {
     "meta": {
         "title": "Essential Oils Guide & Recipes – Your Complete Natural Wellness Companion",
-        "description": "Discover 400+ health conditions, 140+ essential oils, and 100+ diffuser blends. Your complete guide to natural wellness with expert protocols and smart tracking. Download now!",
+        "description": "Discover 650+ health conditions, 150+ essential oils, and 100+ diffuser blends — now with dedicated Pregnancy, Kids & Cancer Support guides. Your complete guide to natural wellness with expert protocols and smart tracking. Download now!",
         "ogTitle": "Essential Oils Guide & Recipes – Your Complete Natural Wellness Companion",
-        "ogDescription": "400+ health conditions • 140+ oils • 100+ blends. The ultimate aromatherapy app for natural wellness. Download free today!",
+        "ogDescription": "650+ health conditions • 150+ oils • 100+ blends • new Pregnancy, Kids & Cancer Support guides. The ultimate aromatherapy app for natural wellness. Download free today!",
         "twitterTitle": "Essential Oils Guide & Recipes App",
-        "twitterDescription": "400+ health conditions • 140+ oils • 100+ blends. Your complete natural wellness companion."
+        "twitterDescription": "650+ health conditions • 150+ oils • 100+ blends • new Pregnancy, Kids & Cancer Support guides. Your complete natural wellness companion."
     },
     "nav": {
         "home": "Home",
@@ -18,7 +18,7 @@
     },
     "hero": {
         "headline": "Your Complete Guide to Natural Wellness",
-        "subheadline": "Discover 400+ health conditions, 140+ essential oils, and expert blends — all in one beautifully designed app. Transform your wellness journey today.",
+        "subheadline": "Discover 650+ health conditions, 150+ essential oils, and dedicated Pregnancy, Kids & Cancer Support guides — all in one beautifully designed app. Transform your wellness journey today.",
         "downloadAppStore": "Download Free on App Store",
         "downloadAppStoreMobile": "Download Free<br>on App Store",
         "subscribeTips": "Subscribe for Wellness Tips",
@@ -26,13 +26,13 @@
     },
     "benefits": {
         "section1": {
-            "title": "Find Natural Solutions for 400+ Health Conditions",
-            "description": "From colds and insomnia to anxiety and digestive issues, discover medically researched protocols that help you address everyday wellness concerns naturally. Each condition includes application methods, safety notes, and expert recommendations.",
+            "title": "Find Natural Solutions for 650+ Health Conditions",
+            "description": "From colds and insomnia to anxiety and digestive issues — plus dedicated safety guides for pregnancy, young children, and cancer care — discover medically researched protocols that help you address wellness concerns naturally at every life stage. Each condition includes application methods, safety notes, and expert recommendations.",
             "highlight": "Stop guessing. Start healing with confidence."
         },
         "section2": {
             "title": "Expert Knowledge at Your Fingertips",
-            "description": "Access in-depth profiles for 140+ essential oils. Learn therapeutic benefits, safety considerations, and application methods. Whether you're a beginner or experienced enthusiast, find everything you need to use oils safely and effectively.",
+            "description": "Access in-depth profiles for 150+ essential oils. Learn therapeutic benefits, safety considerations, and application methods. Whether you're a beginner or experienced enthusiast, find everything you need to use oils safely and effectively.",
             "highlight": "Your pocket aromatherapy encyclopedia."
         },
         "section3": {
@@ -117,7 +117,7 @@
             },
             {
                 "question": "How do I choose the right essential oil for my needs?",
-                "answer": "Our app makes it easy! Search from 400+ health conditions to find recommended oils, or browse our database of 140+ essential oils by their benefits. Each oil profile includes therapeutic properties, safety considerations, and recommended uses. Start with popular oils like lavender for relaxation or peppermint for energy."
+                "answer": "Our app makes it easy! Search from 650+ health conditions to find recommended oils, or browse our database of 150+ essential oils by their benefits. Each oil profile includes therapeutic properties, safety considerations, and recommended uses. Start with popular oils like lavender for relaxation or peppermint for energy."
             },
             {
                 "question": "What is the difference between pure and synthetic oils?",
@@ -125,7 +125,7 @@
             },
             {
                 "question": "Can I use essential oils during pregnancy?",
-                "answer": "Some essential oils should be avoided during pregnancy, especially in the first trimester. Safe options typically include lavender, chamomile, and ylang-ylang when properly diluted. Always consult your healthcare provider before using essential oils during pregnancy. Our app includes safety notes for each oil regarding pregnancy and nursing."
+                "answer": "Some essential oils should be avoided during pregnancy, especially in the first trimester. Safe options typically include lavender, chamomile, and ylang-ylang when properly diluted. Always consult your healthcare provider before using essential oils during pregnancy. Our app now includes a dedicated Pregnancy Support section with trimester-specific safety notes, dosage guidance, and oils to avoid."
             },
             {
                 "question": "How should I store my essential oils?",
@@ -137,7 +137,7 @@
             },
             {
                 "question": "Can children use essential oils safely?",
-                "answer": "Yes, but with extra caution. Children's skin is more sensitive, so always use higher dilution ratios (1 drop per tablespoon of carrier oil for ages 2+). Some oils like eucalyptus and peppermint should be avoided for young children. Our app provides age-specific safety guidelines for each essential oil."
+                "answer": "Yes, but with extra caution. Children's skin is more sensitive, so always use higher dilution ratios (1 drop per tablespoon of carrier oil for ages 2+). Some oils like eucalyptus and peppermint should be avoided for young children. Our app now includes a dedicated Kids Support section with age-specific dosage guidance and safety guidelines for each essential oil."
             },
             {
                 "question": "How many drops of essential oil should I use?",
@@ -165,7 +165,7 @@
             },
             {
                 "question": "How can the Essential Oils app help me?",
-                "answer": "Our app is your complete wellness companion! Access 400+ health conditions with recommended oils, explore 140+ essential oil profiles, discover 100+ diffuser blends, track your inventory, receive daily wellness tips, and save your favorite recipes. Download free on iOS and Android to start your natural wellness journey today."
+                "answer": "Our app is your complete wellness companion! Access 650+ health conditions with recommended oils, explore 150+ essential oil profiles, discover 100+ diffuser blends, get dedicated safety guidance for pregnancy, kids, and cancer care, track your inventory, receive daily wellness tips, and save your favorite recipes. Download free on iOS and Android to start your natural wellness journey today."
             }
         ]
     },
@@ -189,7 +189,7 @@
                 "handle": "@emilyoils"
             },
             {
-                "text": "The 400+ health conditions and protocols feature is a game-changer. I can now find natural solutions for common issues with medically researched guidance. Perfect for my daily wellness needs!",
+                "text": "The 650+ health conditions and protocols feature is a game-changer. I can now find natural solutions for common issues with medically researched guidance. Perfect for my daily wellness needs!",
                 "author": "Anna Rivera",
                 "handle": "@annanaturalhealth"
             }
@@ -197,7 +197,7 @@
     },
     "download": {
         "title": "Start Your Wellness Journey Today",
-        "subtitle": "Download now and get instant access to 400+ health conditions, 140+ oils, and expert guidance",
+        "subtitle": "Download now and get instant access to 650+ health conditions, 150+ oils, and dedicated Pregnancy, Kids & Cancer Support guides",
         "button": "Download Free on App Store",
         "buttonMobile": "Download Free<br>on App Store",
         "appStoreAlt": "Download on App Store",

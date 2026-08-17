@@ -1,11 +1,11 @@
 {
     "meta": {
         "title": "Ätherische Öle Guide & Rezepte - Ihr vollständiger Begleiter für natürliches Wohlbefinden",
-        "description": "Entdecken Sie 400+ Gesundheitszustände, 140+ ätherische Öle und 100+ Diffuser-Mischungen. Ihr vollständiger Leitfaden für natürliches Wohlbefinden mit Expertenprotokollen und intelligenter Nachverfolgung. Jetzt herunterladen!",
+        "description": "Entdecken Sie 650+ Gesundheitszustände, 150+ ätherische Öle und 100+ Diffuser-Mischungen – jetzt mit eigenen Bereichen für Schwangerschaft, Kinder & Krebs. Ihr vollständiger Leitfaden für natürliches Wohlbefinden mit Expertenprotokollen und intelligenter Nachverfolgung. Jetzt herunterladen!",
         "ogTitle": "Ätherische Öle Guide & Rezepte - Ihr vollständiger Begleiter für natürliches Wohlbefinden",
-        "ogDescription": "400+ Gesundheitszustände · 140+ Öle · 100+ Mischungen. Die ultimative Aromatherapie-App für natürliches Wohlbefinden. Kostenlos herunterladen!",
+        "ogDescription": "650+ Gesundheitszustände · 150+ Öle · 100+ Mischungen · neu: Bereiche für Schwangerschaft, Kinder & Krebs. Die ultimative Aromatherapie-App für natürliches Wohlbefinden. Kostenlos herunterladen!",
         "twitterTitle": "Ätherische Öle Guide & Rezepte App",
-        "twitterDescription": "400+ Gesundheitszustände · 140+ Öle · 100+ Mischungen. Ihr vollständiger Begleiter für natürliches Wohlbefinden."
+        "twitterDescription": "650+ Gesundheitszustände · 150+ Öle · 100+ Mischungen · neu: Bereiche für Schwangerschaft, Kinder & Krebs. Ihr vollständiger Begleiter für natürliches Wohlbefinden."
     },
     "nav": {
         "home": "Start",
@@ -18,7 +18,7 @@
     },
     "hero": {
         "headline": "Ihr vollständiger Leitfaden für natürliches Wohlbefinden",
-        "subheadline": "Entdecken Sie 400+ Gesundheitszustände, 140+ ätherische Öle und Expertenmischungen - alles in einer wunderschön gestalteten App. Verwandeln Sie Ihre Wellness-Reise noch heute.",
+        "subheadline": "Entdecken Sie 650+ Gesundheitszustände, 150+ ätherische Öle und eigene Bereiche für Schwangerschaft, Kinder & Krebs - alles in einer wunderschön gestalteten App. Verwandeln Sie Ihre Wellness-Reise noch heute.",
         "downloadAppStore": "Kostenlos im App Store herunterladen",
         "downloadAppStoreMobile": "Kostenlos im<br>App Store herunterladen",
         "subscribeTips": "Für Wellness-Tipps abonnieren",
@@ -26,13 +26,13 @@
     },
     "benefits": {
         "section1": {
-            "title": "Finden Sie natürliche Lösungen für 400+ Gesundheitszustände",
-            "description": "Von Erkältungen und Schlaflosigkeit bis hin zu Angst und Verdauungsproblemen - entdecken Sie medizinisch recherchierte Protokolle, die Ihnen helfen, alltägliche Wellness-Bedenken natürlich zu behandeln. Jeder Zustand enthält Anwendungsmethoden, Sicherheitshinweise und Expertenempfehlungen.",
+            "title": "Finden Sie natürliche Lösungen für 650+ Gesundheitszustände",
+            "description": "Von Erkältungen und Schlaflosigkeit bis hin zu Angst und Verdauungsproblemen - plus eigene Sicherheits-Guides für Schwangerschaft, kleine Kinder und die Krebsbegleitung - entdecken Sie medizinisch recherchierte Protokolle, die Ihnen helfen, Wellness-Anliegen in jeder Lebensphase natürlich zu behandeln. Jeder Zustand enthält Anwendungsmethoden, Sicherheitshinweise und Expertenempfehlungen.",
             "highlight": "Hören Sie auf zu raten. Beginnen Sie mit Zuversicht zu heilen."
         },
         "section2": {
             "title": "Expertenwissen auf einen Blick",
-            "description": "Greifen Sie auf detaillierte Profile von 140+ ätherischen Ölen zu. Erfahren Sie mehr über therapeutische Vorteile, Sicherheitsüberlegungen und Anwendungsmethoden. Ob Anfänger oder erfahrener Enthusiast - finden Sie alles, was Sie brauchen, um Öle sicher und effektiv zu nutzen.",
+            "description": "Greifen Sie auf detaillierte Profile von 150+ ätherischen Ölen zu. Erfahren Sie mehr über therapeutische Vorteile, Sicherheitsüberlegungen und Anwendungsmethoden. Ob Anfänger oder erfahrener Enthusiast - finden Sie alles, was Sie brauchen, um Öle sicher und effektiv zu nutzen.",
             "highlight": "Ihre Taschen-Aromatherapie-Enzyklopädie."
         },
         "section3": {
@@ -117,7 +117,7 @@
             },
             {
                 "question": "Wie wähle ich das richtige ätherische Öl für meine Bedürfnisse?",
-                "answer": "Unsere App macht es einfach! Suchen Sie in 400+ Gesundheitszuständen, um empfohlene Öle zu finden, oder durchsuchen Sie unsere Datenbank von 140+ ätherischen Ölen nach ihren Vorteilen. Jedes Ölprofil enthält therapeutische Eigenschaften, Sicherheitsüberlegungen und empfohlene Anwendungen. Beginnen Sie mit beliebten Ölen wie Lavendel zur Entspannung oder Pfefferminze für Energie."
+                "answer": "Unsere App macht es einfach! Suchen Sie in 650+ Gesundheitszuständen, um empfohlene Öle zu finden, oder durchsuchen Sie unsere Datenbank von 150+ ätherischen Ölen nach ihren Vorteilen. Jedes Ölprofil enthält therapeutische Eigenschaften, Sicherheitsüberlegungen und empfohlene Anwendungen. Beginnen Sie mit beliebten Ölen wie Lavendel zur Entspannung oder Pfefferminze für Energie."
             },
             {
                 "question": "Was ist der Unterschied zwischen reinen und synthetischen Ölen?",
@@ -125,7 +125,7 @@
             },
             {
                 "question": "Kann ich ätherische Öle während der Schwangerschaft verwenden?",
-                "answer": "Einige ätherische Öle sollten während der Schwangerschaft vermieden werden, besonders im ersten Trimester. Sichere Optionen umfassen typischerweise Lavendel, Kamille und Ylang-Ylang bei richtiger Verdünnung. Konsultieren Sie immer Ihren Arzt, bevor Sie ätherische Öle während der Schwangerschaft verwenden. Unsere App enthält Sicherheitshinweise für jedes Öl bezüglich Schwangerschaft und Stillzeit."
+                "answer": "Einige ätherische Öle sollten während der Schwangerschaft vermieden werden, besonders im ersten Trimester. Sichere Optionen umfassen typischerweise Lavendel, Kamille und Ylang-Ylang bei richtiger Verdünnung. Konsultieren Sie immer Ihren Arzt, bevor Sie ätherische Öle während der Schwangerschaft verwenden. Unsere App bietet jetzt einen eigenen Schwangerschafts-Bereich mit trimesterspezifischen Sicherheitshinweisen, Dosierungsempfehlungen und zu vermeidenden Ölen."
             },
             {
                 "question": "Wie sollte ich meine ätherischen Öle lagern?",
@@ -137,7 +137,7 @@
             },
             {
                 "question": "Können Kinder ätherische Öle sicher verwenden?",
-                "answer": "Ja, aber mit extra Vorsicht. Kinderhaut ist empfindlicher, also verwenden Sie immer höhere Verdünnungsverhältnisse (1 Tropfen pro Esslöffel Trägeröl für Kinder ab 2 Jahren). Einige Öle wie Eukalyptus und Pfefferminze sollten für junge Kinder vermieden werden. Unsere App bietet altersspezifische Sicherheitsrichtlinien für jedes ätherische Öl."
+                "answer": "Ja, aber mit extra Vorsicht. Kinderhaut ist empfindlicher, also verwenden Sie immer höhere Verdünnungsverhältnisse (1 Tropfen pro Esslöffel Trägeröl für Kinder ab 2 Jahren). Einige Öle wie Eukalyptus und Pfefferminze sollten für junge Kinder vermieden werden. Unsere App bietet jetzt einen eigenen Kinder-Bereich mit altersspezifischen Dosierungsempfehlungen und Sicherheitsrichtlinien für jedes ätherische Öl."
             },
             {
                 "question": "Wie viele Tropfen ätherisches Öl sollte ich verwenden?",
@@ -165,7 +165,7 @@
             },
             {
                 "question": "Wie kann die Ätherische Öle App mir helfen?",
-                "answer": "Unsere App ist Ihr vollständiger Wellness-Begleiter! Greifen Sie auf 400+ Gesundheitszustände mit empfohlenen Ölen zu, erkunden Sie 140+ Profile ätherischer Öle, entdecken Sie 100+ Diffuser-Mischungen, verfolgen Sie Ihr Inventar, erhalten Sie tägliche Wellness-Tipps und speichern Sie Ihre Lieblingsrezepte. Laden Sie kostenlos auf iOS und Android herunter, um Ihre natürliche Wellness-Reise heute zu beginnen."
+                "answer": "Unsere App ist Ihr vollständiger Wellness-Begleiter! Greifen Sie auf 650+ Gesundheitszustände mit empfohlenen Ölen zu, erkunden Sie 150+ Profile ätherischer Öle, entdecken Sie 100+ Diffuser-Mischungen, nutzen Sie eigene Sicherheits-Guides für Schwangerschaft, Kinder und Krebsbegleitung, verfolgen Sie Ihr Inventar, erhalten Sie tägliche Wellness-Tipps und speichern Sie Ihre Lieblingsrezepte. Laden Sie kostenlos auf iOS und Android herunter, um Ihre natürliche Wellness-Reise heute zu beginnen."
             }
         ]
     },
@@ -189,7 +189,7 @@
                 "handle": "@emilyoils"
             },
             {
-                "text": "Die 400+ Gesundheitszustände und Protokolle sind ein Game-Changer. Ich kann jetzt natürliche Lösungen für häufige Probleme mit medizinisch recherchierter Anleitung finden. Perfekt für meine täglichen Wellness-Bedürfnisse!",
+                "text": "Die 650+ Gesundheitszustände und Protokolle sind ein Game-Changer. Ich kann jetzt natürliche Lösungen für häufige Probleme mit medizinisch recherchierter Anleitung finden. Perfekt für meine täglichen Wellness-Bedürfnisse!",
                 "author": "Anna Rivera",
                 "handle": "@annanaturalhealth"
             }
@@ -197,7 +197,7 @@
     },
     "download": {
         "title": "Beginnen Sie Ihre Wellness-Reise noch heute",
-        "subtitle": "Jetzt herunterladen und sofortigen Zugang zu 400+ Gesundheitszuständen, 140+ Ölen und Expertenberatung erhalten",
+        "subtitle": "Jetzt herunterladen und sofortigen Zugang zu 650+ Gesundheitszuständen, 150+ Ölen und eigenen Guides für Schwangerschaft, Kinder & Krebs erhalten",
         "button": "Kostenlos im App Store herunterladen",
         "buttonMobile": "Kostenlos<br>im App Store herunterladen",
         "appStoreAlt": "Im App Store herunterladen",
@@ -251,6 +251,6 @@
         "fr": "Français",
         "it": "Italiano",
         "es": "Español",
-        "ro": "RomânÄ"
+        "ro": "Română"
     }
 }

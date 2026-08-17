@@ -1,11 +1,11 @@
 {
     "meta": {
         "title": "Guida agli Oli Essenziali e Ricette - Il Tuo Compagno Completo per il Benessere Naturale",
-        "description": "Scopri oltre 400 condizioni di salute, 140 oli essenziali e 100 miscele per diffusore. La tua guida completa per il benessere naturale con protocolli esperti e monitoraggio intelligente. Scarica ora!",
+        "description": "Scopri 650+ condizioni di salute, 150+ oli essenziali e 100+ miscele per diffusore — ora con sezioni dedicate Gravidanza, Bambini e Cancro. La tua guida completa per il benessere naturale con protocolli esperti e monitoraggio intelligente. Scarica ora!",
         "ogTitle": "Guida agli Oli Essenziali e Ricette - Il Tuo Compagno Completo per il Benessere Naturale",
-        "ogDescription": "Oltre 400 condizioni di salute · 140 oli · 100 miscele. L'app di aromaterapia definitiva per il benessere naturale. Scarica gratis!",
+        "ogDescription": "650+ condizioni di salute · 150+ oli · 100+ miscele · novità: sezioni Gravidanza, Bambini e Cancro. L'app di aromaterapia definitiva per il benessere naturale. Scarica gratis!",
         "twitterTitle": "App Guida Oli Essenziali e Ricette",
-        "twitterDescription": "Oltre 400 condizioni di salute · 140 oli · 100 miscele. Il tuo compagno completo per il benessere naturale."
+        "twitterDescription": "650+ condizioni di salute · 150+ oli · 100+ miscele · novità: sezioni Gravidanza, Bambini e Cancro. Il tuo compagno completo per il benessere naturale."
     },
     "nav": {
         "home": "Home",
@@ -18,7 +18,7 @@
     },
     "hero": {
         "headline": "La Tua Guida Completa al Benessere Naturale",
-        "subheadline": "Scopri oltre 400 condizioni di salute, 140 oli essenziali e miscele esperte - tutto in un'app splendidamente progettata. Trasforma il tuo percorso di benessere oggi.",
+        "subheadline": "Scopri 650+ condizioni di salute, 150+ oli essenziali e sezioni dedicate Gravidanza, Bambini e Cancro - tutto in un'app splendidamente progettata. Trasforma il tuo percorso di benessere oggi.",
         "downloadAppStore": "Scarica Gratis sull'App Store",
         "downloadAppStoreMobile": "Scarica Gratis<br>sull'App Store",
         "subscribeTips": "Iscriviti per Consigli Benessere",
@@ -26,13 +26,13 @@
     },
     "benefits": {
         "section1": {
-            "title": "Trova Soluzioni Naturali per Oltre 400 Condizioni di Salute",
-            "description": "Da raffreddori e insonnia ad ansia e problemi digestivi, scopri protocolli ricercati medicalmente che ti aiutano ad affrontare naturalmente le preoccupazioni quotidiane di benessere. Ogni condizione include metodi di applicazione, note di sicurezza e raccomandazioni esperte.",
+            "title": "Trova Soluzioni Naturali per 650+ Condizioni di Salute",
+            "description": "Da raffreddori e insonnia ad ansia e problemi digestivi - ora con guide di sicurezza dedicate a gravidanza, bambini piccoli e percorso oncologico - scopri protocolli ricercati medicalmente che ti aiutano ad affrontare naturalmente il benessere in ogni fase della vita. Ogni condizione include metodi di applicazione, note di sicurezza e raccomandazioni esperte.",
             "highlight": "Smetti di indovinare. Inizia a guarire con fiducia."
         },
         "section2": {
             "title": "Conoscenze Esperte a Portata di Mano",
-            "description": "Accedi a profili dettagliati di oltre 140 oli essenziali. Scopri i benefici terapeutici, le considerazioni sulla sicurezza e i metodi di applicazione. Che tu sia un principiante o un appassionato esperto, trova tutto ciò di cui hai bisogno per usare gli oli in modo sicuro ed efficace.",
+            "description": "Accedi a profili dettagliati di 150+ oli essenziali. Scopri i benefici terapeutici, le considerazioni sulla sicurezza e i metodi di applicazione. Che tu sia un principiante o un appassionato esperto, trova tutto ciò di cui hai bisogno per usare gli oli in modo sicuro ed efficace.",
             "highlight": "La tua enciclopedia tascabile di aromaterapia."
         },
         "section3": {
@@ -117,7 +117,7 @@
             },
             {
                 "question": "Come scelgo l'olio essenziale giusto per le mie esigenze?",
-                "answer": "La nostra app rende tutto facile! Cerca tra oltre 400 condizioni di salute per trovare gli oli raccomandati, o sfoglia il nostro database di oltre 140 oli essenziali per i loro benefici. Ogni profilo di olio include proprietà terapeutiche, considerazioni sulla sicurezza e usi raccomandati. Inizia con oli popolari come lavanda per il rilassamento o menta piperita per l'energia."
+                "answer": "La nostra app rende tutto facile! Cerca tra 650+ condizioni di salute per trovare gli oli raccomandati, o sfoglia il nostro database di 150+ oli essenziali per i loro benefici. Ogni profilo di olio include proprietà terapeutiche, considerazioni sulla sicurezza e usi raccomandati. Inizia con oli popolari come lavanda per il rilassamento o menta piperita per l'energia."
             },
             {
                 "question": "Qual è la differenza tra oli puri e sintetici?",
@@ -125,7 +125,7 @@
             },
             {
                 "question": "Posso usare gli oli essenziali durante la gravidanza?",
-                "answer": "Alcuni oli essenziali dovrebbero essere evitati durante la gravidanza, specialmente nel primo trimestre. Le opzioni sicure tipicamente includono lavanda, camomilla e ylang-ylang quando correttamente diluiti. Consulta sempre il tuo operatore sanitario prima di usare oli essenziali durante la gravidanza. La nostra app include note sulla sicurezza per ogni olio riguardo gravidanza e allattamento."
+                "answer": "Alcuni oli essenziali dovrebbero essere evitati durante la gravidanza, specialmente nel primo trimestre. Le opzioni sicure tipicamente includono lavanda, camomilla e ylang-ylang quando correttamente diluiti. Consulta sempre il tuo operatore sanitario prima di usare oli essenziali durante la gravidanza. La nostra app include ora una sezione Gravidanza dedicata con note di sicurezza per trimestre, indicazioni sui dosaggi e oli da evitare."
             },
             {
                 "question": "Come dovrei conservare i miei oli essenziali?",
@@ -137,7 +137,7 @@
             },
             {
                 "question": "I bambini possono usare gli oli essenziali in sicurezza?",
-                "answer": "Sì, ma con cautela extra. La pelle dei bambini è più sensibile, quindi usa sempre rapporti di diluizione più alti (1 goccia per cucchiaio di olio vettore per età 2+). Alcuni oli come eucalipto e menta piperita dovrebbero essere evitati per i bambini piccoli. La nostra app fornisce linee guida sulla sicurezza specifiche per età per ogni olio essenziale."
+                "answer": "Sì, ma con cautela extra. La pelle dei bambini è più sensibile, quindi usa sempre rapporti di diluizione più alti (1 goccia per cucchiaio di olio vettore per età 2+). Alcuni oli come eucalipto e menta piperita dovrebbero essere evitati per i bambini piccoli. La nostra app include ora una sezione Bambini dedicata con indicazioni sui dosaggi per età e linee guida di sicurezza per ogni olio essenziale."
             },
             {
                 "question": "Quante gocce di olio essenziale dovrei usare?",
@@ -165,7 +165,7 @@
             },
             {
                 "question": "Come può aiutarmi l'app Oli Essenziali?",
-                "answer": "La nostra app è il tuo compagno completo di benessere! Accedi a oltre 400 condizioni di salute con oli raccomandati, esplora oltre 140 profili di oli essenziali, scopri oltre 100 miscele per diffusore, traccia il tuo inventario, ricevi consigli di benessere giornalieri e salva le tue ricette preferite. Scarica gratis su iOS e Android per iniziare il tuo percorso di benessere naturale oggi."
+                "answer": "La nostra app è il tuo compagno completo di benessere! Accedi a 650+ condizioni di salute con oli raccomandati, esplora 150+ profili di oli essenziali, scopri 100+ miscele per diffusore, usufruisci di guide di sicurezza dedicate a gravidanza, bambini e percorso oncologico, traccia il tuo inventario, ricevi consigli di benessere giornalieri e salva le tue ricette preferite. Scarica gratis su iOS e Android per iniziare il tuo percorso di benessere naturale oggi."
             }
         ]
     },
@@ -189,7 +189,7 @@
                 "handle": "@emilyoils"
             },
             {
-                "text": "Le oltre 400 condizioni di salute e i protocolli sono un game-changer. Ora posso trovare soluzioni naturali per problemi comuni con guida ricercata medicalmente. Perfetto per le mie esigenze quotidiane di benessere!",
+                "text": "Le 650+ condizioni di salute e i protocolli sono un game-changer. Ora posso trovare soluzioni naturali per problemi comuni con guida ricercata medicalmente. Perfetto per le mie esigenze quotidiane di benessere!",
                 "author": "Anna Rivera",
                 "handle": "@annanaturalhealth"
             }
@@ -197,7 +197,7 @@
     },
     "download": {
         "title": "Inizia il Tuo Percorso Benessere Oggi",
-        "subtitle": "Scarica ora e ottieni accesso immediato a oltre 400 condizioni di salute, 140 oli e guida esperta",
+        "subtitle": "Scarica ora e ottieni accesso immediato a 650+ condizioni di salute, 150+ oli e sezioni dedicate Gravidanza, Bambini e Cancro",
         "button": "Scarica Gratis sull'App Store",
         "buttonMobile": "Scarica Gratis<br>sull'App Store",
         "appStoreAlt": "Scarica sull'App Store",
@@ -251,6 +251,6 @@
         "fr": "Français",
         "it": "Italiano",
         "es": "Español",
-        "ro": "RomânÄ"
+        "ro": "Română"
     }
 }
