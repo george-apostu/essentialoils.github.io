@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.appostu.essentialoils",
+      "sha256_cert_fingerprints": [
+        "47:1F:46:2D:CF:D7:03:48:85:55:7F:3B:A2:F9:89:37:49:65:7C:05:50:51:4C:39:6D:BC:49:9B:49:1E:EB:40"
+      ]
+    }
+  }
+]
