@@ -1,11 +1,11 @@
 {
     "meta": {
         "title": "Ghid Uleiuri Esențiale & Rețete - Companionul Tău Complet pentru Bunăstarea Naturală",
-        "description": "Descoperă 650+ condiții de sănătate, 150+ uleiuri esențiale și 100+ amestecuri pentru difuzor — acum cu secțiuni dedicate Sarcină, Copii și Cancer. Ghidul tău complet pentru bunăstarea naturală cu protocoale de experți și urmărire inteligentă. Descarcă acum!",
+        "description": "Descoperă 650+ condiții de sănătate, 150+ uleiuri esențiale și 590+ amestecuri pentru difuzor — acum cu secțiuni dedicate Sarcină, Copii și Cancer. Ghidul tău complet pentru bunăstarea naturală cu protocoale de experți și urmărire inteligentă. Descarcă acum!",
         "ogTitle": "Ghid Uleiuri Esențiale & Rețete - Companionul Tău Complet pentru Bunăstarea Naturală",
-        "ogDescription": "650+ condiții de sănătate • 150+ uleiuri • 100+ amestecuri • nou: secțiuni Sarcină, Copii și Cancer. Aplicația definitivă de aromaterapie pentru bunăstarea naturală. Descarcă gratuit!",
+        "ogDescription": "650+ condiții de sănătate • 150+ uleiuri • 590+ amestecuri • nou: secțiuni Sarcină, Copii și Cancer. Aplicația definitivă de aromaterapie pentru bunăstarea naturală. Descarcă gratuit!",
         "twitterTitle": "Aplicație Ghid Uleiuri Esențiale & Rețete",
-        "twitterDescription": "650+ condiții de sănătate • 150+ uleiuri • 100+ amestecuri • nou: secțiuni Sarcină, Copii și Cancer. Companionul tău complet pentru bunăstarea naturală."
+        "twitterDescription": "650+ condiții de sănătate • 150+ uleiuri • 590+ amestecuri • nou: secțiuni Sarcină, Copii și Cancer. Companionul tău complet pentru bunăstarea naturală."
     },
     "nav": {
         "home": "Acasă",
@@ -30,6 +30,11 @@
             "description": "De la răceli și insomnie până la anxietate și probleme digestive - acum cu ghiduri de siguranță dedicate pentru sarcină, copii mici și suportul în cancer - descoperă protocoale cercetate medical care te ajută să abordezi natural bunăstarea în fiecare etapă a vieții. Fiecare condiție include metode de aplicare, note de siguranță și recomandări de experți.",
             "highlight": "Nu mai ghici. Începe să vindeci cu încredere."
         },
+        "kidsPregnancy": {
+            "title": "Ghiduri Blânde pentru Copii și Sarcină",
+            "description": "Secțiuni dedicate pentru bebeluși și copii, precum și pentru sarcină, travaliu și naștere - cu recomandări de diluare și dozaj în funcție de vârstă și trimestru. De la îngrijirea pielii și durerile de burtică până la nopțile agitate și greața matinală, fiecare protocol include note clare de siguranță despre ce să folosești, cum să diluezi și ce uleiuri să eviți.",
+            "highlight": "Siguranța pe primul loc, pentru familia ta în creștere."
+        },
         "section2": {
             "title": "Cunoștințe de Experți la Îndemână",
             "description": "Accesează profiluri detaliate pentru 150+ uleiuri esențiale. Învață despre beneficiile terapeutice, considerentele de siguranță și metodele de aplicare. Fie că ești începător sau entuziast experimentat, găsește tot ce ai nevoie pentru a folosi uleiurile în siguranță și eficient.",
@@ -37,12 +42,12 @@
         },
         "section3": {
             "title": "Nu Rămâne Niciodată Fără Favorite",
-            "description": "Urmărește colecția ta personală de uleiuri, primește sugestii inteligente pentru reaprovizionare și gestionează-ți inventarul fără efort. Aplicația învață tiparele tale de utilizare și îți amintește când e timpul să reaprovizionezi, astfel încât să fii mereu pregătit.",
+            "description": "Urmărește colecția ta personală de uleiuri și vezi instantaneu ce rețete pentru difuzor poți prepara cu uleiurile pe care le ai deja. Ține o listă de cumpărături cu istoricul achizițiilor și primește sugestii inteligente de reaprovizionare, ca să știi mereu ce să cumperi în continuare.",
             "highlight": "Bunăstare fără griji."
         },
         "section4": {
             "title": "Creează Atmosfere Perfecte",
-            "description": "Accesează 100+ amestecuri pentru difuzor create de experți pentru concentrare, calm, energie, somn și dispoziție. Salvează favoritele tale, creează amestecuri personalizate folosind inventarul tău și transformă orice spațiu cu puterea aromaterapiei.",
+            "description": "Accesează 590+ amestecuri pentru difuzor create de experți pentru concentrare, calm, energie, somn și dispoziție. Salvează favoritele tale, creează amestecuri personalizate folosind inventarul tău și transformă orice spațiu cu puterea aromaterapiei.",
             "highlight": "Amestecul potrivit pentru fiecare moment."
         },
         "section5": {
@@ -153,7 +158,7 @@
             },
             {
                 "question": "Pot amesteca diferite uleiuri esențiale împreună?",
-                "answer": "Absolut! Amestecarea uleiurilor poate crea efecte sinergice și arome personalizate. Aplicația noastră include 100+ amestecuri pentru difuzor create de experți și îți permite să creezi și salvezi propriile combinații. Începe cu amestecuri simple de 2-3 uleiuri și urmează ghidurile noastre de amestecare pentru rezultate echilibrate și eficiente."
+                "answer": "Absolut! Amestecarea uleiurilor poate crea efecte sinergice și arome personalizate. Aplicația noastră include 590+ amestecuri pentru difuzor create de experți și îți permite să creezi și salvezi propriile combinații. Începe cu amestecuri simple de 2-3 uleiuri și urmează ghidurile noastre de amestecare pentru rezultate echilibrate și eficiente."
             },
             {
                 "question": "Care este diferența dintre difuzare și aplicare topic?",
@@ -165,7 +170,7 @@
             },
             {
                 "question": "Cum mă poate ajuta aplicația Uleiuri Esențiale?",
-                "answer": "Aplicația noastră este companionul tău complet de bunăstare! Accesează 650+ condiții de sănătate cu uleiuri recomandate, explorează 150+ profiluri de uleiuri esențiale, descoperă 100+ amestecuri pentru difuzor, beneficiază de ghiduri de siguranță dedicate pentru sarcină, copii și suportul în cancer, urmărește inventarul tău, primește sfaturi de bunăstare zilnice și salvează rețetele tale favorite. Descarcă gratuit pe iOS și Android pentru a începe călătoria ta de bunăstare naturală astăzi."
+                "answer": "Aplicația noastră este companionul tău complet de bunăstare! Accesează 650+ condiții de sănătate cu uleiuri recomandate, explorează 150+ profiluri de uleiuri esențiale, descoperă 590+ amestecuri pentru difuzor, beneficiază de ghiduri de siguranță dedicate pentru sarcină, copii și suportul în cancer, urmărește inventarul tău, primește sfaturi de bunăstare zilnice și salvează rețetele tale favorite. Descarcă gratuit pe iOS și Android pentru a începe călătoria ta de bunăstare naturală astăzi."
             }
         ]
     },
