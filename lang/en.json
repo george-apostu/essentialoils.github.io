@@ -1,11 +1,11 @@
 {
     "meta": {
         "title": "Essential Oils Guide & Recipes – Your Complete Natural Wellness Companion",
-        "description": "Discover 650+ health conditions, 150+ essential oils, and 100+ diffuser blends — now with dedicated Pregnancy, Kids & Cancer Support guides. Your complete guide to natural wellness with expert protocols and smart tracking. Download now!",
+        "description": "Discover 650+ health conditions, 150+ essential oils, and 590+ diffuser blends — now with dedicated Pregnancy, Kids & Cancer Support guides. Your complete guide to natural wellness with expert protocols and smart tracking. Download now!",
         "ogTitle": "Essential Oils Guide & Recipes – Your Complete Natural Wellness Companion",
-        "ogDescription": "650+ health conditions • 150+ oils • 100+ blends • new Pregnancy, Kids & Cancer Support guides. The ultimate aromatherapy app for natural wellness. Download free today!",
+        "ogDescription": "650+ health conditions • 150+ oils • 590+ blends • new Pregnancy, Kids & Cancer Support guides. The ultimate aromatherapy app for natural wellness. Download free today!",
         "twitterTitle": "Essential Oils Guide & Recipes App",
-        "twitterDescription": "650+ health conditions • 150+ oils • 100+ blends • new Pregnancy, Kids & Cancer Support guides. Your complete natural wellness companion."
+        "twitterDescription": "650+ health conditions • 150+ oils • 590+ blends • new Pregnancy, Kids & Cancer Support guides. Your complete natural wellness companion."
     },
     "nav": {
         "home": "Home",
@@ -30,6 +30,11 @@
             "description": "From colds and insomnia to anxiety and digestive issues — plus dedicated safety guides for pregnancy, young children, and cancer care — discover medically researched protocols that help you address wellness concerns naturally at every life stage. Each condition includes application methods, safety notes, and expert recommendations.",
             "highlight": "Stop guessing. Start healing with confidence."
         },
+        "kidsPregnancy": {
+            "title": "Gentle Guides for Kids & Pregnancy",
+            "description": "Dedicated sections for infants and children, and for pregnancy, labor and childbirth — with dilution and dosing guidance by age and trimester. From skin care and tummy troubles to restless nights and morning sickness, every protocol includes clear safety notes on what to use, how to dilute, and which oils to avoid.",
+            "highlight": "Safety-first care for your growing family."
+        },
         "section2": {
             "title": "Expert Knowledge at Your Fingertips",
             "description": "Access in-depth profiles for 150+ essential oils. Learn therapeutic benefits, safety considerations, and application methods. Whether you're a beginner or experienced enthusiast, find everything you need to use oils safely and effectively.",
@@ -37,12 +42,12 @@
         },
         "section3": {
             "title": "Never Run Out of Your Favorites",
-            "description": "Track your personal oil collection, get smart restock suggestions, and manage your inventory effortlessly. The app learns your usage patterns and reminds you when it's time to replenish, so you're always prepared.",
+            "description": "Track your personal oil collection and instantly see which diffuser recipes you can make with the oils you already own. Keep a shopping list with purchase history and get smart restock suggestions, so you always know what to buy next.",
             "highlight": "Wellness without the worry."
         },
         "section4": {
             "title": "Create Perfect Atmospheres",
-            "description": "Access 100+ expert-crafted diffuser blends for focus, calm, energy, sleep, and mood. Save your favorites, create custom blends using your inventory, and transform any space with the power of aromatherapy.",
+            "description": "Access 590+ expert-crafted diffuser blends for focus, calm, energy, sleep, and mood. Save your favorites, create custom blends using your inventory, and transform any space with the power of aromatherapy.",
             "highlight": "The right blend for every moment."
         },
         "section5": {
@@ -153,7 +158,7 @@
             },
             {
                 "question": "Can I mix different essential oils together?",
-                "answer": "Absolutely! Blending oils can create synergistic effects and custom aromas. Our app includes 100+ expert-crafted diffuser blends and allows you to create and save your own combinations. Start with simple 2-3 oil blends and follow our blending guidelines for balanced, effective results."
+                "answer": "Absolutely! Blending oils can create synergistic effects and custom aromas. Our app includes 590+ expert-crafted diffuser blends and allows you to create and save your own combinations. Start with simple 2-3 oil blends and follow our blending guidelines for balanced, effective results."
             },
             {
                 "question": "What's the difference between diffusing and topical application?",
@@ -165,7 +170,7 @@
             },
             {
                 "question": "How can the Essential Oils app help me?",
-                "answer": "Our app is your complete wellness companion! Access 650+ health conditions with recommended oils, explore 150+ essential oil profiles, discover 100+ diffuser blends, get dedicated safety guidance for pregnancy, kids, and cancer care, track your inventory, receive daily wellness tips, and save your favorite recipes. Download free on iOS and Android to start your natural wellness journey today."
+                "answer": "Our app is your complete wellness companion! Access 650+ health conditions with recommended oils, explore 150+ essential oil profiles, discover 590+ diffuser blends, get dedicated safety guidance for pregnancy, kids, and cancer care, track your inventory, receive daily wellness tips, and save your favorite recipes. Download free on iOS and Android to start your natural wellness journey today."
             }
         ]
     },

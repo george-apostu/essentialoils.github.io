@@ -1,11 +1,11 @@
 {
     "meta": {
         "title": "Guida agli Oli Essenziali e Ricette - Il Tuo Compagno Completo per il Benessere Naturale",
-        "description": "Scopri 650+ condizioni di salute, 150+ oli essenziali e 100+ miscele per diffusore — ora con sezioni dedicate Gravidanza, Bambini e Cancro. La tua guida completa per il benessere naturale con protocolli esperti e monitoraggio intelligente. Scarica ora!",
+        "description": "Scopri 650+ condizioni di salute, 150+ oli essenziali e 590+ miscele per diffusore — ora con sezioni dedicate Gravidanza, Bambini e Cancro. La tua guida completa per il benessere naturale con protocolli esperti e monitoraggio intelligente. Scarica ora!",
         "ogTitle": "Guida agli Oli Essenziali e Ricette - Il Tuo Compagno Completo per il Benessere Naturale",
-        "ogDescription": "650+ condizioni di salute · 150+ oli · 100+ miscele · novità: sezioni Gravidanza, Bambini e Cancro. L'app di aromaterapia definitiva per il benessere naturale. Scarica gratis!",
+        "ogDescription": "650+ condizioni di salute · 150+ oli · 590+ miscele · novità: sezioni Gravidanza, Bambini e Cancro. L'app di aromaterapia definitiva per il benessere naturale. Scarica gratis!",
         "twitterTitle": "App Guida Oli Essenziali e Ricette",
-        "twitterDescription": "650+ condizioni di salute · 150+ oli · 100+ miscele · novità: sezioni Gravidanza, Bambini e Cancro. Il tuo compagno completo per il benessere naturale."
+        "twitterDescription": "650+ condizioni di salute · 150+ oli · 590+ miscele · novità: sezioni Gravidanza, Bambini e Cancro. Il tuo compagno completo per il benessere naturale."
     },
     "nav": {
         "home": "Home",
@@ -30,19 +30,24 @@
             "description": "Da raffreddori e insonnia ad ansia e problemi digestivi - ora con guide di sicurezza dedicate a gravidanza, bambini piccoli e percorso oncologico - scopri protocolli ricercati medicalmente che ti aiutano ad affrontare naturalmente il benessere in ogni fase della vita. Ogni condizione include metodi di applicazione, note di sicurezza e raccomandazioni esperte.",
             "highlight": "Smetti di indovinare. Inizia a guarire con fiducia."
         },
+        "kidsPregnancy": {
+            "title": "Guide Delicate per Bambini e Gravidanza",
+            "description": "Sezioni dedicate a neonati e bambini, e a gravidanza, travaglio e parto - con indicazioni su diluizione e dosaggio in base all'età e al trimestre. Dalla cura della pelle e dal mal di pancia alle notti agitate e alla nausea mattutina, ogni protocollo include note di sicurezza chiare su cosa usare, come diluire e quali oli evitare.",
+            "highlight": "Sicurezza prima di tutto, per la tua famiglia che cresce."
+        },
         "section2": {
             "title": "Conoscenze Esperte a Portata di Mano",
             "description": "Accedi a profili dettagliati di 150+ oli essenziali. Scopri i benefici terapeutici, le considerazioni sulla sicurezza e i metodi di applicazione. Che tu sia un principiante o un appassionato esperto, trova tutto ciò di cui hai bisogno per usare gli oli in modo sicuro ed efficace.",
             "highlight": "La tua enciclopedia tascabile di aromaterapia."
         },
         "section3": {
-            "title": "Non Rimarrere Mai Senza i Tuoi Preferiti",
-            "description": "Tieni traccia della tua collezione personale di oli, ricevi suggerimenti intelligenti per il rifornimento e gestisci il tuo inventario senza sforzo. L'app impara i tuoi modelli di utilizzo e ti ricorda quando è il momento di rifornirti, così sei sempre preparato.",
+            "title": "Non Rimanere Mai Senza i Tuoi Preferiti",
+            "description": "Tieni traccia della tua collezione personale di oli e scopri subito quali ricette per diffusore puoi preparare con gli oli che hai già. Gestisci una lista della spesa con lo storico degli acquisti e ricevi suggerimenti intelligenti per il rifornimento, così saprai sempre cosa comprare dopo.",
             "highlight": "Benessere senza preoccupazioni."
         },
         "section4": {
             "title": "Crea Atmosfere Perfette",
-            "description": "Accedi a oltre 100 miscele per diffusore create da esperti per concentrazione, calma, energia, sonno e umore. Salva i tuoi preferiti, crea miscele personalizzate usando il tuo inventario e trasforma qualsiasi spazio con il potere dell'aromaterapia.",
+            "description": "Accedi a oltre 590 miscele per diffusore create da esperti per concentrazione, calma, energia, sonno e umore. Salva i tuoi preferiti, crea miscele personalizzate usando il tuo inventario e trasforma qualsiasi spazio con il potere dell'aromaterapia.",
             "highlight": "La miscela giusta per ogni momento."
         },
         "section5": {
@@ -153,7 +158,7 @@
             },
             {
                 "question": "Posso mescolare diversi oli essenziali insieme?",
-                "answer": "Assolutamente! Mescolare oli può creare effetti sinergici e aromi personalizzati. La nostra app include oltre 100 miscele per diffusore create da esperti e ti permette di creare e salvare le tue combinazioni. Inizia con semplici miscele di 2-3 oli e segui le nostre linee guida per risultati equilibrati ed efficaci."
+                "answer": "Assolutamente! Mescolare oli può creare effetti sinergici e aromi personalizzati. La nostra app include oltre 590 miscele per diffusore create da esperti e ti permette di creare e salvare le tue combinazioni. Inizia con semplici miscele di 2-3 oli e segui le nostre linee guida per risultati equilibrati ed efficaci."
             },
             {
                 "question": "Qual è la differenza tra diffusione e applicazione topica?",
@@ -165,7 +170,7 @@
             },
             {
                 "question": "Come può aiutarmi l'app Oli Essenziali?",
-                "answer": "La nostra app è il tuo compagno completo di benessere! Accedi a 650+ condizioni di salute con oli raccomandati, esplora 150+ profili di oli essenziali, scopri 100+ miscele per diffusore, usufruisci di guide di sicurezza dedicate a gravidanza, bambini e percorso oncologico, traccia il tuo inventario, ricevi consigli di benessere giornalieri e salva le tue ricette preferite. Scarica gratis su iOS e Android per iniziare il tuo percorso di benessere naturale oggi."
+                "answer": "La nostra app è il tuo compagno completo di benessere! Accedi a 650+ condizioni di salute con oli raccomandati, esplora 150+ profili di oli essenziali, scopri 590+ miscele per diffusore, usufruisci di guide di sicurezza dedicate a gravidanza, bambini e percorso oncologico, traccia il tuo inventario, ricevi consigli di benessere giornalieri e salva le tue ricette preferite. Scarica gratis su iOS e Android per iniziare il tuo percorso di benessere naturale oggi."
             }
         ]
     },
