@@ -28,7 +28,7 @@ Rationale: Replace placeholder images with actual screenshots and update caption
 
 Update download section links
 
-Rationale: Change placeholder links (#0) to the actual App Store URL (https://apps.apple.com/us/app/essential-oils-guide-doterra/id6744415870) and add Google Play link if available, enabling direct downloads and improving conversion rates.
+Rationale: Change placeholder links (#0) to the actual App Store URL (https://apps.apple.com/us/app/essential-oils-guide-recipes/id6744415870) and add Google Play link if available, enabling direct downloads and improving conversion rates.
 
 Medium Priority Tasks
 Enhance user engagement
@@ -50,6 +50,6 @@ Rationale: Verify the updated site works across devices and browsers to maintain
 
 Final review for branding alignment
 
-Rationale: Conduct a comprehensive check to ensure all content, images, and links reflect the app's doTERRA® reference focus, wellness branding, and independent development by Appostu SRL.
+Rationale: Conduct a comprehensive check to ensure all content, images, and links reflect the app's essential-oil reference focus, wellness branding, and independent development by Appostu SRL.
 
 This roadmap prioritizes content accuracy and visual authenticity first, followed by engagement improvements and technical optimizations. Each step builds on the previous to create a cohesive, up-to-date website that effectively promotes the app's features.

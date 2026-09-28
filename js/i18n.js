@@ -255,7 +255,7 @@
                 "copyright": "© Copyright Essential Oils Guide & Recipes",
                 "designBy": "Design by styleshout",
                 "disclaimer1": "For informational purposes only. Not intended for medical diagnosis, treatment, cure, or prevention. Statements not evaluated by the Food and Drug Administration.",
-                "disclaimer2": "Independently developed by Appostu SRL. This app contains original content and is not affiliated with or endorsed by doTERRA®. doTERRA™ is a trademark of doTERRA Holdings, LLC.",
+                "disclaimer2": "Independently developed by Appostu SRL. This app contains original content and is not affiliated with, endorsed by, or sponsored by any essential oil company or brand.",
                 "backToTop": "Back to Top"
             },
             "language": {
@@ -480,7 +480,7 @@
                 "copyright": "© Copyright Ätherische Öle Guide & Rezepte",
                 "designBy": "Design von styleshout",
                 "disclaimer1": "Nur zu Informationszwecken. Nicht zur medizinischen Diagnose, Behandlung, Heilung oder Prävention gedacht. Aussagen nicht von der Food and Drug Administration bewertet.",
-                "disclaimer2": "Unabhängig entwickelt von Appostu SRL. Diese App enthält originelle Inhalte und ist nicht mit doTERRA® verbunden oder von doTERRA® unterstützt. doTERRA ist eine Marke der doTERRA Holdings, LLC.",
+                "disclaimer2": "Unabhängig entwickelt von Appostu SRL. Diese App enthält originelle Inhalte und ist nicht mit einem Hersteller oder einer Marke für ätherische Öle verbunden, von diesem unterstützt oder gesponsert.",
                 "backToTop": "Nach oben"
             },
             "language": {
@@ -705,7 +705,7 @@
                 "copyright": "© Copyright Guide des Huiles Essentielles & Recettes",
                 "designBy": "Design par styleshout",
                 "disclaimer1": "À titre informatif uniquement. Non destiné au diagnostic, traitement, guérison ou prévention médicale. Déclarations non évaluées par la Food and Drug Administration.",
-                "disclaimer2": "Développé indépendamment par Appostu SRL. Cette application contient du contenu original et n'est pas affiliée ou approuvée par doTERRA®. doTERRA est une marque de doTERRA Holdings, LLC.",
+                "disclaimer2": "Développé indépendamment par Appostu SRL. Cette application contient du contenu original et n'est pas affiliée, approuvée ou sponsorisée par une entreprise ou une marque d'huiles essentielles.",
                 "backToTop": "Retour en haut"
             },
             "language": {
@@ -930,7 +930,7 @@
                 "copyright": "© Copyright Guida Oli Essenziali e Ricette",
                 "designBy": "Design di styleshout",
                 "disclaimer1": "Solo a scopo informativo. Non inteso per diagnosi, trattamento, cura o prevenzione medica. Dichiarazioni non valutate dalla Food and Drug Administration.",
-                "disclaimer2": "Sviluppato indipendentemente da Appostu SRL. Questa app contiene contenuti originali e non è affiliata o approvata da doTERRA®. doTERRA è un marchio di doTERRA Holdings, LLC.",
+                "disclaimer2": "Sviluppato indipendentemente da Appostu SRL. Questa app contiene contenuti originali e non è affiliata, approvata o sponsorizzata da alcuna azienda o marchio di oli essenziali.",
                 "backToTop": "Torna su"
             },
             "language": {
@@ -1155,7 +1155,7 @@
                 "copyright": "© Copyright Guía de Aceites Esenciales y Recetas",
                 "designBy": "Diseño por styleshout",
                 "disclaimer1": "Solo para fines informativos. No está destinado para diagnóstico, tratamiento, cura o prevención médica. Declaraciones no evaluadas por la Food and Drug Administration.",
-                "disclaimer2": "Desarrollado independientemente por Appostu SRL. Esta aplicación contiene contenido original y no está afiliada ni respaldada por doTERRA®. doTERRA es una marca registrada de doTERRA Holdings, LLC.",
+                "disclaimer2": "Desarrollado independientemente por Appostu SRL. Esta aplicación contiene contenido original y no está afiliada, respaldada ni patrocinada por ninguna empresa o marca de aceites esenciales.",
                 "backToTop": "Volver arriba"
             },
             "language": {
@@ -1380,7 +1380,7 @@
                 "copyright": "© Copyright Ghid Uleiuri Esențiale & Rețete",
                 "designBy": "Design de styleshout",
                 "disclaimer1": "Doar în scop informativ. Nu este destinat pentru diagnostic, tratament, vindecare sau prevenire medicală. Declarații neevaluate de Food and Drug Administration.",
-                "disclaimer2": "Dezvoltat independent de Appostu SRL. Această aplicație conține conținut original și nu este afiliată sau susținută de doTERRA®. doTERRA™ este o marcă înregistrată a doTERRA Holdings, LLC.",
+                "disclaimer2": "Dezvoltat independent de Appostu SRL. Această aplicație conține conținut original și nu este afiliată, susținută sau sponsorizată de nicio companie sau marcă de uleiuri esențiale.",
                 "backToTop": "Înapoi sus"
             },
             "language": {

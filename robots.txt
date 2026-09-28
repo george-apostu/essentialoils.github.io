@@ -6,5 +6,4 @@ Allow: /
 
 User-agent: *
 Disallow: /get-app.html
-Disallow: /index-backup.html
 Allow: /
