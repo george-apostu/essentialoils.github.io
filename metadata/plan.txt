@@ -28,7 +28,7 @@ Rationale: Replace placeholder images with actual screenshots and update caption
 
 Update download section links
 
-Rationale: Change placeholder links (#0) to the actual App Store URL (https://apps.apple.com/us/app/essential-oils-guide-doterra/id6744415870) and add Google Play link if available, enabling direct downloads and improving conversion rates.
+Rationale: Change placeholder links (#0) to the actual App Store URL (https://apps.apple.com/us/app/essential-oils-guide-recipes/id6744415870) and add Google Play link if available, enabling direct downloads and improving conversion rates.
 
 Medium Priority Tasks
 Enhance user engagement
