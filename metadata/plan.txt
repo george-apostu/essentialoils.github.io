@@ -50,6 +50,6 @@ Rationale: Verify the updated site works across devices and browsers to maintain
 
 Final review for branding alignment
 
-Rationale: Conduct a comprehensive check to ensure all content, images, and links reflect the app's doTERRA® reference focus, wellness branding, and independent development by Appostu SRL.
+Rationale: Conduct a comprehensive check to ensure all content, images, and links reflect the app's essential-oil reference focus, wellness branding, and independent development by Appostu SRL.
 
 This roadmap prioritizes content accuracy and visual authenticity first, followed by engagement improvements and technical optimizations. Each step builds on the previous to create a cohesive, up-to-date website that effectively promotes the app's features.
